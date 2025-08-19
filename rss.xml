@@ -6,14 +6,14 @@
   <description>Seu Mestre Financeiro</description>
   
   <image>
-    <url>http://git.seumestrefinanceiro.com.br/SeuMestreFinanceiro-LogoRSS.png</url>
+    <url>https://git.seumestrefinanceiro.com.br/SeuMestreFinanceiro-LogoRSS.png</url>
     <title>Seu Mestre Financeiro</title>
     <link>https://www.seumestrefinanceiro.com.br</link>
     <width>88</width>
     <height>31</height>
   </image>
-  <language>pt</language>
-  <lastBuildDate>Tue, 19 Aug 2025 16:30:45 GMT</lastBuildDate>
+  <language>pt-BR</language>
+  <lastBuildDate>Tue, 19 Aug 2025 16:57:29 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
 
