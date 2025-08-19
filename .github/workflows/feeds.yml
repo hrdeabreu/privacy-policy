@@ -1,27 +1,35 @@
 name: Feeds (RSS + News)
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:        # permite rodar manualmente pela aba Actions
   schedule:
-    - cron: "0 * * * *"  # roda de hora em hora (UTC)
+    - cron: "0 * * * *"     # executa 1x por hora (UTC)
 
 permissions:
-  contents: write
+  contents: write           # necessário para commitar alterações no repositório
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-        with: { fetch-depth: 0 }
-
-      - uses: actions/setup-node@v4
+      # 1) Checkout do repositório
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          node-version: "20"
+          fetch-depth: 0    # bom para actions que usam histórico (ex.: generate-sitemap)
 
-      - name: Instalar deps (nenhuma necessária além do Node 20)
-        run: npm init -y
+      # 2) Node 20
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
+      # 3) Instalar dependências necessárias para o build-feeds.mjs (Opção A)
+      - name: Instalar deps (fast-xml-parser + cheerio)
+        run: npm install fast-xml-parser cheerio
+
+      # 4) Rodar seu gerador (usa o sitemap do WWW)
       - name: Rodar gerador (usa o sitemap do WWW)
         env:
           SOURCE_SITEMAP: https://www.seumestrefinanceiro.com.br/sitemap.xml
@@ -29,15 +37,17 @@ jobs:
           PUB_LANG: pt
         run: node build-feeds.mjs
 
-      - name: Gerar sitemap.xml do site do git (opcional)
-        uses: cicirello/generate-sitemap@v1
-        with:
-          base-url-path: https://git.seumestrefinanceiro.com.br/
+      # 5) (Opcional) Gerar sitemap.xml do próprio subdomínio git.seumestrefinanceiro.com.br
+      # - name: Gerar sitemap.xml do site do git (opcional)
+      #  uses: cicirello/generate-sitemap@v1
+      #  with:
+      #    base-url-path: https://git.seumestrefinanceiro.com.br/
 
+      # 6) Commit e push dos arquivos gerados/atualizados
       - name: Commit & push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
-          git add rss.xml sitemap-news.xml sitemap.xml || true
-          git commit -m "auto: atualizar rss e news sitemap" || echo "sem alterações"
+          git add rss.xml sitemap-news.xml sitemap.xml 2>/dev/null || true
+          git commit -m "auto: atualizar rss.xml / sitemap-news.xml / sitemap.xml" || echo "sem alterações"
           git push
