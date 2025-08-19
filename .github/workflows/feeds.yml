@@ -56,5 +56,6 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add -f rss.xml sitemap-news.xml
           [ -f sitemap.xml ] && git add -f sitemap.xml || true
-          git commit -m "auto: atualizar rss.xml / sitemap-news.xml / sitemap.xml" || echo "sem alterações"
+          [ -f image-sitemap.xml ] && git add -f image-sitemap.xml || true
+          git commit -m "auto: atualizar feeds (rss/news/image)" || echo "sem alterações"
           git push
