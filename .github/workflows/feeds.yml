@@ -1,9 +1,9 @@
 name: Feeds (RSS + News)
 
 on:
-  workflow_dispatch:              # permite rodar manualmente
+  workflow_dispatch:              # executar manualmente pela aba Actions
   schedule:
-    - cron: "0 * * * *"           # 1x por hora (UTC)
+    - cron: "0 * * * *"           # a cada hora (UTC)
 
 permissions:
   contents: write                 # necessário para commitar
@@ -13,61 +13,48 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1) Checkout do repositório no $GITHUB_WORKSPACE
+      # 1) Checkout do repositório
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0          # histórico completo (bom p/ generate-sitemap e lastmod)
-      # Docs do checkout: coloca o repo em $GITHUB_WORKSPACE
-      # https://github.com/actions/checkout
-      # https://docs.github.com/actions/reference/workflow-syntax-for-github-actions
-      # :contentReference[oaicite:3]{index=3}
+          fetch-depth: 0          # histórico completo (lastmod/sitemap action)
 
       # 2) Node 20
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-      # :contentReference[oaicite:4]{index=4}
 
-      # 3) Instalar deps necessárias sem alterar package.json
-      - name: Instalar deps (fast-xml-parser + cheerio) sem salvar
+      # 3) Instalar dependências (sem salvar no package.json)
+      - name: Instalar deps (fast-xml-parser + cheerio)
         run: npm install --no-save fast-xml-parser cheerio
 
       # 4) Rodar gerador (usa o sitemap do WWW)
       - name: Rodar gerador (usa o sitemap do WWW)
         env:
           SOURCE_SITEMAP: https://www.seumestrefinanceiro.com.br/sitemap.xml
-          PUBLICATION_NAME: Seu Mestre Financeiro
+          SITE_LINK: https://www.seumestrefinanceiro.com.br
+          PUBLICATION: Seu Mestre Financeiro
           PUB_LANG: pt
+          FEED_SELF_URL: https://git.seumestrefinanceiro.com.br/rss.xml
+          MAX_RSS_ITEMS: "50"
+          NEWS_WINDOW_MS: "172800000" # 48h
+          FETCH_TIMEOUT: "15000"
+          MAX_CONCURRENCY: "8"
         run: node build-feeds.mjs
 
-      # 5) Diagnóstico: ver se os XML estão sendo ignorados (opcional, mas útil)
-      - name: Diagnóstico de ignore (opcional)
-        run: |
-          echo "==== .gitignore (se existir) ===="
-          [ -f .gitignore ] && cat .gitignore || echo "(sem .gitignore)"
-          echo "==== check-ignore ===="
-          git check-ignore -v rss.xml sitemap-news.xml || true
-      # Docs .gitignore e comportamento de ignore/forçar add
-      # :contentReference[oaicite:5]{index=5}
-
-      # 6) (Opcional) Gerar sitemap.xml do subdomínio git.*
+      # 5) (Opcional) Gerar sitemap.xml do próprio subdomínio git.*
       # - name: Gerar sitemap.xml do site do git (opcional)
       #   uses: cicirello/generate-sitemap@v1
       #   with:
       #    base-url-path: https://git.seumestrefinanceiro.com.br/
-      # :contentReference[oaicite:6]{index=6}
 
-      # 7) Commit e push — força add dos XML para driblar .gitignore
+      # 6) Commit e push (força add dos XML mesmo que .gitignore ignore *.xml)
       - name: Commit & push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
-          # força adicionar os XML mesmo que .gitignore ignore *.xml
           git add -f rss.xml sitemap-news.xml
-          # adiciona o sitemap do git (se gerado)
           [ -f sitemap.xml ] && git add -f sitemap.xml || true
-          # NÃO adiciona package.json/package-lock.json
           git commit -m "auto: atualizar rss.xml / sitemap-news.xml / sitemap.xml" || echo "sem alterações"
           git push
