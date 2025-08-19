@@ -5,7 +5,8 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { XMLParser } from 'fast-xml-parser';
-import cheerio from 'cheerio';
+// import cheerio from 'cheerio';
+import * as cheerio from 'cheerio';
 
 /* =========================
  * Configuração (via ENV)
@@ -60,8 +61,9 @@ async function fetchSitemapUrls() {
 async function fetchArticleMeta(url) {
   try {
     const html = await getText(url);
-    const $ = cheerio.load(html);
-
+    // const $ = cheerio.load(html);
+    const $ = load(html);
+    
     // Título
     const ogTitle = $('meta[property="og:title"]').attr('content');
     const titleTag = $('title').first().text().trim();
