@@ -1,52 +1,43 @@
-name: Gerar RSS e News Sitemap
+name: Feeds (RSS + News)
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"  # a cada hora, em UTC (04:00 UTC = 01:00 em SP no -03)
+    - cron: "0 * * * *"  # roda de hora em hora (UTC)
 
 permissions:
-  contents: write   # necessário para commitar
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0   # recomendado pelo generate-sitemap para lastmod
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      - name: Instalar deps
-        run: npm i
+      - name: Instalar deps (nenhuma necessária além do Node 20)
+        run: npm init -y
 
-      - name: Gerar rss.xml e sitemap-news.xml
+      - name: Rodar gerador (usa o sitemap do WWW)
         env:
-          # Opcional: aponte para um feed existente do seu CMS (se houver)
-          # SOURCE_FEED_URL: "https://www.seumestrefinanceiro.com.br/rss.xml"
-          # Ou use uma página que liste artigos e seletores CSS adequados:
-          # SOURCE_HTML_URL: "https://www.seumestrefinanceiro.com.br/"
-          # ARTICLE_SELECTOR: "article a.post-link"
-          # DATE_SELECTOR: "article time"
-          SITE_URL: "https://www.seumestrefinanceiro.com.br"
-          PUBLICATION_NAME: "Seu Mestre Financeiro"
-          LANGUAGE: "pt"
+          SOURCE_SITEMAP: https://www.seumestrefinanceiro.com.br/sitemap.xml
+          PUBLICATION_NAME: Seu Mestre Financeiro
+          PUB_LANG: pt
         run: node build-feeds.mjs
 
-      - name: Gerar sitemap.xml do site do git
-        id: sitemap
+      - name: Gerar sitemap.xml do site do git (opcional)
         uses: cicirello/generate-sitemap@v1
         with:
-          base-url-path: "https://git.seumestrefinanceiro.com.br/"
+          base-url-path: https://git.seumestrefinanceiro.com.br/
 
-      - name: Commit & push (rss.xml, sitemap-news.xml, sitemap.xml)
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: "."
-          message: "chore: atualizar feeds e sitemaps"
-          default_author: github_actions
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add rss.xml sitemap-news.xml sitemap.xml || true
+          git commit -m "auto: atualizar rss e news sitemap" || echo "sem alterações"
+          git push
