@@ -1,9 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
-<url><loc>https://www.seumestrefinanceiro.com.br/post/fintechs-brasileiras-2025-facilitam-a-vida</loc><news:news>
-<news:publication><news:name>Seu Mestre Financeiro</news:name><news:language>pt</news:language></news:publication>
-<news:publication_date>2025-08-19T00:00:00.000Z</news:publication_date>
-<news:title>Fintechs Brasileiras de 2025: Quais Realmente Facilitam a Vida?</news:title>
-</news:news></url>
+
+  <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/fintechs-brasileiras-2025-facilitam-a-vida</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Seu Mestre Financeiro</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-19T15:00:04.547Z</news:publication_date>
+      <news:title>https://www.seumestrefinanceiro.com.br/post/fintechs-brasileiras-2025-facilitam-a-vida</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/impulso-de-gastar-no-fim-de-ano-motivos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Seu Mestre Financeiro</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-19T15:00:04.547Z</news:publication_date>
+      <news:title>https://www.seumestrefinanceiro.com.br/post/impulso-de-gastar-no-fim-de-ano-motivos</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/parcelamento-10-armadilhas-para-evitar</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Seu Mestre Financeiro</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-19T15:00:04.547Z</news:publication_date>
+      <news:title>https://www.seumestrefinanceiro.com.br/post/parcelamento-10-armadilhas-para-evitar</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/orcamento-familiar-simples-7-metodos-2025</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Seu Mestre Financeiro</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2025-08-19T15:00:04.547Z</news:publication_date>
+      <news:title>https://www.seumestrefinanceiro.com.br/post/orcamento-familiar-simples-7-metodos-2025</news:title>
+    </news:news>
+  </url>
 </urlset>

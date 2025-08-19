@@ -1,19 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel>
-<title>Seu Mestre Financeiro</title>
-<link>https://www.seumestrefinanceiro.com.br</link>
-<description>Seu Mestre Financeiro</description>
-<language>pt</language>
-<lastBuildDate>Tue, 19 Aug 2025 14:43:54 GMT</lastBuildDate>
-<item><title>Fintechs Brasileiras de 2025: Quais Realmente Facilitam a Vida?</title><link>https://www.seumestrefinanceiro.com.br/post/fintechs-brasileiras-2025-facilitam-a-vida</link><guid>https://www.seumestrefinanceiro.com.br/post/fintechs-brasileiras-2025-facilitam-a-vida</guid><pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate></item>
-<item><title>Por Que o Impulso de Gastar Aumenta no Fim de Ano? Aqui Está o Motivo</title><link>https://www.seumestrefinanceiro.com.br/post/impulso-de-gastar-no-fim-de-ano-motivos</link><guid>https://www.seumestrefinanceiro.com.br/post/impulso-de-gastar-no-fim-de-ano-motivos</guid><pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate></item>
-<item><title>Parcelamento: 10 Armadilhas Que Você Ainda Pode Cair Sem Querer</title><link>https://www.seumestrefinanceiro.com.br/post/parcelamento-10-armadilhas-para-evitar</link><guid>https://www.seumestrefinanceiro.com.br/post/parcelamento-10-armadilhas-para-evitar</guid><pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate></item>
-<item><title>Orçamento Familiar Simples: 7 Métodos Que Funcionam em 2025</title><link>https://www.seumestrefinanceiro.com.br/post/orcamento-familiar-simples-7-metodos-2025</link><guid>https://www.seumestrefinanceiro.com.br/post/orcamento-familiar-simples-7-metodos-2025</guid><pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate></item>
-<item><title>Seu Mestre Financeiro</title><link>https://www.seumestrefinanceiro.com.br</link><guid>https://www.seumestrefinanceiro.com.br</guid></item>
-<item><title>Comportamento Financeiro - Seu Mestre Financeiro</title><link>https://www.seumestrefinanceiro.com.br/category/comportamento-financeiro</link><guid>https://www.seumestrefinanceiro.com.br/category/comportamento-financeiro</guid></item>
-<item><title>Educação &amp; Letramento Financeiro - Seu Mestre Financeiro</title><link>https://www.seumestrefinanceiro.com.br/category/educacao-letramento-financeiro</link><guid>https://www.seumestrefinanceiro.com.br/category/educacao-letramento-financeiro</guid></item>
-<item><title>Ferramentas e Planejamento - Seu Mestre Financeiro</title><link>https://www.seumestrefinanceiro.com.br/category/ferramentas-e-planejamento</link><guid>https://www.seumestrefinanceiro.com.br/category/ferramentas-e-planejamento</guid></item>
-<item><title>Investimentos e Futuro - Seu Mestre Financeiro</title><link>https://www.seumestrefinanceiro.com.br/category/investimentos-e-futuro</link><guid>https://www.seumestrefinanceiro.com.br/category/investimentos-e-futuro</guid></item>
-<item><title>Tecnologia e Tendências Financeiras - Seu Mestre Financeiro</title><link>https://www.seumestrefinanceiro.com.br/category/tecnologia-e-tendencias-financeiras</link><guid>https://www.seumestrefinanceiro.com.br/category/tecnologia-e-tendencias-financeiras</guid></item>
-<item><title>Seu Mestre Financeiro</title><link>https://www.seumestrefinanceiro.com.br/search</link><guid>https://www.seumestrefinanceiro.com.br/search</guid></item>
-</channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Seu Mestre Financeiro</title>
+  <link>https://www.seumestrefinanceiro.com.br</link>
+  <description>Seu Mestre Financeiro</description>
+  <language>pt</language>
+  <lastBuildDate>Tue, 19 Aug 2025 15:00:04 GMT</lastBuildDate>
+  <ttl>60</ttl>
+  <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>https://www.seumestrefinanceiro.com.br/post/fintechs-brasileiras-2025-facilitam-a-vida</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/fintechs-brasileiras-2025-facilitam-a-vida</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/fintechs-brasileiras-2025-facilitam-a-vida</guid>
+    <pubDate>Tue, 19 Aug 2025 15:00:04 GMT</pubDate>
+    
+  </item>
+
+  <item>
+    <title>https://www.seumestrefinanceiro.com.br/post/impulso-de-gastar-no-fim-de-ano-motivos</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/impulso-de-gastar-no-fim-de-ano-motivos</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/impulso-de-gastar-no-fim-de-ano-motivos</guid>
+    <pubDate>Tue, 19 Aug 2025 15:00:04 GMT</pubDate>
+    
+  </item>
+
+  <item>
+    <title>https://www.seumestrefinanceiro.com.br/post/parcelamento-10-armadilhas-para-evitar</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/parcelamento-10-armadilhas-para-evitar</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/parcelamento-10-armadilhas-para-evitar</guid>
+    <pubDate>Tue, 19 Aug 2025 15:00:04 GMT</pubDate>
+    
+  </item>
+
+  <item>
+    <title>https://www.seumestrefinanceiro.com.br/post/orcamento-familiar-simples-7-metodos-2025</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/orcamento-familiar-simples-7-metodos-2025</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/orcamento-familiar-simples-7-metodos-2025</guid>
+    <pubDate>Tue, 19 Aug 2025 15:00:04 GMT</pubDate>
+    
+  </item>
+</channel>
+</rss>
