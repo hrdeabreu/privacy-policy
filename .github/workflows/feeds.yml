@@ -1,0 +1,52 @@
+name: Gerar RSS e News Sitemap
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"  # a cada hora, em UTC (04:00 UTC = 01:00 em SP no -03)
+
+permissions:
+  contents: write   # necessário para commitar
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # recomendado pelo generate-sitemap para lastmod
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Instalar deps
+        run: npm i
+
+      - name: Gerar rss.xml e sitemap-news.xml
+        env:
+          # Opcional: aponte para um feed existente do seu CMS (se houver)
+          # SOURCE_FEED_URL: "https://www.seumestrefinanceiro.com.br/rss.xml"
+          # Ou use uma página que liste artigos e seletores CSS adequados:
+          # SOURCE_HTML_URL: "https://www.seumestrefinanceiro.com.br/"
+          # ARTICLE_SELECTOR: "article a.post-link"
+          # DATE_SELECTOR: "article time"
+          SITE_URL: "https://www.seumestrefinanceiro.com.br"
+          PUBLICATION_NAME: "Seu Mestre Financeiro"
+          LANGUAGE: "pt"
+        run: node build-feeds.mjs
+
+      - name: Gerar sitemap.xml do site do git
+        id: sitemap
+        uses: cicirello/generate-sitemap@v1
+        with:
+          base-url-path: "https://git.seumestrefinanceiro.com.br/"
+
+      - name: Commit & push (rss.xml, sitemap-news.xml, sitemap.xml)
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "."
+          message: "chore: atualizar feeds e sitemaps"
+          default_author: github_actions
