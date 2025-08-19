@@ -1,18 +1,19 @@
 // build-feeds.mjs
 // Gera rss.xml (RSS 2.0 + Media RSS), sitemap-news.xml (Google News, ≤48h)
-// e opcionalmente image-sitemap.xml (Image Sitemaps).
+// e image-sitemap.xml (Image Sitemaps) com <lastmod> por URL.
 //
-// Normas / referências essenciais:
-// - RSS 2.0 (image width<=144 default=88; height<=400 default=31; pubDate RFC-822; ttl; atom:link rel="self"):
-//   https://www.rssboard.org/rss-specification  |  https://cyber.harvard.edu/rss/rss.html
-// - Media RSS (imagens por item, xmlns:media):
+// Normas essenciais:
+// - RSS 2.0 <image> (GIF/JPEG/PNG; width<=144 default=88; height<=400 default=31):
+//   https://www.rssboard.org/rss-specification
+// - RSS <language>: códigos RSS/W3C (RFC 1766/BCP47, ex.: pt-BR).
+//   https://www.rssboard.org/rss-draft-1  (sec. language)
+// - Media RSS (xmlns:media), para anexar imagens a itens:
 //   https://www.rssboard.org/media-rss
-// - Google News Sitemap (≤48h; publication, publication_date ISO-8601; title):
+// - Google News Sitemap (≤48h; news:language ISO-639; publication_date ISO-8601):
 //   https://developers.google.com/search/docs/crawling-indexing/sitemaps/news-sitemap
-// - Image Sitemaps (image:image / image:loc; antigas tags de imagem deprecadas):
+// - Image Sitemaps (image:image / image:loc; tags antigos descontinuados):
 //   https://developers.google.com/search/docs/crawling-indexing/sitemaps/image-sitemaps
-// - Sitemaps: URLs absolutas, UTF-8, entity-escaped:
-//   https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap
+// - Protocolo Sitemaps (UTF-8, entity-escaped, <lastmod> em <url>):
 //   https://www.sitemaps.org/protocol.html
 //
 // Requisitos: Node 20+ (fetch nativo), pacotes: cheerio, fast-xml-parser.
@@ -32,14 +33,19 @@ import { load as loadHTML } from 'cheerio';
 const SOURCE_SITEMAP   = process.env.SOURCE_SITEMAP   || 'https://www.seumestrefinanceiro.com.br/sitemap.xml';
 const SITE_LINK        = process.env.SITE_LINK        || 'https://www.seumestrefinanceiro.com.br';
 const PUBLICATION      = process.env.PUBLICATION      || 'Seu Mestre Financeiro';
-const PUB_LANG         = process.env.PUB_LANG         || 'pt'; // ISO-639
+
+// Idioma do RSS (BCP47/RFC1766, ex.: pt-BR) x idioma do Google News (ISO-639, ex.: pt):
+const RSS_LANG         = process.env.RSS_LANG         || 'pt-BR';
+const NEWS_LANG        = process.env.NEWS_LANG        || 'pt';
+
+// URL pública deste feed RSS (atom:link rel="self"):
 const FEED_SELF_URL    = process.env.FEED_SELF_URL    || 'https://git.seumestrefinanceiro.com.br/rss.xml';
 
 // Logo do canal no RSS (elemento <image>):
-// Especificação RSS 2.0: width default=88 (máx. 144), height default=31 (máx. 400).
-const CHANNEL_LOGO_URL = process.env.CHANNEL_LOGO_URL || 'http://git.seumestrefinanceiro.com.br/SeuMestreFinanceiro-LogoRSS.png'; // se vazio, não inclui <image>
-const CHANNEL_IMAGE_WIDTH  = 88;  // default da norma
-const CHANNEL_IMAGE_HEIGHT = 31;  // default da norma
+// RSS 2.0: width default=88 (máx. 144), height default=31 (máx. 400).
+const CHANNEL_LOGO_URL = process.env.CHANNEL_LOGO_URL || 'https://git.seumestrefinanceiro.com.br/SeuMestreFinanceiro-LogoRSS.png';
+const CHANNEL_IMAGE_WIDTH  = Number(process.env.CHANNEL_IMAGE_WIDTH  || 88);
+const CHANNEL_IMAGE_HEIGHT = Number(process.env.CHANNEL_IMAGE_HEIGHT || 31);
 
 // Limites e desempenho:
 const MAX_RSS_ITEMS    = Number(process.env.MAX_RSS_ITEMS  || 50);
@@ -47,7 +53,7 @@ const NEWS_WINDOW_MS   = Number(process.env.NEWS_WINDOW_MS || 48 * 3600 * 1000);
 const FETCH_TIMEOUT    = Number(process.env.FETCH_TIMEOUT  || 15000);            // 15s por URL
 const MAX_CONCURRENCY  = Number(process.env.MAX_CONCURRENCY|| 8);
 
-// Image Sitemap opcional:
+// Image Sitemap:
 const ENABLE_IMAGE_SITEMAP = String(process.env.ENABLE_IMAGE_SITEMAP || 'true').toLowerCase() === 'true';
 const MAX_IMAGES_PER_URL   = Number(process.env.MAX_IMAGES_PER_URL || 5); // por página no image-sitemap
 
@@ -83,6 +89,9 @@ function toAbsUrl(possiblyRelative, base) {
     return null;
   }
 }
+function isHttps(u) {
+  try { return new URL(u).protocol === 'https:'; } catch { return false; }
+}
 
 async function getText(url) {
   const ac = new AbortController();
@@ -97,7 +106,7 @@ async function getText(url) {
 }
 
 /* ==========================
- * 1) Carrega sitemap do WWW
+ * 1) Coleta URLs do sitemap
  * ========================== */
 async function fetchSitemapPostUrls() {
   const xml = await getText(SOURCE_SITEMAP);
@@ -109,13 +118,18 @@ async function fetchSitemapPostUrls() {
     .filter(Boolean)
     .filter(isPostUrl);
 
-  // URLs absolutas apenas
-  return Array.from(new Set(urls));
+  return Array.from(new Set(urls)); // absolutas e únicas
 }
 
 /* ======================================
- * 2) Raspagem de título/descrição/data/img
+ * 2) Raspagem: título/descrição/datas/img
  * ====================================== */
+function parseFirstDate(value) {
+  if (!value) return null;
+  const d = new Date(value);
+  return isNaN(d.getTime()) ? null : d;
+}
+
 async function scrapeArticle(url) {
   try {
     const html = await getText(url);
@@ -127,7 +141,7 @@ async function scrapeArticle(url) {
     const titleTag= $('title').first().text().trim();
     const title   = (ogTitle || h1 || titleTag || url).trim();
 
-    // Descrição: meta description -> og:description -> 1º parágrafo como fallback
+    // Descrição: meta description -> og:description -> 1º parágrafo
     const metaDesc= $('meta[name="description"]').attr('content');
     const ogDesc  = $('meta[property="og:description"]').attr('content');
     let desc      = (metaDesc || ogDesc || '').trim();
@@ -138,20 +152,25 @@ async function scrapeArticle(url) {
       desc = truncateWords(desc, 220);
     }
 
-    // Data de publicação: meta article:published_time -> JSON-LD datePublished -> <time datetime>
+    // Datas: published + modified (para lastmod no sitemap)
     let published =
       $('meta[property="article:published_time"]').attr('content') ||
-      $('meta[name="article:published_time"]').attr('content') ||
-      null;
+      $('meta[name="article:published_time"]').attr('content') || null;
 
-    if (!published) {
+    let modified =
+      $('meta[property="article:modified_time"]').attr('content') ||
+      $('meta[name="article:modified_time"]').attr('content') || null;
+
+    if (!published || !modified) {
       $('script[type="application/ld+json"]').each((_, el) => {
         try {
           const json = $(el).contents().text();
           const obj  = JSON.parse(json);
           const arr  = Array.isArray(obj) ? obj : [obj];
           for (const it of arr) {
-            if (it?.datePublished) { published = it.datePublished; break; }
+            if (!published && it?.datePublished)  published = it.datePublished;
+            if (!modified  && it?.dateModified)   modified  = it.dateModified;
+            if (published && modified) break;
           }
         } catch {/* ignora blocos inválidos */}
       });
@@ -161,14 +180,16 @@ async function scrapeArticle(url) {
       if (t) published = t;
     }
 
-    const pubDate = published ? new Date(published) : null;
+    const pubDate = parseFirstDate(published);
+    const modDate = parseFirstDate(modified);
+    const lastmod = modDate || pubDate || null;
 
-    // Imagem principal: og:image -> twitter:image -> link[rel=image_src] -> primeira <img> do artigo
+    // Imagem principal: preferir og:image:secure_url -> og:image -> twitter:image -> link rel=image_src -> 1a <img>
     let img =
+      $('meta[property="og:image:secure_url"]').attr('content') ||
       $('meta[property="og:image"]').attr('content') ||
       $('meta[name="twitter:image"]').attr('content') ||
-      $('link[rel="image_src"]').attr('href') ||
-      null;
+      $('link[rel="image_src"]').attr('href') || null;
 
     if (!img) {
       const imgEl = $('article img, main img, .post img, img').first().attr('src');
@@ -177,7 +198,7 @@ async function scrapeArticle(url) {
 
     const imageAbs = img ? toAbsUrl(img, url) : null;
 
-    // Colete demais imagens (para image-sitemap opcional)
+    // Coletar demais imagens (p/ image-sitemap)
     const allImg = new Set();
     if (imageAbs) allImg.add(imageAbs);
     $('article img, main img, .post img, img').each((_, el) => {
@@ -187,9 +208,9 @@ async function scrapeArticle(url) {
     });
     const images = Array.from(allImg).slice(0, MAX_IMAGES_PER_URL);
 
-    return { url, title, desc, date: pubDate, image: imageAbs, images };
+    return { url, title, desc, date: pubDate, lastmod, image: imageAbs, images };
   } catch {
-    return { url, title: url, desc: '', date: null, image: null, images: [] };
+    return { url, title: url, desc: '', date: null, lastmod: null, image: null, images: [] };
   }
 }
 
@@ -197,15 +218,17 @@ async function scrapeArticle(url) {
  * 3) Builders: RSS 2.0 / News / Image
  * ==================================== */
 
-// RSS 2.0 com Media RSS (xmlns:media). Inclui <image> opcional do canal.
-// - width default=88 (máx. 144), height default=31 (máx. 400) por norma.
-// - atom:link rel="self" evita warnings em validadores.
+// RSS 2.0 + Media RSS
 function buildRSS(channelTitle, channelLink, items, feedSelfUrl, channelLogoUrl) {
   const header = `<?xml version="1.0" encoding="UTF-8"?>`;
   const ns = [
     `xmlns:atom="http://www.w3.org/2005/Atom"`,
     `xmlns:media="http://search.yahoo.com/mrss/"`
   ].join(' ');
+
+  if (channelLogoUrl && !isHttps(channelLogoUrl)) {
+    console.warn(`[WARN] CHANNEL_LOGO_URL não é HTTPS — alguns clientes podem bloquear imagens mistas.`);
+  }
 
   const channelImage = channelLogoUrl ? `
   <image>
@@ -233,7 +256,7 @@ function buildRSS(channelTitle, channelLink, items, feedSelfUrl, channelLogoUrl)
   <link>${esc(channelLink)}</link>
   <description>${esc(channelTitle)}</description>
   ${channelImage}
-  <language>${esc(PUB_LANG)}</language>
+  <language>${esc(RSS_LANG)}</language>
   <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="${esc(feedSelfUrl)}" rel="self" type="application/rss+xml"/>
@@ -243,10 +266,10 @@ ${bodyItems}
 }
 
 // Google News Sitemap — somente artigos ≤48h; elementos obrigatórios.
-function buildNewsSitemap(publicationName, lang, articles, windowMs) {
+function buildNewsSitemap(publicationName, langISO639, articles, windowMs) {
   const cutoff = Date.now() - windowMs;
   const fresh = articles
-    .filter(a => a.date && a.date.getTime() >= cutoff) // só ≤48h e com data válida
+    .filter(a => a.date && a.date.getTime() >= cutoff)
     .sort((a, b) => b.date - a.date)
     .slice(0, 1000);
 
@@ -261,7 +284,7 @@ function buildNewsSitemap(publicationName, lang, articles, windowMs) {
     <news:news>
       <news:publication>
         <news:name>${esc(publicationName)}</news:name>
-        <news:language>${esc(lang)}</news:language>
+        <news:language>${esc(langISO639)}</news:language>
       </news:publication>
       <news:publication_date>${new Date(a.date).toISOString()}</news:publication_date>
       <news:title>${esc(truncateWords(a.title, 160))}</news:title>
@@ -274,7 +297,7 @@ ${body}
 </urlset>`;
 }
 
-// Image Sitemap opcional — inclui apenas image:loc (tags antigas de imagem deprecadas).
+// Image Sitemap — inclui <lastmod> (página), e image:loc (único obrigatório p/ imagem).
 function buildImageSitemap(pages) {
   const header = `<?xml version="1.0" encoding="UTF-8"?>`;
   const urlsetOpen =
@@ -287,9 +310,11 @@ function buildImageSitemap(pages) {
       <image:loc>${esc(src)}</image:loc>
     </image:image>`).join('');
     if (!imgs) return '';
+    const lastmod = p.lastmod ? `<lastmod>${new Date(p.lastmod).toISOString()}</lastmod>` : '';
     return `
   <url>
-    <loc>${esc(p.url)}</loc>${imgs}
+    <loc>${esc(p.url)}</loc>
+    ${lastmod}${imgs}
   </url>`;
   }).filter(Boolean).join('\n');
 
@@ -305,35 +330,33 @@ ${body}
 async function run() {
   const urls = await fetchSitemapPostUrls();
 
-  // scraping com lotes para limitar concorrência
+  // scraping em lotes
   const metas = [];
   for (let i = 0; i < urls.length; i += MAX_CONCURRENCY) {
     const slice = urls.slice(i, i + MAX_CONCURRENCY);
     const batch = await Promise.all(slice.map(scrapeArticle));
     metas.push(...batch);
-    // respiro leve entre lotes (evita burst no host)
     await sleep(150);
   }
 
-  // Ordena por data desc; para RSS pode aceitar itens sem data (ficam no fim)
+  // Ordenar por data (desc); itens sem data vão ao fim
   const ordered = metas
     .map(m => ({ ...m, sortDate: m.date ? m.date.getTime() : 0 }))
     .sort((a, b) => b.sortDate - a.sortDate);
 
-  // RSS = até N itens mais recentes (com título/link/desc). Itens sem data são permitidos.
+  // RSS: até N itens
   const rssItems = ordered.slice(0, MAX_RSS_ITEMS);
-
   const rssXml = buildRSS(PUBLICATION, SITE_LINK, rssItems, FEED_SELF_URL, CHANNEL_LOGO_URL);
   await fs.writeFile(path.resolve('rss.xml'), rssXml, 'utf8');
 
-  // News = só itens com data real e ≤48h
-  const newsXml = buildNewsSitemap(PUBLICATION, PUB_LANG, metas, NEWS_WINDOW_MS);
+  // News: ≤48h
+  const newsXml = buildNewsSitemap(PUBLICATION, NEWS_LANG, metas, NEWS_WINDOW_MS);
   await fs.writeFile(path.resolve('sitemap-news.xml'), newsXml, 'utf8');
 
-  // (Opcional) Image Sitemap — agrega imagens coletadas por página (máx. configurável).
+  // Image Sitemap: páginas com imagens + lastmod
   if (ENABLE_IMAGE_SITEMAP) {
     const pagesWithImgs = metas
-      .map(m => ({ url: m.url, images: m.images }))
+      .map(m => ({ url: m.url, images: m.images, lastmod: m.lastmod }))
       .filter(p => p.images && p.images.length > 0);
     const imgXml = buildImageSitemap(pagesWithImgs);
     await fs.writeFile(path.resolve('image-sitemap.xml'), imgXml, 'utf8');
@@ -341,7 +364,12 @@ async function run() {
 
   const newsCount = metas.filter(a => a.date && (Date.now() - a.date.getTime()) <= NEWS_WINDOW_MS).length;
   const pagesWithImg = metas.filter(m => m.images && m.images.length).length;
-  console.log(`rss.xml: ${rssItems.length} itens | sitemap-news.xml: ${newsCount} artigos (<= ${Math.round(NEWS_WINDOW_MS/3600000)}h) | image-sitemap páginas com img: ${pagesWithImg}`);
+
+  console.log(`rss.xml: ${rssItems.length} itens | sitemap-news.xml: ${newsCount} artigos (≤ ${Math.round(NEWS_WINDOW_MS/3600000)}h) | image-sitemap (páginas com img): ${pagesWithImg}`);
+
+  // Log de existência/tamanho dos arquivos
+  try { const s = await fs.stat('image-sitemap.xml'); console.log(`image-sitemap.xml: ${s.size} bytes`); }
+  catch { console.warn('image-sitemap.xml NÃO gerado (sem imagens ou ENABLE_IMAGE_SITEMAP=false)'); }
 }
 
 run().catch(err => {
