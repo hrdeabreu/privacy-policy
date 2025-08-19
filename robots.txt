@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://git.seumestrefinanceiro.com.br/sitemap.xml
+Sitemap: https://git.seumestrefinanceiro.com.br/sitemap-news.xml
