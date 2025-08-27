@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 27 Aug 2025 11:19:11 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 27 Aug 2025 12:48:50 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Pix: 12 Perguntas e Respostas Que Facilitam Suas Finanças em 2025</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/pix-12-perguntas-e-respostas-para-facilitar-suas-financas-2025</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/pix-12-perguntas-e-respostas-para-facilitar-suas-financas-2025</guid>
+    <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+    <description>Descubra como Pix pode simplificar pagamentos, transferências e gestão financeira no seu dia a dia em 2025.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/celular-transacao-pix-533.webp" medium="image" />
+  </item>
 
   <item>
     <title>Cartão de Crédito Virtual vs. Físico: Qual o Mais Seguro em 2025?</title>
