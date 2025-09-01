@@ -13,7 +13,7 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 01 Sep 2025 16:28:04 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 01 Sep 2025 17:18:36 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
 
@@ -81,6 +81,15 @@
   </item>
 
   <item>
+    <title>Fintechs Brasileiras de 2025: Quais Realmente Facilitam a Vida?</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/fintechs-brasileiras-2025-facilitam-a-vida</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/fintechs-brasileiras-2025-facilitam-a-vida</guid>
+    <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+    <description>Conheça as fintechs brasileiras de 2025 que trazem soluções práticas para pagamentos, investimentos e controle financeiro.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/fintechs-tecnologia-banco-digital-244.webp" medium="image" />
+  </item>
+
+  <item>
     <title>Por Que o Impulso de Gastar Aumenta no Fim de Ano? Aqui Está o Motivo</title>
     <link>https://www.seumestrefinanceiro.com.br/post/impulso-de-gastar-no-fim-de-ano-motivos</link>
     <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/impulso-de-gastar-no-fim-de-ano-motivos</guid>
@@ -105,15 +114,6 @@
     <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
     <description>Descubra 7 estratégias práticas para controlar gastos, organizar finanças e garantir estabilidade no orçamento familiar em 2025.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-planejando-orcamento-481.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>https://www.seumestrefinanceiro.com.br/post/fintechs-brasileiras-2025-facilitam-a-vida</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/fintechs-brasileiras-2025-facilitam-a-vida</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/fintechs-brasileiras-2025-facilitam-a-vida</guid>
-    
-    
-    
   </item>
 </channel>
 </rss>
