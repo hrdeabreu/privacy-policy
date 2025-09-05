@@ -13,16 +13,4 @@
       <news:title>Como Escolher um Plano de Saúde Sem Comprometer Seu Orçamento</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/assinaturas-mensais-8-dicas-fugir-efeito-bola-de-neve</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2025-09-03T00:00:00.000Z</news:publication_date>
-      <news:title>Assinaturas Mensais: 8 Dicas para Fugir do Efeito Bola de Neve</news:title>
-    </news:news>
-  </url>
 </urlset>
