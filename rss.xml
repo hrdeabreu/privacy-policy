@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 16 Sep 2025 11:18:43 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 16 Sep 2025 12:48:52 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como Definir Metas Financeiras Que Você Realmente Vai Cumprir</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/definir-metas-financeiras-reais</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/definir-metas-financeiras-reais</guid>
+    <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+    <description>Aprenda a criar metas financeiras realistas com métodos comprovados para manter disciplina e alcançar seus objetivos.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/plano-financeiro-metas-408.webp" medium="image" />
+  </item>
 
   <item>
     <title>Score de Crédito: 10 Fatores que Pesam Mais em 2025</title>
