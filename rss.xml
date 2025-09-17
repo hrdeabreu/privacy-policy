@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 17 Sep 2025 11:18:41 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 17 Sep 2025 12:49:23 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>PIB Pessoal: O Que É e Como Medir Sua Riqueza Todo Ano</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/pib-pessoal-como-medir-sua-riqueza-ano</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/pib-pessoal-como-medir-sua-riqueza-ano</guid>
+    <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
+    <description>Descubra como calcular seu PIB pessoal e acompanhe o crescimento real da sua riqueza ano a ano de forma prática.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/calculo-renda-pessoal-390.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como Definir Metas Financeiras Que Você Realmente Vai Cumprir</title>
