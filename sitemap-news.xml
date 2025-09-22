@@ -2,4 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/7-gastos-invisiveis-que-esvaziam-sua-conta</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Seu Mestre Financeiro</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2025-09-22T00:00:00.000Z</news:publication_date>
+      <news:title>7 Gastos Invisíveis que Esvaziam Sua Conta Sem Perceber</news:title>
+    </news:news>
+  </url>
 </urlset>

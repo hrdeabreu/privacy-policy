@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 22 Sep 2025 11:19:43 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 22 Sep 2025 12:49:46 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>7 Gastos Invisíveis que Esvaziam Sua Conta Sem Perceber</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/7-gastos-invisiveis-que-esvaziam-sua-conta</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/7-gastos-invisiveis-que-esvaziam-sua-conta</guid>
+    <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
+    <description>Descubra os gastos ocultos no dia a dia que drenam seu orçamento e impeçam você de poupar de verdade.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/despesas-invisiveis-conta-bancaria-688.webp" medium="image" />
+  </item>
 
   <item>
     <title>PIB Pessoal: O Que É e Como Medir Sua Riqueza Todo Ano</title>
