@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 29 Sep 2025 11:19:04 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 29 Sep 2025 12:51:09 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como a Economia Compartilhada Pode Impactar Seu Bolso em 2025</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/economia-compartilhada-impacto-bolso-2025</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/economia-compartilhada-impacto-bolso-2025</guid>
+    <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
+    <description>Entenda como a economia compartilhada pode reduzir gastos e gerar renda extra para seu orçamento em 2025.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/economia-compartilhada-digital-411.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como Lidar com Aposentadoria dos Pais: Guia Financeiro Prático</title>
