@@ -13,16 +13,4 @@
       <news:title>Como o Open Banking Está Mudando o Controle do Seu Dinheiro</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/consumo-por-assinatura-planejamento-anual</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-01T00:00:00.000Z</news:publication_date>
-      <news:title>Como o Consumo por Assinatura Afeta Seu Planejamento Anual</news:title>
-    </news:news>
-  </url>
 </urlset>
