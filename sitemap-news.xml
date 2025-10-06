@@ -2,4 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
+  <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/renda-extra-2026-6-formas-ganhar-sem-sair-de-casa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Seu Mestre Financeiro</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-06T00:00:00.000Z</news:publication_date>
+      <news:title>Renda Extra em 2026: 6 Formas Reais de Ganhar Sem Sair de Casa</news:title>
+    </news:news>
+  </url>
 </urlset>
