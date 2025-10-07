@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 07 Oct 2025 11:18:55 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 07 Oct 2025 12:50:02 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como proteger seus dados financeiros em apps e fintechs em 2026</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/proteger-dados-financeiros-apps-fintechs-2026</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/proteger-dados-financeiros-apps-fintechs-2026</guid>
+    <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
+    <description>Dicas práticas para proteger suas senhas, evitar fraudes e manter a segurança dos dados financeiros em apps e fintechs.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/seguranca-dados-financeiros-app-278.webp" medium="image" />
+  </item>
 
   <item>
     <title>Renda Extra em 2026: 6 Formas Reais de Ganhar Sem Sair de Casa</title>
