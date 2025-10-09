@@ -13,16 +13,4 @@
       <news:title>12 sinais de que sua relação com o dinheiro pode ser tóxica</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/proteger-dados-financeiros-apps-fintechs-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-07T00:00:00.000Z</news:publication_date>
-      <news:title>Como proteger seus dados financeiros em apps e fintechs em 2026</news:title>
-    </news:news>
-  </url>
 </urlset>
