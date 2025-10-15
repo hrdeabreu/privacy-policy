@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 15 Oct 2025 11:19:52 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 15 Oct 2025 12:51:39 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Gastos em casais: 8 regras simples para evitar conflitos</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/gastos-em-casais-8-regras-simples-evitar-conflitos</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/gastos-em-casais-8-regras-simples-evitar-conflitos</guid>
+    <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
+    <description>Descubra 8 regras práticas para organizar finanças a dois, evitar desentendimentos e fortalecer o planejamento financeiro.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/casal_planejando_gastos-296.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como pequenas ações diárias influenciam seu futuro financeiro</title>
