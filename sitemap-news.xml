@@ -13,16 +13,4 @@
       <news:title>Gastos em casais: 8 regras simples para evitar conflitos</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/pequenas-acoes-diarias-futuro-financeiro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-14T00:00:00.000Z</news:publication_date>
-      <news:title>Como pequenas ações diárias influenciam seu futuro financeiro</news:title>
-    </news:news>
-  </url>
 </urlset>
