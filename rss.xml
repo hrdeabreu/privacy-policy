@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 29 Oct 2025 11:20:50 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 29 Oct 2025 12:53:01 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como o algoritmo dos apps influencia seus hábitos de compra</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/algoritmo-apps-influencia-habitos-compra</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/algoritmo-apps-influencia-habitos-compra</guid>
+    <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+    <description>Descubra como algoritmos moldam suas escolhas de compra, influenciando comportamentos e impactando seu controle financeiro pessoal.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/algoritmo-apps-habitos-compra-347.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como fazer um planejamento financeiro para viagens sem perrengues</title>

@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/algoritmo-apps-influencia-habitos-compra</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Seu Mestre Financeiro</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2025-10-29T00:00:00.000Z</news:publication_date>
+      <news:title>Como o algoritmo dos apps influencia seus hábitos de compra</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.seumestrefinanceiro.com.br/post/planejamento-financeiro-viagens-sem-perrengues</loc>
     <news:news>
       <news:publication>
