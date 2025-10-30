@@ -13,16 +13,4 @@
       <news:title>Como o algoritmo dos apps influencia seus hábitos de compra</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/planejamento-financeiro-viagens-sem-perrengues</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2025-10-28T00:00:00.000Z</news:publication_date>
-      <news:title>Como fazer um planejamento financeiro para viagens sem perrengues</news:title>
-    </news:news>
-  </url>
 </urlset>
