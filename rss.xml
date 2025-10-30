@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 30 Oct 2025 11:20:11 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 30 Oct 2025 12:51:15 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como planejar a chegada do 13º salário e não deixar sumir</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/planejamento-13o-salario-nao-deixar-sumir</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/planejamento-13o-salario-nao-deixar-sumir</guid>
+    <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
+    <description>Aprenda a organizar seu 13º salário para quitar dívidas, formar reserva e investir com planejamento financeiro eficaz.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejamento-13o-salario-385.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como o algoritmo dos apps influencia seus hábitos de compra</title>
