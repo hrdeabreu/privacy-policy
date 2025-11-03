@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 03 Nov 2025 11:20:07 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 03 Nov 2025 12:51:53 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>5 sinais de que seu orçamento precisa de revisão urgente</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/5-sinais-de-que-seu-orcamento-precisa-de-revisao-urgente</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/5-sinais-de-que-seu-orcamento-precisa-de-revisao-urgente</guid>
+    <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+    <description>Descubra os sinais claros que indicam que seu orçamento está fora do controle e aprenda quando e como ajustar suas finanças.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-financeiro-orcamento-154.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como planejar a chegada do 13º salário e não deixar sumir</title>
