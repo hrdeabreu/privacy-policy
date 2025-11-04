@@ -13,7 +13,7 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 04 Nov 2025 21:22:01 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 04 Nov 2025 22:22:34 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
 
@@ -204,15 +204,6 @@
     <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
     <description>Entenda como organizar finanças, direitos e sucessão para garantir segurança e tranquilidade na aposentadoria dos seus pais.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/conversa-financeira-pais-filho-467.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como Fazer Transferência Internacional Sem Surpresas em 2025</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/como-fazer-transferencia-internacional-sem-surpresas-2025</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-fazer-transferencia-internacional-sem-surpresas-2025</guid>
-    <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como evitar taxas ocultas, escolher a melhor cotação e garantir segurança nas transferências internacionais em 2025.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/transferencia-internacional-financas-2025-345.webp" medium="image" />
   </item>
 
   <item>
@@ -420,6 +411,15 @@
     <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
     <description>Descubra 7 estratégias práticas para controlar gastos, organizar finanças e garantir estabilidade no orçamento familiar em 2025.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-planejando-orcamento-481.webp" medium="image" />
+  </item>
+
+  <item>
+    <title>https://www.seumestrefinanceiro.com.br/post/como-fazer-transferencia-internacional-sem-surpresas-2025</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/como-fazer-transferencia-internacional-sem-surpresas-2025</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-fazer-transferencia-internacional-sem-surpresas-2025</guid>
+    
+    
+    
   </item>
 </channel>
 </rss>
