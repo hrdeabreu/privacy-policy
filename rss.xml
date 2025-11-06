@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 06 Nov 2025 11:21:36 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 06 Nov 2025 12:51:28 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como usar inteligência artificial para organizar suas finanças</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/usar-inteligencia-artificial-organizar-financas</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/usar-inteligencia-artificial-organizar-financas</guid>
+    <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+    <description>Descubra como a inteligência artificial pode automatizar controle financeiro, identificar gastos e melhorar seu planejamento mensal.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/inteligencia-artificial-organizando-financas-783.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como controlar gastos com pets: guia financeiro para 2026</title>
