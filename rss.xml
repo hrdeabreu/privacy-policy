@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 19 Nov 2025 11:21:32 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 19 Nov 2025 12:52:37 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como lidar com dinheiro esquecido em programas de pontos</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/dinheiro-esquecido-programas-pontos</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/dinheiro-esquecido-programas-pontos</guid>
+    <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+    <description>Descubra como identificar e resgatar créditos esquecidos em programas de pontos para maximizar seus benefícios financeiros.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/cartao-fidelidade-com-saldo-esquecido-713.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como escolher seguro residencial: pontos-chave para 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
     <description>Descubra as armadilhas do parcelamento que aumentam dívidas e juros sem que você perceba e aprenda a evitá-las.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/pessoa-com-cartao-e-dividas-257.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Orçamento Familiar Simples: 7 Métodos Que Funcionam em 2025</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/orcamento-familiar-simples-7-metodos-2025</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/orcamento-familiar-simples-7-metodos-2025</guid>
-    <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
-    <description>Descubra 7 estratégias práticas para controlar gastos, organizar finanças e garantir estabilidade no orçamento familiar em 2025.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-planejando-orcamento-481.webp" medium="image" />
   </item>
 </channel>
 </rss>
