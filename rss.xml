@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 20 Nov 2025 11:21:35 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 20 Nov 2025 12:51:19 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>8 erros ao tentar viver de renda que poucos comentam</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/8-erros-ao-tentar-viver-de-renda-que-poucos-comentam</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/8-erros-ao-tentar-viver-de-renda-que-poucos-comentam</guid>
+    <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+    <description>Descubra erros comuns na busca pela renda passiva e evite armadilhas que comprometem sua independência financeira.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/erros-investidor-frustrado-66.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como lidar com dinheiro esquecido em programas de pontos</title>
@@ -456,15 +465,6 @@
     <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
     <description>Descubra por que o cérebro reage ao fim do ano com vontade de gastar e como isso impacta seu controle financeiro.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/fila-para-compras-natal-377.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Parcelamento: 10 Armadilhas Que Você Ainda Pode Cair Sem Querer</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/parcelamento-10-armadilhas-para-evitar</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/parcelamento-10-armadilhas-para-evitar</guid>
-    <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
-    <description>Descubra as armadilhas do parcelamento que aumentam dívidas e juros sem que você perceba e aprenda a evitá-las.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/pessoa-com-cartao-e-dividas-257.webp" medium="image" />
   </item>
 </channel>
 </rss>
