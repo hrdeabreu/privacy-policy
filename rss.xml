@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 24 Nov 2025 11:22:22 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 24 Nov 2025 12:53:54 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Por que evitar dinheiro parado na conta e o que fazer em 2026</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/evitar-dinheiro-parado-conta-o-que-fazer-2026</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/evitar-dinheiro-parado-conta-o-que-fazer-2026</guid>
+    <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
+    <description>Entenda por que dinheiro parado perde valor e veja alternativas para rentabilizar seus recursos em 2026.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/dinheiro-parado-conta-banco-29.webp" medium="image" />
+  </item>
 
   <item>
     <title>8 erros ao tentar viver de renda que poucos comentam</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
     <description>Conheça as fintechs brasileiras de 2025 que trazem soluções práticas para pagamentos, investimentos e controle financeiro.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/fintechs-tecnologia-banco-digital-244.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Por Que o Impulso de Gastar Aumenta no Fim de Ano? Aqui Está o Motivo</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/impulso-de-gastar-no-fim-de-ano-motivos</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/impulso-de-gastar-no-fim-de-ano-motivos</guid>
-    <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
-    <description>Descubra por que o cérebro reage ao fim do ano com vontade de gastar e como isso impacta seu controle financeiro.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/fila-para-compras-natal-377.webp" medium="image" />
   </item>
 </channel>
 </rss>
