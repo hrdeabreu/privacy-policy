@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 25 Nov 2025 11:22:52 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 25 Nov 2025 12:53:14 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Trabalho autônomo ou CLT: impactos no planejamento financeiro</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/trabalho-autonomo-ou-clt-impactos-no-planejamento-financeiro</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/trabalho-autonomo-ou-clt-impactos-no-planejamento-financeiro</guid>
+    <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+    <description>Entenda as diferenças financeiras entre trabalho autônomo e CLT e como cada regime afeta seu planejamento e segurança.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/trabalho-autonomo-clt-planejamento-89.webp" medium="image" />
+  </item>
 
   <item>
     <title>Por que evitar dinheiro parado na conta e o que fazer em 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
     <description>Descubra como elementos de jogos motivam hábitos financeiros, melhoram disciplina e tornam o controle do dinheiro mais simples.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-financeiro-gamificacao-994.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Fintechs Brasileiras de 2025: Quais Realmente Facilitam a Vida?</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/fintechs-brasileiras-2025-facilitam-a-vida</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/fintechs-brasileiras-2025-facilitam-a-vida</guid>
-    <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
-    <description>Conheça as fintechs brasileiras de 2025 que trazem soluções práticas para pagamentos, investimentos e controle financeiro.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/fintechs-tecnologia-banco-digital-244.webp" medium="image" />
   </item>
 </channel>
 </rss>
