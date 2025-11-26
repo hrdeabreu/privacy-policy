@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 26 Nov 2025 11:22:27 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 26 Nov 2025 12:54:23 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como criar um fundo de emergência para saúde da família</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/fundo-emergencia-saude-familia</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/fundo-emergencia-saude-familia</guid>
+    <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+    <description>Aprenda a montar um fundo de emergência para saúde da família e esteja preparado para imprevistos e despesas médicas.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-planejando-fundo-emergencia-saude-405.webp" medium="image" />
+  </item>
 
   <item>
     <title>Trabalho autônomo ou CLT: impactos no planejamento financeiro</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
     <description>Descubra 9 estratégias para vencer a procrastinação e começar a investir com foco, disciplina e consciência financeira agora.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/homem-planejando-investimentos-792.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como a Gamificação Pode Ajudar no Controle Financeiro Pessoal</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/gamificacao-controle-financeiro-pessoal</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/gamificacao-controle-financeiro-pessoal</guid>
-    <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como elementos de jogos motivam hábitos financeiros, melhoram disciplina e tornam o controle do dinheiro mais simples.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-financeiro-gamificacao-994.webp" medium="image" />
   </item>
 </channel>
 </rss>
