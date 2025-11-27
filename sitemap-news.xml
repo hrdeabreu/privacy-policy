@@ -13,16 +13,4 @@
       <news:title>Como criar um fundo de emergência para saúde da família</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/trabalho-autonomo-ou-clt-impactos-no-planejamento-financeiro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2025-11-25T00:00:00.000Z</news:publication_date>
-      <news:title>Trabalho autônomo ou CLT: impactos no planejamento financeiro</news:title>
-    </news:news>
-  </url>
 </urlset>
