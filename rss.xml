@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 27 Nov 2025 11:22:41 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 27 Nov 2025 12:53:07 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Cuidados essenciais na herança ao planejar a sucessão financeira</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/cuidados-essenciais-heranca-planejamento-sucessao-financeira</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/cuidados-essenciais-heranca-planejamento-sucessao-financeira</guid>
+    <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+    <description>Entenda os aspectos legais, fiscais e financeiros para garantir uma sucessão patrimonial tranquila e sem conflitos.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejamento-succao-financeira-158.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como criar um fundo de emergência para saúde da família</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
     <description>Descubra como o investimento automático pode simplificar seus aportes, acelerar o patrimônio e quais riscos evitar em 2025.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investimento-automatico-tecnologia-752.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como Parar de Procrastinar na Hora de Investir: 9 Estratégias</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/parar-procrastinar-investir-9-estrategias</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/parar-procrastinar-investir-9-estrategias</guid>
-    <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
-    <description>Descubra 9 estratégias para vencer a procrastinação e começar a investir com foco, disciplina e consciência financeira agora.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/homem-planejando-investimentos-792.webp" medium="image" />
   </item>
 </channel>
 </rss>

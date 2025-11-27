@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/cuidados-essenciais-heranca-planejamento-sucessao-financeira</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Seu Mestre Financeiro</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2025-11-27T00:00:00.000Z</news:publication_date>
+      <news:title>Cuidados essenciais na herança ao planejar a sucessão financeira</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.seumestrefinanceiro.com.br/post/fundo-emergencia-saude-familia</loc>
     <news:news>
       <news:publication>
