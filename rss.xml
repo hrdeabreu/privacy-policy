@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 01 Dec 2025 11:23:10 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 01 Dec 2025 12:54:35 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como o minimalismo pode influenciar o seu perfil financeiro</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/minimalismo-perfil-financeiro</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/minimalismo-perfil-financeiro</guid>
+    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
+    <description>Entenda como o minimalismo impacta hábitos de consumo, controle financeiro e escolhas de investimento conscientes.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/escritorio-minimalista-organizado-240.webp" medium="image" />
+  </item>
 
   <item>
     <title>Cuidados essenciais na herança ao planejar a sucessão financeira</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 26 Aug 2025 00:00:00 GMT</pubDate>
     <description>Descubra as diferenças em segurança entre cartão virtual e físico em 2025 e saiba qual protege melhor seus dados.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/cartoes-credito-virtual-fisico-seguranca-673.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Investimento Automático: Vantagens e Desvantagens em 2025</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/investimento-automatico-vantagens-desvantagens-2025</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/investimento-automatico-vantagens-desvantagens-2025</guid>
-    <pubDate>Mon, 25 Aug 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como o investimento automático pode simplificar seus aportes, acelerar o patrimônio e quais riscos evitar em 2025.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investimento-automatico-tecnologia-752.webp" medium="image" />
   </item>
 </channel>
 </rss>
