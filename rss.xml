@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 03 Dec 2025 11:23:37 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 03 Dec 2025 12:55:50 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Impostos invisíveis: descubra as taxas que você nem percebe</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/impostos-invisiveis-taxas-ocultas</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/impostos-invisiveis-taxas-ocultas</guid>
+    <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
+    <description>Saiba quais taxas e impostos embutidos afetam suas compras e serviços sem que você perceba no dia a dia.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/impostos-ocultos-carteira-brilho-369.webp" medium="image" />
+  </item>
 
   <item>
     <title>Fundo imobiliário ou aluguel: diferenças práticas para 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
     <description>Aprenda a identificar fraudes comuns, proteger seus dados e garantir segurança nas transações financeiras online em 2025.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/seguranca-financeira-online-814.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Pix: 12 Perguntas e Respostas Que Facilitam Suas Finanças em 2025</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/pix-12-perguntas-e-respostas-para-facilitar-suas-financas-2025</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/pix-12-perguntas-e-respostas-para-facilitar-suas-financas-2025</guid>
-    <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como Pix pode simplificar pagamentos, transferências e gestão financeira no seu dia a dia em 2025.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/celular-transacao-pix-533.webp" medium="image" />
   </item>
 </channel>
 </rss>
