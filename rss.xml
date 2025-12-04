@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 04 Dec 2025 11:24:22 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 04 Dec 2025 12:55:55 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como orçar melhor quando seu salário varia mensalmente</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/como-orcar-melhor-salario-variavel</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-orcar-melhor-salario-variavel</guid>
+    <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+    <description>Aprenda a montar um orçamento flexível para meses de renda variável e garantir controle financeiro sem surpresas.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/orcamento-salario-variavel-684.webp" medium="image" />
+  </item>
 
   <item>
     <title>Impostos invisíveis: descubra as taxas que você nem percebe</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
     <description>Descubra como pequenos hábitos financeiros diários podem melhorar seu orçamento, investimentos e controle de despesas em 2025.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/microhabitos-controle-financeiro-175.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como Evitar Golpes Financeiros Online: Guia Prático para 2025</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/como-evitar-golpes-financeiros-online-2025</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-evitar-golpes-financeiros-online-2025</guid>
-    <pubDate>Thu, 28 Aug 2025 00:00:00 GMT</pubDate>
-    <description>Aprenda a identificar fraudes comuns, proteger seus dados e garantir segurança nas transações financeiras online em 2025.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/seguranca-financeira-online-814.webp" medium="image" />
   </item>
 </channel>
 </rss>
