@@ -13,16 +13,4 @@
       <news:title>Como orçar melhor quando seu salário varia mensalmente</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/impostos-invisiveis-taxas-ocultas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-03T00:00:00.000Z</news:publication_date>
-      <news:title>Impostos invisíveis: descubra as taxas que você nem percebe</news:title>
-    </news:news>
-  </url>
 </urlset>
