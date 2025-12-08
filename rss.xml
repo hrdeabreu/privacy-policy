@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 08 Dec 2025 11:23:50 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 08 Dec 2025 12:54:16 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como analisar tarifas bancárias e reduzir gastos automáticos</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/analisar-tarifas-bancarias-reduzir-gastos-automaticos</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/analisar-tarifas-bancarias-reduzir-gastos-automaticos</guid>
+    <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
+    <description>Aprenda a identificar tarifas bancárias desnecessárias e estratégias para cortar cobranças automáticas do seu extrato mensal.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/analise-tarifas-bancarias-704.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como orçar melhor quando seu salário varia mensalmente</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
     <description>Entenda quando refinanciar dívidas faz sentido, avaliando juros, prazos, custos e impacto no seu orçamento financeiro.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/refinanciamento-dividas-analise-financeira-656.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como Micro-hábitos Transformam Sua Vida Financeira em 2025</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/micro-habitos-vida-financeira-2025</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/micro-habitos-vida-financeira-2025</guid>
-    <pubDate>Mon, 01 Sep 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como pequenos hábitos financeiros diários podem melhorar seu orçamento, investimentos e controle de despesas em 2025.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/microhabitos-controle-financeiro-175.webp" medium="image" />
   </item>
 </channel>
 </rss>
