@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/pagamentos-por-aproximacao-mitos-riscos-como-usar-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Seu Mestre Financeiro</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-09T00:00:00.000Z</news:publication_date>
+      <news:title>Pagamentos por aproximação: mitos, riscos e como usar em 2026</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.seumestrefinanceiro.com.br/post/analisar-tarifas-bancarias-reduzir-gastos-automaticos</loc>
     <news:news>
       <news:publication>

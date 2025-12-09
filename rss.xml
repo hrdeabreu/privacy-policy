@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 09 Dec 2025 11:24:08 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 09 Dec 2025 12:55:40 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Pagamentos por aproximação: mitos, riscos e como usar em 2026</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/pagamentos-por-aproximacao-mitos-riscos-como-usar-2026</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/pagamentos-por-aproximacao-mitos-riscos-como-usar-2026</guid>
+    <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+    <description>Entenda os riscos reais, mitos e como usar pagamentos por aproximação com segurança e praticidade em 2026.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/pagamento-aproximacao-celular-cartao-831.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como analisar tarifas bancárias e reduzir gastos automáticos</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
     <description>Descubra como controlar suas assinaturas mensais e evitar gastos acumulados que comprometem seu orçamento pessoal.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-de-assinaturas-digitais-415.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Quando Vale a Pena Refinanciar Dívidas? 7 Pontos a Avaliar</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/quando-vale-a-pena-refinanciar-dividas-7-pontos-a-avaliar</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/quando-vale-a-pena-refinanciar-dividas-7-pontos-a-avaliar</guid>
-    <pubDate>Tue, 02 Sep 2025 00:00:00 GMT</pubDate>
-    <description>Entenda quando refinanciar dívidas faz sentido, avaliando juros, prazos, custos e impacto no seu orçamento financeiro.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/refinanciamento-dividas-analise-financeira-656.webp" medium="image" />
   </item>
 </channel>
 </rss>
