@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 10 Dec 2025 11:23:48 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 10 Dec 2025 12:56:11 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como começar a investir em ESG no Brasil em 2026</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/como-comecar-investir-esg-brasil-2026</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-comecar-investir-esg-brasil-2026</guid>
+    <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+    <description>Descubra como investir em fundos ESG no Brasil em 2026, alinhando decisão financeira a critérios sociais e ambientais.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investidor-esg-brasil-2026-143.webp" medium="image" />
+  </item>
 
   <item>
     <title>Pagamentos por aproximação: mitos, riscos e como usar em 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
     <description>Descubra como escolher um plano de saúde adequado com cobertura eficiente e custos compatíveis ao seu orçamento mensal.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-analisa-plano-saude-92.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Assinaturas Mensais: 8 Dicas para Fugir do Efeito Bola de Neve</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/assinaturas-mensais-8-dicas-fugir-efeito-bola-de-neve</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/assinaturas-mensais-8-dicas-fugir-efeito-bola-de-neve</guid>
-    <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como controlar suas assinaturas mensais e evitar gastos acumulados que comprometem seu orçamento pessoal.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-de-assinaturas-digitais-415.webp" medium="image" />
   </item>
 </channel>
 </rss>
