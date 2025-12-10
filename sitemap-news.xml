@@ -13,16 +13,4 @@
       <news:title>Pagamentos por aproximação: mitos, riscos e como usar em 2026</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/analisar-tarifas-bancarias-reduzir-gastos-automaticos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-08T00:00:00.000Z</news:publication_date>
-      <news:title>Como analisar tarifas bancárias e reduzir gastos automáticos</news:title>
-    </news:news>
-  </url>
 </urlset>
