@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 11 Dec 2025 11:24:08 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 11 Dec 2025 12:57:23 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Planejamento financeiro para autônomos sem renda fixa mínima</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/planejamento-financeiro-autonomos-sem-renda-fixa</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/planejamento-financeiro-autonomos-sem-renda-fixa</guid>
+    <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+    <description>Aprenda a organizar despesas, criar reserva e investir mesmo sem renda fixa mensal garantida. Controle financeiro autônomo.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejamento-financeiro-autonomo-878.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como começar a investir em ESG no Brasil em 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
     <description>Descubra estratégias práticas para proteger seu poder de compra e ajustar investimentos diante da inflação alta em 2025.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-financeiro-inflacao-698.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como Escolher um Plano de Saúde Sem Comprometer Seu Orçamento</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/plano-saude-sem-comprometer-orcamento</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/plano-saude-sem-comprometer-orcamento</guid>
-    <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como escolher um plano de saúde adequado com cobertura eficiente e custos compatíveis ao seu orçamento mensal.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-analisa-plano-saude-92.webp" medium="image" />
   </item>
 </channel>
 </rss>
