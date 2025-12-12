@@ -13,16 +13,4 @@
       <news:title>Planejamento financeiro para autônomos sem renda fixa mínima</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/como-comecar-investir-esg-brasil-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-10T00:00:00.000Z</news:publication_date>
-      <news:title>Como começar a investir em ESG no Brasil em 2026</news:title>
-    </news:news>
-  </url>
 </urlset>
