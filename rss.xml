@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 15 Dec 2025 11:25:02 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 15 Dec 2025 12:57:58 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como funciona o aluguel de móveis, eletrodomésticos e tecnologia</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/como-funciona-aluguel-moveis-eletro-tecnologia</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-funciona-aluguel-moveis-eletro-tecnologia</guid>
+    <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+    <description>Descubra como funciona o aluguel de móveis, eletrodomésticos e tecnologia e suas vantagens financeiras práticas.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/aluguel-moveis-eletrodomesticos-tecnologia-277.webp" medium="image" />
+  </item>
 
   <item>
     <title>Planejamento financeiro para autônomos sem renda fixa mínima</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
     <description>Descubra como usar cashback com segurança, aproveitando vantagens reais e evitando armadilhas comuns em 2025.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/pagamento-celular-cashback-39.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Inflação Alta em 2025: Como Proteger Seu Poder de Compra Agora</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/inflacao-alta-2025-como-proteger-poder-de-compra</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/inflacao-alta-2025-como-proteger-poder-de-compra</guid>
-    <pubDate>Mon, 08 Sep 2025 00:00:00 GMT</pubDate>
-    <description>Descubra estratégias práticas para proteger seu poder de compra e ajustar investimentos diante da inflação alta em 2025.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-financeiro-inflacao-698.webp" medium="image" />
   </item>
 </channel>
 </rss>
