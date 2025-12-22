@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 22 Dec 2025 11:23:25 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 22 Dec 2025 12:53:58 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Vale a pena trocar o carro pelo transporte público? Veja o impacto real</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/trocar-carro-transporte-publico-impacto-real</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/trocar-carro-transporte-publico-impacto-real</guid>
+    <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
+    <description>Descubra os custos reais e benefícios financeiros de trocar o carro pelo transporte público no seu dia a dia.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/carro-vs-onibus-transporte-publico-337.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como funciona o aluguel de móveis, eletrodomésticos e tecnologia</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
     <description>Aprenda métodos práticos para registrar despesas no celular sem usar planilhas e controle suas finanças com facilidade.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/anotando-gastos-celular-sem-planilhas-337.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Tudo sobre Cashback em 2025: Cuidados, Vantagens e Pegadinhas</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/cashback-2025-cuidados-vantagens-pegadinhas</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/cashback-2025-cuidados-vantagens-pegadinhas</guid>
-    <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como usar cashback com segurança, aproveitando vantagens reais e evitando armadilhas comuns em 2025.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/pagamento-celular-cashback-39.webp" medium="image" />
   </item>
 </channel>
 </rss>
