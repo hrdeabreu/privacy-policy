@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 23 Dec 2025 11:24:25 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 23 Dec 2025 12:55:34 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como reaproveitar cashback e pontos esquecidos no dia a dia</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/reaproveitar-cashback-pontos-esquecidos-dia-a-dia</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/reaproveitar-cashback-pontos-esquecidos-dia-a-dia</guid>
+    <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
+    <description>Aprenda estratégias práticas para transformar cashback e pontos esquecidos em vantagens financeiras reais no seu dia a dia.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/cashback-pontos-cartao-celular-779.webp" medium="image" />
+  </item>
 
   <item>
     <title>Vale a pena trocar o carro pelo transporte público? Veja o impacto real</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
     <description>Descubra 5 passos práticos para controlar o arrependimento de compras e evitar impactos negativos no seu orçamento.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/arrependimento-de-compra-819.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como Anotar Gastos no Celular sem Planilhas: Guia Prático</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/anotar-gastos-no-celular-sem-planilhas-guia-pratico</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/anotar-gastos-no-celular-sem-planilhas-guia-pratico</guid>
-    <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
-    <description>Aprenda métodos práticos para registrar despesas no celular sem usar planilhas e controle suas finanças com facilidade.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/anotando-gastos-celular-sem-planilhas-337.webp" medium="image" />
   </item>
 </channel>
 </rss>

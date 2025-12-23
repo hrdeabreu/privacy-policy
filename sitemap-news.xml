@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/reaproveitar-cashback-pontos-esquecidos-dia-a-dia</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Seu Mestre Financeiro</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-23T00:00:00.000Z</news:publication_date>
+      <news:title>Como reaproveitar cashback e pontos esquecidos no dia a dia</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.seumestrefinanceiro.com.br/post/trocar-carro-transporte-publico-impacto-real</loc>
     <news:news>
       <news:publication>
