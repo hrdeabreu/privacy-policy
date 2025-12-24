@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 24 Dec 2025 11:23:36 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 24 Dec 2025 12:53:30 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como se organizar para gastos escolares sem apertos financeiros</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/organizar-gastos-escolares-sem-apertos-financeiros</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/organizar-gastos-escolares-sem-apertos-financeiros</guid>
+    <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
+    <description>Aprenda a planejar e controlar gastos escolares com orçamento familiar, evitando endividamento e imprevistos no ano letivo.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-planejando-gastos-escolares-744.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como reaproveitar cashback e pontos esquecidos no dia a dia</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
     <description>Entenda os principais fatores que afetam seu score de crédito em 2025 e como melhorar sua saúde financeira rapidamente.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/analise-score-credito-2025-924.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como Lidar com Arrependimento de Compras: 5 Ações Imediatas</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/lidar-arrependimento-compras-5-acoes-imediatas</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/lidar-arrependimento-compras-5-acoes-imediatas</guid>
-    <pubDate>Thu, 11 Sep 2025 00:00:00 GMT</pubDate>
-    <description>Descubra 5 passos práticos para controlar o arrependimento de compras e evitar impactos negativos no seu orçamento.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/arrependimento-de-compra-819.webp" medium="image" />
   </item>
 </channel>
 </rss>
