@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 25 Dec 2025 11:22:19 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 25 Dec 2025 12:52:46 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Atalhos mentais da economia comportamental que sabotam seu bolso</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/atalhos-mentais-economia-comportamental-sabotam-bolso</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/atalhos-mentais-economia-comportamental-sabotam-bolso</guid>
+    <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
+    <description>Entenda como heurísticas cognitivas influenciam decisões financeiras e evite armadilhas que prejudicam seu controle financeiro.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/atalhos-mentais-dinheiro-524.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como se organizar para gastos escolares sem apertos financeiros</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
     <description>Aprenda a criar metas financeiras realistas com métodos comprovados para manter disciplina e alcançar seus objetivos.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/plano-financeiro-metas-408.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Score de Crédito: 10 Fatores que Pesam Mais em 2025</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/score-de-credito-10-fatores-que-pesam-mais-2025</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/score-de-credito-10-fatores-que-pesam-mais-2025</guid>
-    <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
-    <description>Entenda os principais fatores que afetam seu score de crédito em 2025 e como melhorar sua saúde financeira rapidamente.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/analise-score-credito-2025-924.webp" medium="image" />
   </item>
 </channel>
 </rss>
