@@ -13,16 +13,4 @@
       <news:title>Atalhos mentais da economia comportamental que sabotam seu bolso</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/organizar-gastos-escolares-sem-apertos-financeiros</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-24T00:00:00.000Z</news:publication_date>
-      <news:title>Como se organizar para gastos escolares sem apertos financeiros</news:title>
-    </news:news>
-  </url>
 </urlset>
