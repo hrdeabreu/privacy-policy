@@ -13,7 +13,7 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 30 Dec 2025 19:20:25 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 30 Dec 2025 20:29:13 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
 
@@ -168,15 +168,6 @@
     <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
     <description>Aprenda a montar um fundo de emergência para saúde da família e esteja preparado para imprevistos e despesas médicas.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-planejando-fundo-emergencia-saude-405.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Trabalho autônomo ou CLT: impactos no planejamento financeiro</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/trabalho-autonomo-ou-clt-impactos-no-planejamento-financeiro</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/trabalho-autonomo-ou-clt-impactos-no-planejamento-financeiro</guid>
-    <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
-    <description>Entenda as diferenças financeiras entre trabalho autônomo e CLT e como cada regime afeta seu planejamento e segurança.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/trabalho-autonomo-clt-planejamento-89.webp" medium="image" />
   </item>
 
   <item>
@@ -465,6 +456,15 @@
     <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
     <description>Descubra os gastos ocultos no dia a dia que drenam seu orçamento e impeçam você de poupar de verdade.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/despesas-invisiveis-conta-bancaria-688.webp" medium="image" />
+  </item>
+
+  <item>
+    <title>PIB Pessoal: O Que É e Como Medir Sua Riqueza Todo Ano</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/pib-pessoal-como-medir-sua-riqueza-ano</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/pib-pessoal-como-medir-sua-riqueza-ano</guid>
+    <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
+    <description>Descubra como calcular seu PIB pessoal e acompanhe o crescimento real da sua riqueza ano a ano de forma prática.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/calculo-renda-pessoal-390.webp" medium="image" />
   </item>
 </channel>
 </rss>
