@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 30 Dec 2025 11:24:32 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 30 Dec 2025 12:55:37 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como criar uma rotina financeira simples sem perder tempo</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/rotina-financeira-simples-sempre</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/rotina-financeira-simples-sempre</guid>
+    <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+    <description>Descubra passos práticos para organizar suas finanças, evitar erros comuns e ganhar controle sem complicação diária.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/rotina-financeira-simples-mesa-415.webp" medium="image" />
+  </item>
 
   <item>
     <title>7 maneiras inteligentes de usar o dinheiro da restituição em 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
     <description>Descubra os gastos ocultos no dia a dia que drenam seu orçamento e impeçam você de poupar de verdade.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/despesas-invisiveis-conta-bancaria-688.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>PIB Pessoal: O Que É e Como Medir Sua Riqueza Todo Ano</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/pib-pessoal-como-medir-sua-riqueza-ano</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/pib-pessoal-como-medir-sua-riqueza-ano</guid>
-    <pubDate>Wed, 17 Sep 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como calcular seu PIB pessoal e acompanhe o crescimento real da sua riqueza ano a ano de forma prática.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/calculo-renda-pessoal-390.webp" medium="image" />
   </item>
 </channel>
 </rss>
