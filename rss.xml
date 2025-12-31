@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 31 Dec 2025 11:23:44 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 31 Dec 2025 12:53:59 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Finanças para quem mora sozinho: Equilibrando liberdade e contas</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/financas-para-quem-mora-sozinho-equilibrando-liberdade-e-contas</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/financas-para-quem-mora-sozinho-equilibrando-liberdade-e-contas</guid>
+    <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
+    <description>Aprenda a gerenciar gastos fixos, controlar impulsos e construir reserva financeira morando sozinho.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/jovem-morando-sozinho-orcamento-mensal-329.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como criar uma rotina financeira simples sem perder tempo</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
     <description>Descubra prós e contras de seguir influenciadores de finanças e evite armadilhas comuns no controle do seu dinheiro.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/influenciador-financas-redes-sociais-868.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>7 Gastos Invisíveis que Esvaziam Sua Conta Sem Perceber</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/7-gastos-invisiveis-que-esvaziam-sua-conta</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/7-gastos-invisiveis-que-esvaziam-sua-conta</guid>
-    <pubDate>Mon, 22 Sep 2025 00:00:00 GMT</pubDate>
-    <description>Descubra os gastos ocultos no dia a dia que drenam seu orçamento e impeçam você de poupar de verdade.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/despesas-invisiveis-conta-bancaria-688.webp" medium="image" />
   </item>
 </channel>
 </rss>
