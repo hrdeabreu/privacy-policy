@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 01 Jan 2026 11:23:08 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Jan 2026 12:53:57 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Aposentadoria privada ou pública: qual faz mais sentido?</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/aposentadoria-privada-ou-publica-qual-faz-mais-sentido</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/aposentadoria-privada-ou-publica-qual-faz-mais-sentido</guid>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Entenda as diferenças entre aposentadoria pública e privada e veja qual opção combina melhor com seus objetivos financeiros.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/comparacao-aposentadoria-publica-privada-414.webp" medium="image" />
+  </item>
 
   <item>
     <title>Finanças para quem mora sozinho: Equilibrando liberdade e contas</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 24 Sep 2025 00:00:00 GMT</pubDate>
     <description>Descubra como evitar taxas ocultas, escolher a melhor cotação e garantir segurança nas transferências internacionais em 2025.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/transferencia-internacional-financas-2025-345.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Vale a Pena Seguir Influenciadores de Finanças? Prós e Contras</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/seguir-influenciadores-financas-prós-contras</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/seguir-influenciadores-financas-prós-contras</guid>
-    <pubDate>Tue, 23 Sep 2025 00:00:00 GMT</pubDate>
-    <description>Descubra prós e contras de seguir influenciadores de finanças e evite armadilhas comuns no controle do seu dinheiro.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/influenciador-financas-redes-sociais-868.webp" medium="image" />
   </item>
 </channel>
 </rss>
