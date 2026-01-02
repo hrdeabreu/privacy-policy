@@ -13,16 +13,4 @@
       <news:title>Aposentadoria privada ou pública: qual faz mais sentido?</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/financas-para-quem-mora-sozinho-equilibrando-liberdade-e-contas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2025-12-31T00:00:00.000Z</news:publication_date>
-      <news:title>Finanças para quem mora sozinho: Equilibrando liberdade e contas</news:title>
-    </news:news>
-  </url>
 </urlset>
