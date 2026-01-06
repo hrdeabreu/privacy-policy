@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 06 Jan 2026 11:24:18 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 06 Jan 2026 12:56:12 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como utilizar o 14º salário de forma consciente e segura</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/utilizar-14o-salario-conscientemente-seguro</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/utilizar-14o-salario-conscientemente-seguro</guid>
+    <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Descubra estratégias para organizar o 14º salário, equilibrar dívidas e investir com foco em segurança financeira real.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejando-decimo-quarto-salario-463.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como reduzir seu footprint financeiro em 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
     <description>Entenda como a economia compartilhada pode reduzir gastos e gerar renda extra para seu orçamento em 2025.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/economia-compartilhada-digital-411.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como Lidar com Aposentadoria dos Pais: Guia Financeiro Prático</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/como-lidar-com-aposentadoria-dos-pais-guia-pratico</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-lidar-com-aposentadoria-dos-pais-guia-pratico</guid>
-    <pubDate>Thu, 25 Sep 2025 00:00:00 GMT</pubDate>
-    <description>Entenda como organizar finanças, direitos e sucessão para garantir segurança e tranquilidade na aposentadoria dos seus pais.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/conversa-financeira-pais-filho-467.webp" medium="image" />
   </item>
 </channel>
 </rss>
