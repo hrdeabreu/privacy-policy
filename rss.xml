@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 07 Jan 2026 11:25:46 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Jan 2026 12:57:08 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como organizar as finanças no home office: dicas para 2026</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/organizar-financas-home-office-2026</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/organizar-financas-home-office-2026</guid>
+    <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Descubra estratégias para controlar gastos, manter orçamento equilibrado e investir melhor trabalhando no home office em 2026.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/financas-home-office-organizadas-766.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como utilizar o 14º salário de forma consciente e segura</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
     <description>Aprenda técnicas práticas para negociar aumentos salariais e benefícios alinhados às tendências do mercado em 2025.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/negociacao-aumento-beneficios-224.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como a Economia Compartilhada Pode Impactar Seu Bolso em 2025</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/economia-compartilhada-impacto-bolso-2025</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/economia-compartilhada-impacto-bolso-2025</guid>
-    <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
-    <description>Entenda como a economia compartilhada pode reduzir gastos e gerar renda extra para seu orçamento em 2025.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/economia-compartilhada-digital-411.webp" medium="image" />
   </item>
 </channel>
 </rss>
