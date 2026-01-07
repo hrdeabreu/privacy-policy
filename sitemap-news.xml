@@ -13,16 +13,4 @@
       <news:title>Como utilizar o 14º salário de forma consciente e segura</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/reduzir-footprint-financeiro-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-05T00:00:00.000Z</news:publication_date>
-      <news:title>Como reduzir seu footprint financeiro em 2026</news:title>
-    </news:news>
-  </url>
 </urlset>
