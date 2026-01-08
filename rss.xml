@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 08 Jan 2026 11:25:59 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 08 Jan 2026 12:57:57 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como identificar e escapar de pirâmides financeiras disfarçadas</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/identificar-escapar-piramides-financeiras-disfarcadas</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/identificar-escapar-piramides-financeiras-disfarcadas</guid>
+    <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a reconhecer sinais de pirâmides financeiras disfarçadas e evite perdas com fraudes comuns no mercado.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/piramide-financeira-armadilha-84.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como organizar as finanças no home office: dicas para 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
     <description>Descubra como as assinaturas impactam seu orçamento anual e aprenda a controlar gastos recorrentes para evitar surpresas.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-financeiro-assinaturas-722.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como Negociar Aumentos e Benefícios no Trabalho em 2025</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/negociar-aumentos-beneficios-trabalho-2025</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/negociar-aumentos-beneficios-trabalho-2025</guid>
-    <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
-    <description>Aprenda técnicas práticas para negociar aumentos salariais e benefícios alinhados às tendências do mercado em 2025.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/negociacao-aumento-beneficios-224.webp" medium="image" />
   </item>
 </channel>
 </rss>
