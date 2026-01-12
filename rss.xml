@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 12 Jan 2026 11:26:12 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 12:59:05 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Seguro para autônomos: o que existe e quando considerar contratar</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/seguro-autonomos-o-que-e-quando-contratar</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/seguro-autonomos-o-que-e-quando-contratar</guid>
+    <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Conheça as opções de seguros para autônomos e saiba quando é hora de contratar para proteger sua renda e atividades.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/seguro-para-autonomo-escritorio-678.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como identificar e escapar de pirâmides financeiras disfarçadas</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
     <description>Entenda como o Open Banking integra suas contas e cartões para facilitar decisões financeiras e aumentar seu controle financeiro.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-financeiro-open-banking-997.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como o Consumo por Assinatura Afeta Seu Planejamento Anual</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/consumo-por-assinatura-planejamento-anual</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/consumo-por-assinatura-planejamento-anual</guid>
-    <pubDate>Wed, 01 Oct 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como as assinaturas impactam seu orçamento anual e aprenda a controlar gastos recorrentes para evitar surpresas.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-financeiro-assinaturas-722.webp" medium="image" />
   </item>
 </channel>
 </rss>
