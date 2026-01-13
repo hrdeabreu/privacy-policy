@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 13 Jan 2026 11:26:11 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Jan 2026 12:59:03 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Herança digital: Como proteger senhas e ativos online da família</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/heranca-digital-proteger-senhas-ativos-online-familia</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/heranca-digital-proteger-senhas-ativos-online-familia</guid>
+    <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a organizar senhas, documentos digitais e contas online para garantir segurança e acesso futuro da família.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/heranca-digital-familia-senhas-426.webp" medium="image" />
+  </item>
 
   <item>
     <title>Seguro para autônomos: o que existe e quando considerar contratar</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
     <description>Descubra 6 maneiras práticas e reais de aumentar sua renda extra em 2026 sem precisar sair de casa. Ganhe mais agora!</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/trabalho-home-office-computador-681.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como o Open Banking Está Mudando o Controle do Seu Dinheiro</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/open-banking-controle-financeiro</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/open-banking-controle-financeiro</guid>
-    <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
-    <description>Entenda como o Open Banking integra suas contas e cartões para facilitar decisões financeiras e aumentar seu controle financeiro.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-financeiro-open-banking-997.webp" medium="image" />
   </item>
 </channel>
 </rss>
