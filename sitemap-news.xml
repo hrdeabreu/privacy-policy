@@ -13,16 +13,4 @@
       <news:title>Herança digital: Como proteger senhas e ativos online da família</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/seguro-autonomos-o-que-e-quando-contratar</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-12T00:00:00.000Z</news:publication_date>
-      <news:title>Seguro para autônomos: o que existe e quando considerar contratar</news:title>
-    </news:news>
-  </url>
 </urlset>
