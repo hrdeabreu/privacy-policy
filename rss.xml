@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 14 Jan 2026 11:26:53 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 14 Jan 2026 12:58:52 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Dívidas antigas: Quando vale negociar e quando esquecer?</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/dividas-antigas-quando-negociar-e-quando-esquecer</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/dividas-antigas-quando-negociar-e-quando-esquecer</guid>
+    <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Entenda quando negociar dívidas antigas vale a pena e como avaliar se é melhor deixá-las para trás estrategicamente.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/dividas-antigas-decisao-negociar-esquecer-252.webp" medium="image" />
+  </item>
 
   <item>
     <title>Herança digital: Como proteger senhas e ativos online da família</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
     <description>Dicas práticas para proteger suas senhas, evitar fraudes e manter a segurança dos dados financeiros em apps e fintechs.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/seguranca-dados-financeiros-app-278.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Renda Extra em 2026: 6 Formas Reais de Ganhar Sem Sair de Casa</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/renda-extra-2026-6-formas-ganhar-sem-sair-de-casa</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/renda-extra-2026-6-formas-ganhar-sem-sair-de-casa</guid>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-    <description>Descubra 6 maneiras práticas e reais de aumentar sua renda extra em 2026 sem precisar sair de casa. Ganhe mais agora!</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/trabalho-home-office-computador-681.webp" medium="image" />
   </item>
 </channel>
 </rss>
