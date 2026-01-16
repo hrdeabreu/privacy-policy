@@ -13,7 +13,7 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Fri, 16 Jan 2026 21:27:02 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 16 Jan 2026 22:27:28 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
 
@@ -168,24 +168,6 @@
     <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
     <description>Aprenda a organizar despesas, criar reserva e investir mesmo sem renda fixa mensal garantida. Controle financeiro autônomo.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejamento-financeiro-autonomo-878.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como começar a investir em ESG no Brasil em 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/como-comecar-investir-esg-brasil-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-comecar-investir-esg-brasil-2026</guid>
-    <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como investir em fundos ESG no Brasil em 2026, alinhando decisão financeira a critérios sociais e ambientais.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investidor-esg-brasil-2026-143.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Pagamentos por aproximação: mitos, riscos e como usar em 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/pagamentos-por-aproximacao-mitos-riscos-como-usar-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/pagamentos-por-aproximacao-mitos-riscos-como-usar-2026</guid>
-    <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Entenda os riscos reais, mitos e como usar pagamentos por aproximação com segurança e praticidade em 2026.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/pagamento-aproximacao-celular-cartao-831.webp" medium="image" />
   </item>
 
   <item>
@@ -465,6 +447,24 @@
     <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
     <description>Dicas práticas para proteger suas senhas, evitar fraudes e manter a segurança dos dados financeiros em apps e fintechs.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/seguranca-dados-financeiros-app-278.webp" medium="image" />
+  </item>
+
+  <item>
+    <title>Renda Extra em 2026: 6 Formas Reais de Ganhar Sem Sair de Casa</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/renda-extra-2026-6-formas-ganhar-sem-sair-de-casa</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/renda-extra-2026-6-formas-ganhar-sem-sair-de-casa</guid>
+    <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+    <description>Descubra 6 maneiras práticas e reais de aumentar sua renda extra em 2026 sem precisar sair de casa. Ganhe mais agora!</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/trabalho-home-office-computador-681.webp" medium="image" />
+  </item>
+
+  <item>
+    <title>Como o Open Banking Está Mudando o Controle do Seu Dinheiro</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/open-banking-controle-financeiro</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/open-banking-controle-financeiro</guid>
+    <pubDate>Thu, 02 Oct 2025 00:00:00 GMT</pubDate>
+    <description>Entenda como o Open Banking integra suas contas e cartões para facilitar decisões financeiras e aumentar seu controle financeiro.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-financeiro-open-banking-997.webp" medium="image" />
   </item>
 </channel>
 </rss>
