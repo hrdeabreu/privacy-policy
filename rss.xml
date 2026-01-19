@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 19 Jan 2026 11:26:43 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Jan 2026 13:02:11 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como evitar se perder nos pequenos gastos de delivery e apps</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/evitar-pequenos-gastos-delivery-apps</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/evitar-pequenos-gastos-delivery-apps</guid>
+    <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Descubra estratégias práticas para controlar os gastos com delivery e apps e evitar surpresas no orçamento mensal.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-gastos-delivery-smartphone-888.webp" medium="image" />
+  </item>
 
   <item>
     <title>Dívidas antigas: Quando vale negociar e quando esquecer?</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
     <description>Descubra comportamentos financeiros tóxicos que sabotam seu controle e aprenda a construir uma relação saudável com o dinheiro.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/retrato-pessoa-preocupada-com-financas-342.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como proteger seus dados financeiros em apps e fintechs em 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/proteger-dados-financeiros-apps-fintechs-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/proteger-dados-financeiros-apps-fintechs-2026</guid>
-    <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-    <description>Dicas práticas para proteger suas senhas, evitar fraudes e manter a segurança dos dados financeiros em apps e fintechs.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/seguranca-dados-financeiros-app-278.webp" medium="image" />
   </item>
 </channel>
 </rss>
