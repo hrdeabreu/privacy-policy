@@ -13,7 +13,7 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 20 Jan 2026 08:41:00 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 20 Jan 2026 09:38:18 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
 
@@ -90,6 +90,15 @@
   </item>
 
   <item>
+    <title>Aposentadoria privada ou pública: qual faz mais sentido?</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/aposentadoria-privada-ou-publica-qual-faz-mais-sentido</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/aposentadoria-privada-ou-publica-qual-faz-mais-sentido</guid>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Entenda as diferenças entre aposentadoria pública e privada e veja qual opção combina melhor com seus objetivos financeiros.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/comparacao-aposentadoria-publica-privada-414.webp" medium="image" />
+  </item>
+
+  <item>
     <title>Finanças para quem mora sozinho: Equilibrando liberdade e contas</title>
     <link>https://www.seumestrefinanceiro.com.br/post/financas-para-quem-mora-sozinho-equilibrando-liberdade-e-contas</link>
     <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/financas-para-quem-mora-sozinho-equilibrando-liberdade-e-contas</guid>
@@ -159,6 +168,15 @@
     <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
     <description>Descubra como funciona o aluguel de móveis, eletrodomésticos e tecnologia e suas vantagens financeiras práticas.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/aluguel-moveis-eletrodomesticos-tecnologia-277.webp" medium="image" />
+  </item>
+
+  <item>
+    <title>Planejamento financeiro para autônomos sem renda fixa mínima</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/planejamento-financeiro-autonomos-sem-renda-fixa</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/planejamento-financeiro-autonomos-sem-renda-fixa</guid>
+    <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+    <description>Aprenda a organizar despesas, criar reserva e investir mesmo sem renda fixa mensal garantida. Controle financeiro autônomo.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejamento-financeiro-autonomo-878.webp" medium="image" />
   </item>
 
   <item>
@@ -447,24 +465,6 @@
     <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
     <description>Descubra comportamentos financeiros tóxicos que sabotam seu controle e aprenda a construir uma relação saudável com o dinheiro.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/retrato-pessoa-preocupada-com-financas-342.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como proteger seus dados financeiros em apps e fintechs em 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/proteger-dados-financeiros-apps-fintechs-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/proteger-dados-financeiros-apps-fintechs-2026</guid>
-    <pubDate>Tue, 07 Oct 2025 00:00:00 GMT</pubDate>
-    <description>Dicas práticas para proteger suas senhas, evitar fraudes e manter a segurança dos dados financeiros em apps e fintechs.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/seguranca-dados-financeiros-app-278.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Renda Extra em 2026: 6 Formas Reais de Ganhar Sem Sair de Casa</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/renda-extra-2026-6-formas-ganhar-sem-sair-de-casa</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/renda-extra-2026-6-formas-ganhar-sem-sair-de-casa</guid>
-    <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
-    <description>Descubra 6 maneiras práticas e reais de aumentar sua renda extra em 2026 sem precisar sair de casa. Ganhe mais agora!</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/trabalho-home-office-computador-681.webp" medium="image" />
   </item>
 </channel>
 </rss>
