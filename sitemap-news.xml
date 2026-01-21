@@ -13,16 +13,4 @@
       <news:title>Transferências instantâneas internacionais: o que mudou em 2026</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/evitar-pequenos-gastos-delivery-apps</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-01-19T00:00:00.000Z</news:publication_date>
-      <news:title>Como evitar se perder nos pequenos gastos de delivery e apps</news:title>
-    </news:news>
-  </url>
 </urlset>
