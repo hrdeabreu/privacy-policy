@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 22 Jan 2026 11:28:01 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 22 Jan 2026 13:02:28 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>O impacto de animais exóticos no orçamento doméstico</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/impacto-animais-exoticos-orcamento-domestico</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/impacto-animais-exoticos-orcamento-domestico</guid>
+    <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Descubra como custos com alimentação, saúde e manutenção de animais exóticos afetam o orçamento familiar e planejamentos financeiros.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/animais-exoticos-orcamento-familiar-431.webp" medium="image" />
+  </item>
 
   <item>
     <title>Tudo sobre fundo de emergência para autônomos em 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
     <description>Descubra como hábitos financeiros simples e consistentes constroem patrimônio e trazem segurança para o seu futuro.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/acoes-diarias-financas-futuro-1.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como recuperar valores esquecidos em bancos e órgãos</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/recuperar-valores-esquecidos-bancos-orgaos</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/recuperar-valores-esquecidos-bancos-orgaos</guid>
-    <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
-    <description>Aprenda a localizar e recuperar valores esquecidos em instituições financeiras e órgãos públicos com segurança e passo a passo.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/pessoa_consultando_documentos_financeiros-508.webp" medium="image" />
   </item>
 </channel>
 </rss>
