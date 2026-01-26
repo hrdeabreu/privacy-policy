@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 26 Jan 2026 11:26:10 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 26 Jan 2026 13:00:38 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Dicas práticas para usar poupança automática no dia a dia</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/dicas-praticas-poupanca-automatica-dia-a-dia</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/dicas-praticas-poupanca-automatica-dia-a-dia</guid>
+    <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a configurar e manter a poupança automática para garantir disciplina financeira e acelerar seus objetivos pessoais.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/poupanca-automatica-dia-a-dia-672.webp" medium="image" />
+  </item>
 
   <item>
     <title>O impacto de animais exóticos no orçamento doméstico</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
     <description>Descubra 8 regras práticas para organizar finanças a dois, evitar desentendimentos e fortalecer o planejamento financeiro.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/casal_planejando_gastos-296.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como pequenas ações diárias influenciam seu futuro financeiro</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/pequenas-acoes-diarias-futuro-financeiro</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/pequenas-acoes-diarias-futuro-financeiro</guid>
-    <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como hábitos financeiros simples e consistentes constroem patrimônio e trazem segurança para o seu futuro.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/acoes-diarias-financas-futuro-1.webp" medium="image" />
   </item>
 </channel>
 </rss>
