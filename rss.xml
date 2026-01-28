@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 28 Jan 2026 11:28:11 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 28 Jan 2026 13:03:06 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>7 formas de aumentar a renda sem um segundo emprego</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/7-formas-de-aumentar-a-renda-sem-um-segundo-emprego</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/7-formas-de-aumentar-a-renda-sem-um-segundo-emprego</guid>
+    <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Descubra estratégias práticas e acessíveis para aumentar sua renda sem precisar de um segundo emprego fixo.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/aumentar-renda-sem-segundo-emprego-763.webp" medium="image" />
+  </item>
 
   <item>
     <title>Dicas práticas para usar poupança automática no dia a dia</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
     <description>Descubra como o consumo consciente reduz despesas, evita dívidas e fortalece seu orçamento em 2026.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/consumo-consciente-orcamento-2026-524.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Gastos em casais: 8 regras simples para evitar conflitos</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/gastos-em-casais-8-regras-simples-evitar-conflitos</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/gastos-em-casais-8-regras-simples-evitar-conflitos</guid>
-    <pubDate>Wed, 15 Oct 2025 00:00:00 GMT</pubDate>
-    <description>Descubra 8 regras práticas para organizar finanças a dois, evitar desentendimentos e fortalecer o planejamento financeiro.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/casal_planejando_gastos-296.webp" medium="image" />
   </item>
 </channel>
 </rss>
