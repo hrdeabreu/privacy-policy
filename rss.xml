@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 29 Jan 2026 10:42:59 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Jan 2026 11:35:35 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como proteger as finanças durante transições de carreira</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/proteger-financas-transicoes-carreira</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/proteger-financas-transicoes-carreira</guid>
+    <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a manter a saúde financeira estável em mudanças profissionais com controle de gastos e planejamento estratégico.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/transicao-carreira-financas-planejamento-83.webp" medium="image" />
+  </item>
 
   <item>
     <title>7 formas de aumentar a renda sem um segundo emprego</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
     <description>Entenda os impactos do Simples Nacional na aposentadoria, cálculos do INSS e quais contribuições são obrigatórias para garantir seu benefício.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/empreendedor-consultando-financas-66.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como o consumo consciente pode melhorar seu orçamento em 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/consumo-consciente-melhora-orcamento-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/consumo-consciente-melhora-orcamento-2026</guid>
-    <pubDate>Mon, 20 Oct 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como o consumo consciente reduz despesas, evita dívidas e fortalece seu orçamento em 2026.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/consumo-consciente-orcamento-2026-524.webp" medium="image" />
   </item>
 </channel>
 </rss>
