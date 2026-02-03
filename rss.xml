@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 03 Feb 2026 10:49:24 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Feb 2026 11:38:34 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como planejar compras maiores sem prejudicar o orçamento mensal</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/planejar-compras-maiores-sem-prejudicar-orcamento-mensal</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/planejar-compras-maiores-sem-prejudicar-orcamento-mensal</guid>
+    <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
+    <description>Descubra estratégias para equilibrar compras maiores com o orçamento mensal e evitar dívidas desnecessárias.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejamento-compra-grande-familia-649.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como escolher uma conta digital e evitar pegadinhas ocultas</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
     <description>Descubra técnicas para reduzir gastos em e-commerce, usar cupons, programas de cashback e escolher o melhor momento para comprar.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/compras-online-economia-646.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como funciona o seguro de vida digital: guia rápido 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/seguro-vida-digital-guia-rapido-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/seguro-vida-digital-guia-rapido-2026</guid>
-    <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
-    <description>Entenda as vantagens do seguro de vida digital, prazos, coberturas e como contratar sem burocracia em 2026.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/seguro-vida-digital-celular-306.webp" medium="image" />
   </item>
 </channel>
 </rss>
