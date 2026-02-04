@@ -13,16 +13,4 @@
       <news:title>Como planejar compras maiores sem prejudicar o orçamento mensal</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/como-escolher-conta-digital-evitar-pegadinhas</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-02T00:00:00.000Z</news:publication_date>
-      <news:title>Como escolher uma conta digital e evitar pegadinhas ocultas</news:title>
-    </news:news>
-  </url>
 </urlset>
