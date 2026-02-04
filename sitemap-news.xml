@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/parcelas-sem-juros-valem-a-pena</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Seu Mestre Financeiro</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-04T00:00:00.000Z</news:publication_date>
+      <news:title>Quando as parcelas sem juros realmente valem a pena?</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.seumestrefinanceiro.com.br/post/planejar-compras-maiores-sem-prejudicar-orcamento-mensal</loc>
     <news:news>
       <news:publication>

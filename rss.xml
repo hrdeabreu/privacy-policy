@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 04 Feb 2026 10:47:18 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Feb 2026 11:37:26 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Quando as parcelas sem juros realmente valem a pena?</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/parcelas-sem-juros-valem-a-pena</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/parcelas-sem-juros-valem-a-pena</guid>
+    <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+    <description>Descubra quando as parcelas sem juros são vantajosas e como evitar armadilhas no planejamento financeiro pessoal.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/parcelas-cartao-compras-planejamento-603.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como planejar compras maiores sem prejudicar o orçamento mensal</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
     <description>Saiba quando e como usar o FGTS digital para antecipar seus objetivos financeiros em 2026 com segurança e estratégia.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/celular-com-aplicativo-fgts-705.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como economizar em compras online: 11 dicas práticas para 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/economizar-compras-online-dicas-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/economizar-compras-online-dicas-2026</guid>
-    <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
-    <description>Descubra técnicas para reduzir gastos em e-commerce, usar cupons, programas de cashback e escolher o melhor momento para comprar.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/compras-online-economia-646.webp" medium="image" />
   </item>
 </channel>
 </rss>
