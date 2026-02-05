@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 05 Feb 2026 10:49:32 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Feb 2026 11:39:08 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como ajustar investimentos e dívidas com a Selic alta em 2026</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/ajustar-investimentos-dividas-selic-alta-2026</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/ajustar-investimentos-dividas-selic-alta-2026</guid>
+    <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda estratégias para ajustar sua carteira e controlar dívidas diante da alta da Selic em 2026.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investidor-brasileiro-selic-alta-2026-266.webp" medium="image" />
+  </item>
 
   <item>
     <title>Quando as parcelas sem juros realmente valem a pena?</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 28 Oct 2025 00:00:00 GMT</pubDate>
     <description>Aprenda a organizar seu orçamento, controlar gastos e garantir uma viagem tranquila sem faltar dinheiro no caminho.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejamento-financeiro-viagem-838.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Fgts digital: quando e como usar para antecipar sonhos em 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/fgts-digital-antecipar-sonhos-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/fgts-digital-antecipar-sonhos-2026</guid>
-    <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-    <description>Saiba quando e como usar o FGTS digital para antecipar seus objetivos financeiros em 2026 com segurança e estratégia.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/celular-com-aplicativo-fgts-705.webp" medium="image" />
   </item>
 </channel>
 </rss>
