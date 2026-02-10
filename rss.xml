@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 10 Feb 2026 10:58:34 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 10 Feb 2026 11:55:26 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como entender e planejar os custos ocultos ao mudar de cidade</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/custos-ocultos-mudanca-de-cidade</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/custos-ocultos-mudanca-de-cidade</guid>
+    <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+    <description>Descubra como identificar gastos inesperados e organizar seu orçamento para uma mudança sem surpresas financeiras.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/mudanca-cidade-custos-ocultos-317.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como planejar a volta às aulas: nove dicas financeiras para 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 30 Oct 2025 00:00:00 GMT</pubDate>
     <description>Aprenda a organizar seu 13º salário para quitar dívidas, formar reserva e investir com planejamento financeiro eficaz.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejamento-13o-salario-385.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como o algoritmo dos apps influencia seus hábitos de compra</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/algoritmo-apps-influencia-habitos-compra</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/algoritmo-apps-influencia-habitos-compra</guid>
-    <pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como algoritmos moldam suas escolhas de compra, influenciando comportamentos e impactando seu controle financeiro pessoal.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/algoritmo-apps-habitos-compra-347.webp" medium="image" />
   </item>
 </channel>
 </rss>
