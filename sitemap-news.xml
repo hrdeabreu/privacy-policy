@@ -13,16 +13,4 @@
       <news:title>Investimento sustentável: Quais métricas analisar além do esg?</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/custos-ocultos-mudanca-de-cidade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-02-10T00:00:00.000Z</news:publication_date>
-      <news:title>Como entender e planejar os custos ocultos ao mudar de cidade</news:title>
-    </news:news>
-  </url>
 </urlset>
