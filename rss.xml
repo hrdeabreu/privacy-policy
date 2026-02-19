@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 19 Feb 2026 10:52:35 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 19 Feb 2026 11:41:48 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Cuidados ao dividir aluguel e contas em repúblicas universitárias</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/cuidados-dividir-aluguel-contas-republicas-universitarias</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/cuidados-dividir-aluguel-contas-republicas-universitarias</guid>
+    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+    <description>Saiba como organizar gastos, evitar conflitos e garantir justiça ao dividir aluguel e contas em repúblicas universitárias.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/dividir-aluguel-republica-universitaria-154.webp" medium="image" />
+  </item>
 
   <item>
     <title>Investimento sustentável: Quais métricas analisar além do esg?</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
     <description>Aprenda a planejar e controlar os custos com pets em 2026, garantindo saúde e bem-estar sem comprometer seu orçamento.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-gastos-pets-calculadora-504.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>5 sinais de que seu orçamento precisa de revisão urgente</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/5-sinais-de-que-seu-orcamento-precisa-de-revisao-urgente</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/5-sinais-de-que-seu-orcamento-precisa-de-revisao-urgente</guid>
-    <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
-    <description>Descubra os sinais claros que indicam que seu orçamento está fora do controle e aprenda quando e como ajustar suas finanças.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-financeiro-orcamento-154.webp" medium="image" />
   </item>
 </channel>
 </rss>
