@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 23 Feb 2026 10:04:16 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 11:42:16 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como investir em criptomoedas sem cair em modismos fáceis</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/como-investir-criptomoedas-sem-cair-em-modismos</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-investir-criptomoedas-sem-cair-em-modismos</guid>
+    <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a investir em criptomoedas com estratégia, evitando modismos e minimizando riscos no mercado volátil.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investidor-criptomoedas-equilibrio-711.webp" medium="image" />
+  </item>
 
   <item>
     <title>Cuidados ao dividir aluguel e contas em repúblicas universitárias</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
     <description>Descubra como a inteligência artificial pode automatizar controle financeiro, identificar gastos e melhorar seu planejamento mensal.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/inteligencia-artificial-organizando-financas-783.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como controlar gastos com pets: guia financeiro para 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/controlar-gastos-pets-guia-financeiro-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/controlar-gastos-pets-guia-financeiro-2026</guid>
-    <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
-    <description>Aprenda a planejar e controlar os custos com pets em 2026, garantindo saúde e bem-estar sem comprometer seu orçamento.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-gastos-pets-calculadora-504.webp" medium="image" />
   </item>
 </channel>
 </rss>
