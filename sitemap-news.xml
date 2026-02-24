@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/antecipar-recebiveis-riscos-cuidados-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Seu Mestre Financeiro</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-02-24T00:00:00.000Z</news:publication_date>
+      <news:title>Vale a pena antecipar o recebível? Riscos e cuidados em 2026</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.seumestrefinanceiro.com.br/post/como-investir-criptomoedas-sem-cair-em-modismos</loc>
     <news:news>
       <news:publication>
