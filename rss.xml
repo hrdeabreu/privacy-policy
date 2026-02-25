@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 25 Feb 2026 10:03:01 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Feb 2026 11:42:49 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como lidar com o fim do auxílio emergencial no orçamento familiar</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/fim-auxilio-emergencial-orcamento-familiar</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/fim-auxilio-emergencial-orcamento-familiar</guid>
+    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a ajustar despesas, criar planos de contingência e reorganizar finanças após o fim do auxílio emergencial.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-planejando-orcamento-fim-auxilio-727.webp" medium="image" />
+  </item>
 
   <item>
     <title>Vale a pena antecipar o recebível? Riscos e cuidados em 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
     <description>Aprenda estratégias eficazes para negociar dívidas com amigos e familiares, evitando mal-entendidos e conflitos pessoais.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/conversando-sobre-dividas-familiares-371.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como calcular e negociar o reajuste de aluguel em 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/calcular-negociar-reajuste-aluguel-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/calcular-negociar-reajuste-aluguel-2026</guid>
-    <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
-    <description>Aprenda a calcular reajuste de aluguel em 2026 e descubra estratégias para negociar índices e evitar impactos no seu orçamento.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/calculadora-contrato-aluguel-784.webp" medium="image" />
   </item>
 </channel>
 </rss>
