@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 26 Feb 2026 10:57:37 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Feb 2026 11:48:12 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Tesouro ipca ou prefixado: qual protege seu dinheiro em 2026?</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/tesouro-ipca-ou-prefixado-qual-protege-seu-dinheiro-2026</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/tesouro-ipca-ou-prefixado-qual-protege-seu-dinheiro-2026</guid>
+    <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+    <description>Descubra se o Tesouro IPCA ou prefixado oferece maior proteção contra inflação e juros em 2026. Saiba qual escolher!</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/tesouro-ipca-vs-prefixado-2026-361.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como lidar com o fim do auxílio emergencial no orçamento familiar</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
     <description>Descubra como avaliar coberturas, franquias e assistências para escolher o seguro residencial ideal em 2026.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/seguro-residencial-casa-segurada-55.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como lidar com dívidas entre amigos e família sem conflitos</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/como-lidar-com-dividas-entre-amigos-e-familia-sem-conflitos</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-lidar-com-dividas-entre-amigos-e-familia-sem-conflitos</guid>
-    <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
-    <description>Aprenda estratégias eficazes para negociar dívidas com amigos e familiares, evitando mal-entendidos e conflitos pessoais.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/conversando-sobre-dividas-familiares-371.webp" medium="image" />
   </item>
 </channel>
 </rss>

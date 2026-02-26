@@ -3,6 +3,26 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/tesouro-ipca-ou-prefixado-qual-protege-seu-dinheiro-2026</loc>
+    <lastmod>2026-02-26T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/tesouro-ipca-vs-prefixado-2026-361.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://99588517054034056dc4ed3dd2f332bd.cdn.bubble.io/f1755566751100x329045361429101100/Seu%20Mestre%20Financeiro%20-%20Banner%20Youtube%20-%20Copia%20%282%29.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://99588517054034056dc4ed3dd2f332bd.cdn.bubble.io/f1755393474047x866121344745123100/Seu%20Mestre%20Financeiro%20-%20Foto%20Perfil%20Youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/graficos-tesouro-direto-2026-132.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investidores-conversando-tesouro-74.webp</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.seumestrefinanceiro.com.br/post/fim-auxilio-emergencial-orcamento-familiar</loc>
     <lastmod>2026-02-25T00:00:00.000Z</lastmod>
     <image:image>
@@ -1923,26 +1943,6 @@
   </url>
 
   <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/parcelamento-10-armadilhas-para-evitar</loc>
-    <lastmod>2025-08-16T00:00:00.000Z</lastmod>
-    <image:image>
-      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/pessoa-com-cartao-e-dividas-257.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://99588517054034056dc4ed3dd2f332bd.cdn.bubble.io/f1755566751100x329045361429101100/Seu%20Mestre%20Financeiro%20-%20Banner%20Youtube%20-%20Copia%20%282%29.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://99588517054034056dc4ed3dd2f332bd.cdn.bubble.io/f1755393474047x866121344745123100/Seu%20Mestre%20Financeiro%20-%20Foto%20Perfil%20Youtube.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/parcelas-cartao-credito-381.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/mulher-comprando-impulsivamente-504.webp</image:loc>
-    </image:image>
-  </url>
-
-  <url>
     <loc>https://www.seumestrefinanceiro.com.br/post/orcamento-familiar-simples-7-metodos-2025</loc>
     <lastmod>2025-08-16T00:00:00.000Z</lastmod>
     <image:image>
@@ -1959,6 +1959,26 @@
     </image:image>
     <image:image>
       <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-feliz-planejando-orcamento-924.webp</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/parcelamento-10-armadilhas-para-evitar</loc>
+    <lastmod>2025-08-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/pessoa-com-cartao-e-dividas-257.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://99588517054034056dc4ed3dd2f332bd.cdn.bubble.io/f1755566751100x329045361429101100/Seu%20Mestre%20Financeiro%20-%20Banner%20Youtube%20-%20Copia%20%282%29.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://99588517054034056dc4ed3dd2f332bd.cdn.bubble.io/f1755393474047x866121344745123100/Seu%20Mestre%20Financeiro%20-%20Foto%20Perfil%20Youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/parcelas-cartao-credito-381.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/mulher-comprando-impulsivamente-504.webp</image:loc>
     </image:image>
   </url>
 </urlset>
