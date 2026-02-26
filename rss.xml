@@ -13,7 +13,7 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 26 Feb 2026 15:58:07 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Feb 2026 17:10:22 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
 
@@ -387,15 +387,6 @@
   </item>
 
   <item>
-    <title>Fundo imobiliário ou aluguel: diferenças práticas para 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/fundo-imobiliario-ou-aluguel-diferencas-praticas-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/fundo-imobiliario-ou-aluguel-diferencas-praticas-2026</guid>
-    <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Entenda vantagens e desvantagens de fundos imobiliários e aluguel em 2026 para decisões financeiras mais seguras.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/fundo-imobiliario-vs-aluguel-2026-363.webp" medium="image" />
-  </item>
-
-  <item>
     <title>Como o minimalismo pode influenciar o seu perfil financeiro</title>
     <link>https://www.seumestrefinanceiro.com.br/post/minimalismo-perfil-financeiro</link>
     <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/minimalismo-perfil-financeiro</guid>
@@ -465,6 +456,15 @@
     <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
     <description>Descubra como avaliar coberturas, franquias e assistências para escolher o seguro residencial ideal em 2026.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/seguro-residencial-casa-segurada-55.webp" medium="image" />
+  </item>
+
+  <item>
+    <title>Como lidar com dívidas entre amigos e família sem conflitos</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/como-lidar-com-dividas-entre-amigos-e-familia-sem-conflitos</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-lidar-com-dividas-entre-amigos-e-familia-sem-conflitos</guid>
+    <pubDate>Tue, 11 Nov 2025 00:00:00 GMT</pubDate>
+    <description>Aprenda estratégias eficazes para negociar dívidas com amigos e familiares, evitando mal-entendidos e conflitos pessoais.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/conversando-sobre-dividas-familiares-371.webp" medium="image" />
   </item>
 </channel>
 </rss>
