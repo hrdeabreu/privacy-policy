@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 02 Mar 2026 10:54:09 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Mar 2026 11:34:22 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como evitar sabotar o orçamento com pequenas compras diárias</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/evitar-sabotar-orcamento-pequenas-compras-diarias</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/evitar-sabotar-orcamento-pequenas-compras-diarias</guid>
+    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Descubra estratégias práticas para controlar gastos diários e evitar o impacto negativo das pequenas compras no orçamento.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/cofrinho-compras-miudas-929.webp" medium="image" />
+  </item>
 
   <item>
     <title>Tesouro ipca ou prefixado: qual protege seu dinheiro em 2026?</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
     <description>Descubra como identificar e resgatar créditos esquecidos em programas de pontos para maximizar seus benefícios financeiros.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/cartao-fidelidade-com-saldo-esquecido-713.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como escolher seguro residencial: pontos-chave para 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/como-escolher-seguro-residencial-pontos-chave-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-escolher-seguro-residencial-pontos-chave-2026</guid>
-    <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como avaliar coberturas, franquias e assistências para escolher o seguro residencial ideal em 2026.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/seguro-residencial-casa-segurada-55.webp" medium="image" />
   </item>
 </channel>
 </rss>
