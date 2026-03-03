@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 03 Mar 2026 10:48:52 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Mar 2026 11:37:47 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Dinheiro em casal: como planejar juntos seus objetivos financeiros</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/dinheiro-em-casal-planejamento-juntos-objetivos-financeiros</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/dinheiro-em-casal-planejamento-juntos-objetivos-financeiros</guid>
+    <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Descubra estratégias para alinhar finanças, dividir responsabilidades e alcançar metas financeiras a dois com equilíbrio e transparência.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/casal-planejando-financas-quadro-362.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como evitar sabotar o orçamento com pequenas compras diárias</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
     <description>Descubra erros comuns na busca pela renda passiva e evite armadilhas que comprometem sua independência financeira.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/erros-investidor-frustrado-66.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como lidar com dinheiro esquecido em programas de pontos</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/dinheiro-esquecido-programas-pontos</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/dinheiro-esquecido-programas-pontos</guid>
-    <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como identificar e resgatar créditos esquecidos em programas de pontos para maximizar seus benefícios financeiros.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/cartao-fidelidade-com-saldo-esquecido-713.webp" medium="image" />
   </item>
 </channel>
 </rss>
