@@ -13,16 +13,4 @@
       <news:title>Dinheiro em casal: como planejar juntos seus objetivos financeiros</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/evitar-sabotar-orcamento-pequenas-compras-diarias</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-02T00:00:00.000Z</news:publication_date>
-      <news:title>Como evitar sabotar o orçamento com pequenas compras diárias</news:title>
-    </news:news>
-  </url>
 </urlset>
