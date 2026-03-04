@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 04 Mar 2026 10:42:58 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Mar 2026 11:35:44 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como montar um fundo só para emergências domésticas</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/fundo-emergencias-domesticas</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/fundo-emergencias-domesticas</guid>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a criar e manter um fundo específico para emergências domésticas e evite surpresas no orçamento familiar.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/fundo-emergencias-domesticas-756.webp" medium="image" />
+  </item>
 
   <item>
     <title>Dinheiro em casal: como planejar juntos seus objetivos financeiros</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
     <description>Entenda por que dinheiro parado perde valor e veja alternativas para rentabilizar seus recursos em 2026.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/dinheiro-parado-conta-banco-29.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>8 erros ao tentar viver de renda que poucos comentam</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/8-erros-ao-tentar-viver-de-renda-que-poucos-comentam</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/8-erros-ao-tentar-viver-de-renda-que-poucos-comentam</guid>
-    <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
-    <description>Descubra erros comuns na busca pela renda passiva e evite armadilhas que comprometem sua independência financeira.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/erros-investidor-frustrado-66.webp" medium="image" />
   </item>
 </channel>
 </rss>
