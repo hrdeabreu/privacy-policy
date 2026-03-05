@@ -13,7 +13,7 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 05 Mar 2026 21:41:21 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Mar 2026 22:37:44 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
 
@@ -279,6 +279,15 @@
   </item>
 
   <item>
+    <title>Aposentadoria privada ou pública: qual faz mais sentido?</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/aposentadoria-privada-ou-publica-qual-faz-mais-sentido</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/aposentadoria-privada-ou-publica-qual-faz-mais-sentido</guid>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+    <description>Entenda as diferenças entre aposentadoria pública e privada e veja qual opção combina melhor com seus objetivos financeiros.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/comparacao-aposentadoria-publica-privada-414.webp" medium="image" />
+  </item>
+
+  <item>
     <title>Finanças para quem mora sozinho: Equilibrando liberdade e contas</title>
     <link>https://www.seumestrefinanceiro.com.br/post/financas-para-quem-mora-sozinho-equilibrando-liberdade-e-contas</link>
     <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/financas-para-quem-mora-sozinho-equilibrando-liberdade-e-contas</guid>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
     <description>Entenda por que dinheiro parado perde valor e veja alternativas para rentabilizar seus recursos em 2026.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/dinheiro-parado-conta-banco-29.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>8 erros ao tentar viver de renda que poucos comentam</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/8-erros-ao-tentar-viver-de-renda-que-poucos-comentam</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/8-erros-ao-tentar-viver-de-renda-que-poucos-comentam</guid>
-    <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
-    <description>Descubra erros comuns na busca pela renda passiva e evite armadilhas que comprometem sua independência financeira.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/erros-investidor-frustrado-66.webp" medium="image" />
   </item>
 </channel>
 </rss>
