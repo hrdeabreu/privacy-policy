@@ -13,9 +13,63 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 16 Mar 2026 19:11:55 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 16 Mar 2026 20:45:19 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Microempreendedor: 10 dicas para separar contas pessoais do negócio</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/microempreendedor-separar-contas-pessoais-negocio</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/microempreendedor-separar-contas-pessoais-negocio</guid>
+    <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a organizar finanças separando conta pessoal e empresarial para evitar confusão e facilitar a gestão do negócio.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/microempreendedor-separando-financas-336.webp" medium="image" />
+  </item>
+
+  <item>
+    <title>Consórcio: vale a pena? Pontos para avaliar antes de decidir</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/consorcio-vale-a-pena-pontos-para-avaliar</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/consorcio-vale-a-pena-pontos-para-avaliar</guid>
+    <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Entenda como funciona o consórcio, seus custos, prazos e se ele é adequado para seu planejamento financeiro.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/decisao-consorcio-balanca-116.webp" medium="image" />
+  </item>
+
+  <item>
+    <title>Planejamento para aposentadoria precoce: passos além do fire</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/planejamento-aposentadoria-precoce-passos-alem-fire</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/planejamento-aposentadoria-precoce-passos-alem-fire</guid>
+    <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Descubra estratégias práticas para além do FIRE e aprenda a aumentar seu patrimônio para aposentar-se cedo com segurança.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/estrada-para-aposentadoria-precoce-158.webp" medium="image" />
+  </item>
+
+  <item>
+    <title>Como ensinar o valor do dinheiro às crianças desde cedo</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/ensinar-valor-do-dinheiro-criancas-desde-cedo</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/ensinar-valor-do-dinheiro-criancas-desde-cedo</guid>
+    <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda estratégias práticas para ensinar educação financeira às crianças e formar hábitos saudáveis desde a infância.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/crianca-loja-brinquedos-orcamento-99.webp" medium="image" />
+  </item>
+
+  <item>
+    <title>Como renegociar dívidas estudantis sem perder o futuro</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/renegociar-dividas-estudantis-futuro</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/renegociar-dividas-estudantis-futuro</guid>
+    <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda estratégias práticas para renegociar dívidas estudantis e preservar sua saúde financeira no longo prazo.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/renegociacao-divida-estudantil-520.webp" medium="image" />
+  </item>
+
+  <item>
+    <title>Como lidar com compras impulsivas durante promoções relâmpago</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/lidando-com-compras-impulsivas-em-promocoes-relampago</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/lidando-com-compras-impulsivas-em-promocoes-relampago</guid>
+    <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda estratégias práticas para controlar gastos e evitar armadilhas emocionais durante promoções relâmpago.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/compras-impulsivas-promocao-relampago-818.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como montar um fundo só para emergências domésticas</title>
@@ -411,60 +465,6 @@
     <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
     <description>Saiba quais taxas e impostos embutidos afetam suas compras e serviços sem que você perceba no dia a dia.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/impostos-ocultos-carteira-brilho-369.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Fundo imobiliário ou aluguel: diferenças práticas para 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/fundo-imobiliario-ou-aluguel-diferencas-praticas-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/fundo-imobiliario-ou-aluguel-diferencas-praticas-2026</guid>
-    <pubDate>Tue, 02 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Entenda vantagens e desvantagens de fundos imobiliários e aluguel em 2026 para decisões financeiras mais seguras.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/fundo-imobiliario-vs-aluguel-2026-363.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como o minimalismo pode influenciar o seu perfil financeiro</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/minimalismo-perfil-financeiro</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/minimalismo-perfil-financeiro</guid>
-    <pubDate>Mon, 01 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Entenda como o minimalismo impacta hábitos de consumo, controle financeiro e escolhas de investimento conscientes.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/escritorio-minimalista-organizado-240.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Cuidados essenciais na herança ao planejar a sucessão financeira</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/cuidados-essenciais-heranca-planejamento-sucessao-financeira</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/cuidados-essenciais-heranca-planejamento-sucessao-financeira</guid>
-    <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
-    <description>Entenda os aspectos legais, fiscais e financeiros para garantir uma sucessão patrimonial tranquila e sem conflitos.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejamento-succao-financeira-158.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como criar um fundo de emergência para saúde da família</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/fundo-emergencia-saude-familia</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/fundo-emergencia-saude-familia</guid>
-    <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
-    <description>Aprenda a montar um fundo de emergência para saúde da família e esteja preparado para imprevistos e despesas médicas.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-planejando-fundo-emergencia-saude-405.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Trabalho autônomo ou CLT: impactos no planejamento financeiro</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/trabalho-autonomo-ou-clt-impactos-no-planejamento-financeiro</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/trabalho-autonomo-ou-clt-impactos-no-planejamento-financeiro</guid>
-    <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
-    <description>Entenda as diferenças financeiras entre trabalho autônomo e CLT e como cada regime afeta seu planejamento e segurança.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/trabalho-autonomo-clt-planejamento-89.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Por que evitar dinheiro parado na conta e o que fazer em 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/evitar-dinheiro-parado-conta-o-que-fazer-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/evitar-dinheiro-parado-conta-o-que-fazer-2026</guid>
-    <pubDate>Mon, 24 Nov 2025 00:00:00 GMT</pubDate>
-    <description>Entenda por que dinheiro parado perde valor e veja alternativas para rentabilizar seus recursos em 2026.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/dinheiro-parado-conta-banco-29.webp" medium="image" />
   </item>
 </channel>
 </rss>
