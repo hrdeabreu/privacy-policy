@@ -13,9 +13,27 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 17 Mar 2026 10:55:38 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 17 Mar 2026 11:47:15 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como os super apps de finanças estão mudando as carteiras digitais</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/super-apps-financeiros-carteiras-digitais</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/super-apps-financeiros-carteiras-digitais</guid>
+    <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Descubra como os super apps integram serviços financeiros e transformam o uso das carteiras digitais no dia a dia.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/super-app-carteira-digital-brasil-978.webp" medium="image" />
+  </item>
+
+  <item>
+    <title>Como renegociar dívidas estudantis sem perder o futuro</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/renegociar-dividas-estudantis-futuro</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/renegociar-dividas-estudantis-futuro</guid>
+    <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda estratégias práticas para renegociar dívidas estudantis e preservar sua saúde financeira no longo prazo.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/renegociacao-divida-estudantil-520.webp" medium="image" />
+  </item>
 
   <item>
     <title>Microempreendedor: 10 dicas para separar contas pessoais do negócio</title>
@@ -51,15 +69,6 @@
     <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
     <description>Aprenda estratégias práticas para ensinar educação financeira às crianças e formar hábitos saudáveis desde a infância.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/crianca-loja-brinquedos-orcamento-99.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como renegociar dívidas estudantis sem perder o futuro</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/renegociar-dividas-estudantis-futuro</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/renegociar-dividas-estudantis-futuro</guid>
-    <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-    <description>Aprenda estratégias práticas para renegociar dívidas estudantis e preservar sua saúde financeira no longo prazo.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/renegociacao-divida-estudantil-520.webp" medium="image" />
   </item>
 
   <item>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
     <description>Aprenda a montar um orçamento flexível para meses de renda variável e garantir controle financeiro sem surpresas.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/orcamento-salario-variavel-684.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Impostos invisíveis: descubra as taxas que você nem percebe</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/impostos-invisiveis-taxas-ocultas</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/impostos-invisiveis-taxas-ocultas</guid>
-    <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Saiba quais taxas e impostos embutidos afetam suas compras e serviços sem que você perceba no dia a dia.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/impostos-ocultos-carteira-brilho-369.webp" medium="image" />
   </item>
 </channel>
 </rss>

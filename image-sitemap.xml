@@ -3,6 +3,46 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 
   <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/super-apps-financeiros-carteiras-digitais</loc>
+    <lastmod>2026-03-17T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/super-app-carteira-digital-brasil-978.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://99588517054034056dc4ed3dd2f332bd.cdn.bubble.io/f1755566751100x329045361429101100/Seu%20Mestre%20Financeiro%20-%20Banner%20Youtube%20-%20Copia%20%282%29.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://99588517054034056dc4ed3dd2f332bd.cdn.bubble.io/f1755393474047x866121344745123100/Seu%20Mestre%20Financeiro%20-%20Foto%20Perfil%20Youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/pessoa-usando-superapp-financas-381.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/seguranca-superapp-financeiro-62.webp</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/renegociar-dividas-estudantis-futuro</loc>
+    <lastmod>2026-03-16T00:00:00.000Z</lastmod>
+    <image:image>
+      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/renegociacao-divida-estudantil-520.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://99588517054034056dc4ed3dd2f332bd.cdn.bubble.io/f1755566751100x329045361429101100/Seu%20Mestre%20Financeiro%20-%20Banner%20Youtube%20-%20Copia%20%282%29.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://99588517054034056dc4ed3dd2f332bd.cdn.bubble.io/f1755393474047x866121344745123100/Seu%20Mestre%20Financeiro%20-%20Foto%20Perfil%20Youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/documentos-renegociar-divida-935.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/jovens-felizes-aprovacao-acordo-364.webp</image:loc>
+    </image:image>
+  </url>
+
+  <url>
     <loc>https://www.seumestrefinanceiro.com.br/post/microempreendedor-separar-contas-pessoais-negocio</loc>
     <lastmod>2026-03-16T00:00:00.000Z</lastmod>
     <image:image>
@@ -79,26 +119,6 @@
     </image:image>
     <image:image>
       <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-planeja-compras-anotacoes-786.webp</image:loc>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/renegociar-dividas-estudantis-futuro</loc>
-    <lastmod>2026-03-16T00:00:00.000Z</lastmod>
-    <image:image>
-      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/renegociacao-divida-estudantil-520.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://99588517054034056dc4ed3dd2f332bd.cdn.bubble.io/f1755566751100x329045361429101100/Seu%20Mestre%20Financeiro%20-%20Banner%20Youtube%20-%20Copia%20%282%29.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://99588517054034056dc4ed3dd2f332bd.cdn.bubble.io/f1755393474047x866121344745123100/Seu%20Mestre%20Financeiro%20-%20Foto%20Perfil%20Youtube.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/documentos-renegociar-divida-935.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/jovens-felizes-aprovacao-acordo-364.webp</image:loc>
     </image:image>
   </url>
 

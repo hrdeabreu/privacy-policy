@@ -3,6 +3,30 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/super-apps-financeiros-carteiras-digitais</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Seu Mestre Financeiro</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-17T00:00:00.000Z</news:publication_date>
+      <news:title>Como os super apps de finanças estão mudando as carteiras digitais</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/renegociar-dividas-estudantis-futuro</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Seu Mestre Financeiro</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-03-16T00:00:00.000Z</news:publication_date>
+      <news:title>Como renegociar dívidas estudantis sem perder o futuro</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.seumestrefinanceiro.com.br/post/microempreendedor-separar-contas-pessoais-negocio</loc>
     <news:news>
       <news:publication>
@@ -47,18 +71,6 @@
       </news:publication>
       <news:publication_date>2026-03-16T00:00:00.000Z</news:publication_date>
       <news:title>Como ensinar o valor do dinheiro às crianças desde cedo</news:title>
-    </news:news>
-  </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/renegociar-dividas-estudantis-futuro</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-16T00:00:00.000Z</news:publication_date>
-      <news:title>Como renegociar dívidas estudantis sem perder o futuro</news:title>
     </news:news>
   </url>
 
