@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 19 Mar 2026 10:49:48 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 19 Mar 2026 11:39:53 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como analisar contratos de aluguel e evitar armadilhas jurídicas</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/analisar-contratos-aluguel-evitar-armadilhas-juridicas</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/analisar-contratos-aluguel-evitar-armadilhas-juridicas</guid>
+    <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Entenda cláusulas, responsabilidades e cuidados legais para evitar problemas e garantir contratos de aluguel seguros e claros.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/analise-contrato-aluguel-lupa-341.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como os super apps de finanças estão mudando as carteiras digitais</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
     <description>Aprenda a identificar tarifas bancárias desnecessárias e estratégias para cortar cobranças automáticas do seu extrato mensal.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/analise-tarifas-bancarias-704.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como orçar melhor quando seu salário varia mensalmente</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/como-orcar-melhor-salario-variavel</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-orcar-melhor-salario-variavel</guid>
-    <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Aprenda a montar um orçamento flexível para meses de renda variável e garantir controle financeiro sem surpresas.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/orcamento-salario-variavel-684.webp" medium="image" />
   </item>
 </channel>
 </rss>
