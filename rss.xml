@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 23 Mar 2026 10:57:37 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Mar 2026 11:49:58 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Compra parcelada ou financiamento: diferenças para 2026</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/compra-parcelada-ou-financiamento-diferencas-2026</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/compra-parcelada-ou-financiamento-diferencas-2026</guid>
+    <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Entenda as vantagens, taxas e prazos de compra parcelada vs financiamento para planejar melhor suas finanças em 2026.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/painel-compra-parcelada-financiamento-2026-780.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como analisar contratos de aluguel e evitar armadilhas jurídicas</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
     <description>Entenda os riscos reais, mitos e como usar pagamentos por aproximação com segurança e praticidade em 2026.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/pagamento-aproximacao-celular-cartao-831.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como analisar tarifas bancárias e reduzir gastos automáticos</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/analisar-tarifas-bancarias-reduzir-gastos-automaticos</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/analisar-tarifas-bancarias-reduzir-gastos-automaticos</guid>
-    <pubDate>Mon, 08 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Aprenda a identificar tarifas bancárias desnecessárias e estratégias para cortar cobranças automáticas do seu extrato mensal.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/analise-tarifas-bancarias-704.webp" medium="image" />
   </item>
 </channel>
 </rss>
