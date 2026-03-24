@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 24 Mar 2026 10:56:32 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Mar 2026 11:50:14 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como monitorar pagamentos recorrentes e evitar surpresas no extrato</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/monitorar-pagamentos-recorrentes-evitar-surpresas-extrato</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/monitorar-pagamentos-recorrentes-evitar-surpresas-extrato</guid>
+    <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a controlar assinaturas e cobranças automáticas para evitar gastos inesperados e manter seu orçamento sempre ajustado.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/painel-pagamentos-recorrentes-306.webp" medium="image" />
+  </item>
 
   <item>
     <title>Compra parcelada ou financiamento: diferenças para 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
     <description>Descubra como investir em fundos ESG no Brasil em 2026, alinhando decisão financeira a critérios sociais e ambientais.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investidor-esg-brasil-2026-143.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Pagamentos por aproximação: mitos, riscos e como usar em 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/pagamentos-por-aproximacao-mitos-riscos-como-usar-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/pagamentos-por-aproximacao-mitos-riscos-como-usar-2026</guid>
-    <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Entenda os riscos reais, mitos e como usar pagamentos por aproximação com segurança e praticidade em 2026.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/pagamento-aproximacao-celular-cartao-831.webp" medium="image" />
   </item>
 </channel>
 </rss>
