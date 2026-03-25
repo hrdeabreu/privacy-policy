@@ -13,16 +13,4 @@
       <news:title>Como monitorar pagamentos recorrentes e evitar surpresas no extrato</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/compra-parcelada-ou-financiamento-diferencas-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-03-23T00:00:00.000Z</news:publication_date>
-      <news:title>Compra parcelada ou financiamento: diferenças para 2026</news:title>
-    </news:news>
-  </url>
 </urlset>
