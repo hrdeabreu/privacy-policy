@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 25 Mar 2026 10:54:37 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Mar 2026 11:46:23 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>O que considerar nas taxas de administração dos fundos de investimento</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/taxas-administracao-fundos-investimento</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/taxas-administracao-fundos-investimento</guid>
+    <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Entenda como as taxas de administração impactam a rentabilidade dos fundos e saiba identificar custos que afetam seus investimentos.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/lupa-sobre-taxas-fundos-497.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como monitorar pagamentos recorrentes e evitar surpresas no extrato</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
     <description>Aprenda a organizar despesas, criar reserva e investir mesmo sem renda fixa mensal garantida. Controle financeiro autônomo.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejamento-financeiro-autonomo-878.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como começar a investir em ESG no Brasil em 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/como-comecar-investir-esg-brasil-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-comecar-investir-esg-brasil-2026</guid>
-    <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como investir em fundos ESG no Brasil em 2026, alinhando decisão financeira a critérios sociais e ambientais.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investidor-esg-brasil-2026-143.webp" medium="image" />
   </item>
 </channel>
 </rss>
