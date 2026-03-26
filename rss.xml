@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 26 Mar 2026 10:58:09 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Mar 2026 11:55:15 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Crédito consignado: quando faz sentido e pontos de atenção</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/credito-consignado-quando-faz-sentido-e-pontos-de-atencao</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/credito-consignado-quando-faz-sentido-e-pontos-de-atencao</guid>
+    <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Entenda quando o crédito consignado é vantajoso, seus custos, riscos e dicas para evitar armadilhas financeiras.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/contracheque-credito-consignado-360.webp" medium="image" />
+  </item>
 
   <item>
     <title>O que considerar nas taxas de administração dos fundos de investimento</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
     <description>Descubra como funciona o aluguel de móveis, eletrodomésticos e tecnologia e suas vantagens financeiras práticas.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/aluguel-moveis-eletrodomesticos-tecnologia-277.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Planejamento financeiro para autônomos sem renda fixa mínima</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/planejamento-financeiro-autonomos-sem-renda-fixa</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/planejamento-financeiro-autonomos-sem-renda-fixa</guid>
-    <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Aprenda a organizar despesas, criar reserva e investir mesmo sem renda fixa mensal garantida. Controle financeiro autônomo.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejamento-financeiro-autonomo-878.webp" medium="image" />
   </item>
 </channel>
 </rss>
