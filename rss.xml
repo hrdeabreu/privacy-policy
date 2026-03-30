@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 30 Mar 2026 10:21:33 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 30 Mar 2026 11:55:52 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Despesas médicas inesperadas: 6 dicas para evitar dívidas</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/despesas-medicas-inesperadas-6-dicas-evitar-dividas</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/despesas-medicas-inesperadas-6-dicas-evitar-dividas</guid>
+    <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a se proteger de dívidas causadas por despesas médicas inesperadas com planejamento e gestão financeira simples.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-planejando-despesas-medicas-500.webp" medium="image" />
+  </item>
 
   <item>
     <title>Crédito consignado: quando faz sentido e pontos de atenção</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
     <description>Descubra os custos reais e benefícios financeiros de trocar o carro pelo transporte público no seu dia a dia.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/carro-vs-onibus-transporte-publico-337.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como funciona o aluguel de móveis, eletrodomésticos e tecnologia</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/como-funciona-aluguel-moveis-eletro-tecnologia</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-funciona-aluguel-moveis-eletro-tecnologia</guid>
-    <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Descubra como funciona o aluguel de móveis, eletrodomésticos e tecnologia e suas vantagens financeiras práticas.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/aluguel-moveis-eletrodomesticos-tecnologia-277.webp" medium="image" />
   </item>
 </channel>
 </rss>
