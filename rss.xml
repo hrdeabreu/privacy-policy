@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 31 Mar 2026 10:59:23 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 31 Mar 2026 11:56:20 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como usar metas visuais para manter o foco financeiro mensal</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/metas-visuais-foco-financeiro-mensal</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/metas-visuais-foco-financeiro-mensal</guid>
+    <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a criar metas visuais claras para monitorar seus gastos, controlar impulsos e melhorar o planejamento financeiro mensal.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/painel-metas-visuais-financas-951.webp" medium="image" />
+  </item>
 
   <item>
     <title>Despesas médicas inesperadas: 6 dicas para evitar dívidas</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
     <description>Aprenda estratégias práticas para transformar cashback e pontos esquecidos em vantagens financeiras reais no seu dia a dia.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/cashback-pontos-cartao-celular-779.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Vale a pena trocar o carro pelo transporte público? Veja o impacto real</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/trocar-carro-transporte-publico-impacto-real</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/trocar-carro-transporte-publico-impacto-real</guid>
-    <pubDate>Mon, 22 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Descubra os custos reais e benefícios financeiros de trocar o carro pelo transporte público no seu dia a dia.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/carro-vs-onibus-transporte-publico-337.webp" medium="image" />
   </item>
 </channel>
 </rss>
