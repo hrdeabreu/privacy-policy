@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 01 Apr 2026 11:03:17 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 01 Apr 2026 13:48:57 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como a inflação psicológica pode afetar seu planejamento anual</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/inflacao-psicologica-planejamento-anual</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/inflacao-psicologica-planejamento-anual</guid>
+    <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+    <description>Entenda como a inflação psicológica impacta seu orçamento e afeta decisões para o planejamento financeiro anual.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/ilusao-precos-planejamento-anual-404.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como usar metas visuais para manter o foco financeiro mensal</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
     <description>Aprenda a planejar e controlar gastos escolares com orçamento familiar, evitando endividamento e imprevistos no ano letivo.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-planejando-gastos-escolares-744.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como reaproveitar cashback e pontos esquecidos no dia a dia</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/reaproveitar-cashback-pontos-esquecidos-dia-a-dia</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/reaproveitar-cashback-pontos-esquecidos-dia-a-dia</guid>
-    <pubDate>Tue, 23 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Aprenda estratégias práticas para transformar cashback e pontos esquecidos em vantagens financeiras reais no seu dia a dia.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/cashback-pontos-cartao-celular-779.webp" medium="image" />
   </item>
 </channel>
 </rss>
