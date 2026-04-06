@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 06 Apr 2026 10:13:55 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 06 Apr 2026 11:51:32 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como cancelar serviços digitais sem cair em cobranças extras</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/cancelar-servicos-digitais-sem-cobrancas-extras</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/cancelar-servicos-digitais-sem-cobrancas-extras</guid>
+    <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+    <description>Evite cobranças extras cancelando serviços digitais corretamente: passo a passo para encerrar assinaturas e controlar gastos.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/cancelar-servicos-digitais-cadeado-36.webp" medium="image" />
+  </item>
 
   <item>
     <title>Dívidas em nome de terceiros: riscos e como se proteger</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
     <description>Descubra estratégias práticas para investir, poupar e equilibrar suas finanças usando a restituição em 2026.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/restituicao-imposto-uso-inteligente-688.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Atalhos mentais da economia comportamental que sabotam seu bolso</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/atalhos-mentais-economia-comportamental-sabotam-bolso</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/atalhos-mentais-economia-comportamental-sabotam-bolso</guid>
-    <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Entenda como heurísticas cognitivas influenciam decisões financeiras e evite armadilhas que prejudicam seu controle financeiro.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/atalhos-mentais-dinheiro-524.webp" medium="image" />
   </item>
 </channel>
 </rss>
