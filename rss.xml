@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 07 Apr 2026 11:02:49 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 07 Apr 2026 13:43:15 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como lidar com o custo da longevidade familiar no orçamento</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/custo-longevidade-familiar-no-orcamento</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/custo-longevidade-familiar-no-orcamento</guid>
+    <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+    <description>Entenda como planejar gastos com saúde e cuidado na longevidade familiar para manter o equilíbrio do seu orçamento.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/duas-geracoes-planejamento-orcamento-227.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como cancelar serviços digitais sem cair em cobranças extras</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
     <description>Descubra passos práticos para organizar suas finanças, evitar erros comuns e ganhar controle sem complicação diária.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/rotina-financeira-simples-mesa-415.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>7 maneiras inteligentes de usar o dinheiro da restituição em 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/7-maneiras-inteligentes-usar-dinheiro-restituicao-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/7-maneiras-inteligentes-usar-dinheiro-restituicao-2026</guid>
-    <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Descubra estratégias práticas para investir, poupar e equilibrar suas finanças usando a restituição em 2026.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/restituicao-imposto-uso-inteligente-688.webp" medium="image" />
   </item>
 </channel>
 </rss>
