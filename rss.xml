@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 08 Apr 2026 11:03:32 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 08 Apr 2026 13:45:31 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>5 sinais de alerta ao avaliar oportunidades de renda extra</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/5-sinais-alerta-renda-extra</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/5-sinais-alerta-renda-extra</guid>
+    <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
+    <description>Descubra os principais sinais de alerta em oportunidades de renda extra para evitar golpes e decisões financeiras arriscadas.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/sinais-alerta-renda-extra-599.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como lidar com o custo da longevidade familiar no orçamento</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
     <description>Aprenda a gerenciar gastos fixos, controlar impulsos e construir reserva financeira morando sozinho.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/jovem-morando-sozinho-orcamento-mensal-329.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como criar uma rotina financeira simples sem perder tempo</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/rotina-financeira-simples-sempre</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/rotina-financeira-simples-sempre</guid>
-    <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Descubra passos práticos para organizar suas finanças, evitar erros comuns e ganhar controle sem complicação diária.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/rotina-financeira-simples-mesa-415.webp" medium="image" />
   </item>
 </channel>
 </rss>
