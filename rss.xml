@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 09 Apr 2026 11:04:18 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 09 Apr 2026 13:56:42 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como preparar sua documentação financeira para emergências</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/preparando-documentacao-financeira-para-emergencias</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/preparando-documentacao-financeira-para-emergencias</guid>
+    <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+    <description>Organize documentos financeiros e saiba como agir rápido em imprevistos para proteger seu patrimônio e evitar perdas.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/mochila-kit-documentos-emergencia-412.webp" medium="image" />
+  </item>
 
   <item>
     <title>5 sinais de alerta ao avaliar oportunidades de renda extra</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
     <description>Entenda as diferenças entre aposentadoria pública e privada e veja qual opção combina melhor com seus objetivos financeiros.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/comparacao-aposentadoria-publica-privada-414.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Finanças para quem mora sozinho: Equilibrando liberdade e contas</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/financas-para-quem-mora-sozinho-equilibrando-liberdade-e-contas</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/financas-para-quem-mora-sozinho-equilibrando-liberdade-e-contas</guid>
-    <pubDate>Wed, 31 Dec 2025 00:00:00 GMT</pubDate>
-    <description>Aprenda a gerenciar gastos fixos, controlar impulsos e construir reserva financeira morando sozinho.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/jovem-morando-sozinho-orcamento-mensal-329.webp" medium="image" />
   </item>
 </channel>
 </rss>
