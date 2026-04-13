@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 13 Apr 2026 11:21:15 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 13 Apr 2026 13:53:41 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Gestão financeira para freelancers: dicas para contratos variáveis</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/gestao-financeira-freelancers-contratos-variaveis</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/gestao-financeira-freelancers-contratos-variaveis</guid>
+    <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a organizar receitas variáveis e planejar reservas para manter a estabilidade financeira como freelancer.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/freelancer-contratos-variaveis-mesa-407.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como preparar sua documentação financeira para emergências</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
     <description>Descubra estratégias para diminuir gastos e ajustar seus investimentos, criando um footprint financeiro sustentável em 2026.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/pegadas-financeiras-sustentaveis-2026-845.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Aposentadoria privada ou pública: qual faz mais sentido?</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/aposentadoria-privada-ou-publica-qual-faz-mais-sentido</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/aposentadoria-privada-ou-publica-qual-faz-mais-sentido</guid>
-    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
-    <description>Entenda as diferenças entre aposentadoria pública e privada e veja qual opção combina melhor com seus objetivos financeiros.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/comparacao-aposentadoria-publica-privada-414.webp" medium="image" />
   </item>
 </channel>
 </rss>
