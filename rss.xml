@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 14 Apr 2026 10:19:14 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 14 Apr 2026 12:00:32 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como calcular o valor ideal para uma aposentadoria tranquila</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/calcular-valor-ideal-aposentadoria-tranquila</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/calcular-valor-ideal-aposentadoria-tranquila</guid>
+    <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a calcular quanto poupar para garantir renda mensal sustentável e manter o padrão de vida na aposentadoria.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/calculando-aposentadoria-tranquila-602.webp" medium="image" />
+  </item>
 
   <item>
     <title>Gestão financeira para freelancers: dicas para contratos variáveis</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
     <description>Descubra estratégias para organizar o 14º salário, equilibrar dívidas e investir com foco em segurança financeira real.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejando-decimo-quarto-salario-463.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como reduzir seu footprint financeiro em 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/reduzir-footprint-financeiro-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/reduzir-footprint-financeiro-2026</guid>
-    <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-    <description>Descubra estratégias para diminuir gastos e ajustar seus investimentos, criando um footprint financeiro sustentável em 2026.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/pegadas-financeiras-sustentaveis-2026-845.webp" medium="image" />
   </item>
 </channel>
 </rss>
