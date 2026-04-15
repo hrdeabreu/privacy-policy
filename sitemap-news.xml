@@ -13,16 +13,4 @@
       <news:title>Como calcular o valor ideal para uma aposentadoria tranquila</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/gestao-financeira-freelancers-contratos-variaveis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-13T00:00:00.000Z</news:publication_date>
-      <news:title>Gestão financeira para freelancers: dicas para contratos variáveis</news:title>
-    </news:news>
-  </url>
 </urlset>
