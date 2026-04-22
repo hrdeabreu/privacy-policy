@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 22 Apr 2026 10:22:16 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 22 Apr 2026 12:01:26 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Guia rápido para escolher cartão com benefícios que usa</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/guia-rapido-escolher-cartao-beneficios-usaveis</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/guia-rapido-escolher-cartao-beneficios-usaveis</guid>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+    <description>Saiba como analisar benefícios, taxas e programas de pontos para escolher o cartão ideal que realmente rende no dia a dia.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/cartoes-beneficios-mesa-colorida-688.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como calcular o valor ideal para uma aposentadoria tranquila</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
     <description>Descubra estratégias para controlar gastos, manter orçamento equilibrado e investir melhor trabalhando no home office em 2026.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/financas-home-office-organizadas-766.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como utilizar o 14º salário de forma consciente e segura</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/utilizar-14o-salario-conscientemente-seguro</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/utilizar-14o-salario-conscientemente-seguro</guid>
-    <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
-    <description>Descubra estratégias para organizar o 14º salário, equilibrar dívidas e investir com foco em segurança financeira real.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejando-decimo-quarto-salario-463.webp" medium="image" />
   </item>
 </channel>
 </rss>
