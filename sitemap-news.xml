@@ -13,16 +13,4 @@
       <news:title>Como organizar as finanças ao começar um negócio do zero</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/guia-rapido-escolher-cartao-beneficios-usaveis</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-22T00:00:00.000Z</news:publication_date>
-      <news:title>Guia rápido para escolher cartão com benefícios que usa</news:title>
-    </news:news>
-  </url>
 </urlset>
