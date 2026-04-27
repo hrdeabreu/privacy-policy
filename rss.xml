@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 27 Apr 2026 09:23:14 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 27 Apr 2026 11:48:30 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como evitar fraudes ao contratar empréstimo online em 2026</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/evitar-fraudes-emprestimo-online-2026</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/evitar-fraudes-emprestimo-online-2026</guid>
+    <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+    <description>Descubra como identificar ofertas falsas, evitar golpes comuns e garantir segurança ao contratar empréstimos online em 2026.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/seguranca-emprestimo-online-176.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como organizar as finanças ao começar um negócio do zero</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
     <description>Conheça as opções de seguros para autônomos e saiba quando é hora de contratar para proteger sua renda e atividades.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/seguro-para-autonomo-escritorio-678.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como identificar e escapar de pirâmides financeiras disfarçadas</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/identificar-escapar-piramides-financeiras-disfarcadas</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/identificar-escapar-piramides-financeiras-disfarcadas</guid>
-    <pubDate>Thu, 08 Jan 2026 00:00:00 GMT</pubDate>
-    <description>Aprenda a reconhecer sinais de pirâmides financeiras disfarçadas e evite perdas com fraudes comuns no mercado.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/piramide-financeira-armadilha-84.webp" medium="image" />
   </item>
 </channel>
 </rss>
