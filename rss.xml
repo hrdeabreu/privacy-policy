@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 28 Apr 2026 09:26:49 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 28 Apr 2026 11:49:42 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Ferramentas para controle de gastos por assinatura em 2026</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/ferramentas-controle-gastos-assinatura-2026</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/ferramentas-controle-gastos-assinatura-2026</guid>
+    <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+    <description>Conheça as melhores ferramentas para monitorar e controlar gastos por assinatura em 2026 sem surpresas no orçamento.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/painel-assinaturas-digitais-64.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como evitar fraudes ao contratar empréstimo online em 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
     <description>Aprenda a organizar senhas, documentos digitais e contas online para garantir segurança e acesso futuro da família.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/heranca-digital-familia-senhas-426.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Seguro para autônomos: o que existe e quando considerar contratar</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/seguro-autonomos-o-que-e-quando-contratar</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/seguro-autonomos-o-que-e-quando-contratar</guid>
-    <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
-    <description>Conheça as opções de seguros para autônomos e saiba quando é hora de contratar para proteger sua renda e atividades.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/seguro-para-autonomo-escritorio-678.webp" medium="image" />
   </item>
 </channel>
 </rss>
