@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 29 Apr 2026 09:14:03 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 29 Apr 2026 11:42:13 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como antecipar despesas sazonais e evitar sustos no orçamento</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/antecipar-despesas-sazonais-evitar-sustos-orcamento</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/antecipar-despesas-sazonais-evitar-sustos-orcamento</guid>
+    <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a planejar despesas sazonais, criando reservas e controlando o impacto no seu orçamento mensal.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejamento-despesas-sazonais-calendario-mesa-435.webp" medium="image" />
+  </item>
 
   <item>
     <title>Ferramentas para controle de gastos por assinatura em 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
     <description>Entenda quando negociar dívidas antigas vale a pena e como avaliar se é melhor deixá-las para trás estrategicamente.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/dividas-antigas-decisao-negociar-esquecer-252.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Herança digital: Como proteger senhas e ativos online da família</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/heranca-digital-proteger-senhas-ativos-online-familia</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/heranca-digital-proteger-senhas-ativos-online-familia</guid>
-    <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
-    <description>Aprenda a organizar senhas, documentos digitais e contas online para garantir segurança e acesso futuro da família.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/heranca-digital-familia-senhas-426.webp" medium="image" />
   </item>
 </channel>
 </rss>
