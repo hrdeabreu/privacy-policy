@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 30 Apr 2026 09:19:17 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 30 Apr 2026 11:41:52 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>5 erros ao contratar internet e serviços digitais que pesam no bolso</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/erros-contratar-internet-servicos-digitais-pesam-no-bolso</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/erros-contratar-internet-servicos-digitais-pesam-no-bolso</guid>
+    <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+    <description>Evite cobranças extras e planos inadequados ao contratar internet e serviços digitais com dicas práticas e claras.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-conta-internet-cara-699.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como antecipar despesas sazonais e evitar sustos no orçamento</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
     <description>Descubra estratégias práticas para controlar os gastos com delivery e apps e evitar surpresas no orçamento mensal.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-gastos-delivery-smartphone-888.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Dívidas antigas: Quando vale negociar e quando esquecer?</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/dividas-antigas-quando-negociar-e-quando-esquecer</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/dividas-antigas-quando-negociar-e-quando-esquecer</guid>
-    <pubDate>Wed, 14 Jan 2026 00:00:00 GMT</pubDate>
-    <description>Entenda quando negociar dívidas antigas vale a pena e como avaliar se é melhor deixá-las para trás estrategicamente.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/dividas-antigas-decisao-negociar-esquecer-252.webp" medium="image" />
   </item>
 </channel>
 </rss>
