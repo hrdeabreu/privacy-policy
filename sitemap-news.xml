@@ -13,16 +13,4 @@
       <news:title>5 erros ao contratar internet e serviços digitais que pesam no bolso</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/antecipar-despesas-sazonais-evitar-sustos-orcamento</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-29T00:00:00.000Z</news:publication_date>
-      <news:title>Como antecipar despesas sazonais e evitar sustos no orçamento</news:title>
-    </news:news>
-  </url>
 </urlset>
