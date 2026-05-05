@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 05 May 2026 11:19:23 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 05 May 2026 14:09:11 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como calcular o impacto dos pequenos juros no cartão</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/impacto-pequenos-juros-cartao</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/impacto-pequenos-juros-cartao</guid>
+    <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+    <description>Entenda como juros pequenos no cartão aumentam sua dívida e aprenda a calcular o custo real dessas parcelas.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/juros-cartao-efeito-bola-neve-323.webp" medium="image" />
+  </item>
 
   <item>
     <title>5 erros ao contratar internet e serviços digitais que pesam no bolso</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
     <description>Entenda as novas regras e tecnologias que transformaram as transferências internacionais instantâneas em 2026.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/transferencias-internacionais-instantaneas-2026-65.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como evitar se perder nos pequenos gastos de delivery e apps</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/evitar-pequenos-gastos-delivery-apps</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/evitar-pequenos-gastos-delivery-apps</guid>
-    <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
-    <description>Descubra estratégias práticas para controlar os gastos com delivery e apps e evitar surpresas no orçamento mensal.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/controle-gastos-delivery-smartphone-888.webp" medium="image" />
   </item>
 </channel>
 </rss>
