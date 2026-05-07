@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 07 May 2026 09:38:19 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 07 May 2026 11:52:21 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como organizar despesas fixas e variáveis sem complicação</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/organizar-despesas-fixas-variaveis-simplificado</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/organizar-despesas-fixas-variaveis-simplificado</guid>
+    <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a classificar e controlar despesas fixas e variáveis para equilibrar seu orçamento e evitar surpresas financeiras.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/organizando-despesas-fixas-variaveis-887.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como gastar menos com presentes sem parecer mão de vaca</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
     <description>Descubra como custos com alimentação, saúde e manutenção de animais exóticos afetam o orçamento familiar e planejamentos financeiros.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/animais-exoticos-orcamento-familiar-431.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Tudo sobre fundo de emergência para autônomos em 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/fundo-de-emergencia-para-autonomos-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/fundo-de-emergencia-para-autonomos-2026</guid>
-    <pubDate>Wed, 21 Jan 2026 00:00:00 GMT</pubDate>
-    <description>Entenda como montar e manter seu fundo de emergência em 2026 para garantir estabilidade financeira sendo autônomo.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/autonomo-fundo-emergencia-2026-942.webp" medium="image" />
   </item>
 </channel>
 </rss>
