@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 12 May 2026 10:37:05 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 12 May 2026 13:07:18 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como e quando separar uma reserva para imprevistos com pets</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/reserva-imprevistos-pets</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/reserva-imprevistos-pets</guid>
+    <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a calcular e guardar um fundo financeiro para emergências veterinárias e cuidados inesperados com pets.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/cofre-com-pet-e-despesas-365.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como decidir entre alugar ou financiar um imóvel em 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
     <description>Descubra estratégias práticas e acessíveis para aumentar sua renda sem precisar de um segundo emprego fixo.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/aumentar-renda-sem-segundo-emprego-763.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Dicas práticas para usar poupança automática no dia a dia</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/dicas-praticas-poupanca-automatica-dia-a-dia</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/dicas-praticas-poupanca-automatica-dia-a-dia</guid>
-    <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
-    <description>Aprenda a configurar e manter a poupança automática para garantir disciplina financeira e acelerar seus objetivos pessoais.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/poupanca-automatica-dia-a-dia-672.webp" medium="image" />
   </item>
 </channel>
 </rss>
