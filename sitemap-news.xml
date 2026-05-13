@@ -13,16 +13,4 @@
       <news:title>Como e quando separar uma reserva para imprevistos com pets</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/decidir-entre-alugar-ou-financiar-imovel-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-11T00:00:00.000Z</news:publication_date>
-      <news:title>Como decidir entre alugar ou financiar um imóvel em 2026</news:title>
-    </news:news>
-  </url>
 </urlset>
