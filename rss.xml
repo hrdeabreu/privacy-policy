@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 13 May 2026 10:34:59 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 13:20:09 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Diferença entre saldo devedor e limite e sua importância</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/diferenca-entre-saldo-devedor-e-limite</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/diferenca-entre-saldo-devedor-e-limite</guid>
+    <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+    <description>Entenda a diferença entre saldo devedor e limite do cartão e aprenda a gerenciar melhor suas finanças pessoais.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/saldo-devedor-vs-limite-cartao-993.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como e quando separar uma reserva para imprevistos com pets</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
     <description>Aprenda a manter a saúde financeira estável em mudanças profissionais com controle de gastos e planejamento estratégico.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/transicao-carreira-financas-planejamento-83.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>7 formas de aumentar a renda sem um segundo emprego</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/7-formas-de-aumentar-a-renda-sem-um-segundo-emprego</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/7-formas-de-aumentar-a-renda-sem-um-segundo-emprego</guid>
-    <pubDate>Wed, 28 Jan 2026 00:00:00 GMT</pubDate>
-    <description>Descubra estratégias práticas e acessíveis para aumentar sua renda sem precisar de um segundo emprego fixo.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/aumentar-renda-sem-segundo-emprego-763.webp" medium="image" />
   </item>
 </channel>
 </rss>
