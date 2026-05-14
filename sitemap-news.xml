@@ -13,16 +13,4 @@
       <news:title>Diferença entre saldo devedor e limite e sua importância</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/reserva-imprevistos-pets</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-12T00:00:00.000Z</news:publication_date>
-      <news:title>Como e quando separar uma reserva para imprevistos com pets</news:title>
-    </news:news>
-  </url>
 </urlset>
