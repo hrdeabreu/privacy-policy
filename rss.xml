@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 19 May 2026 08:31:05 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 19 May 2026 12:14:13 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como desburocratizar o inventário para famílias sem herdeiro</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/desburocratizar-inventario-familias-sem-herdeiro</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/desburocratizar-inventario-familias-sem-herdeiro</guid>
+    <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+    <description>Saiba como simplificar o processo de inventário em casos sem herdeiros, reduzindo custos e evitando burocracia judicial.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejamento-inventario-sala-modernos-910.webp" medium="image" />
+  </item>
 
   <item>
     <title>Diferença entre saldo devedor e limite e sua importância</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
     <description>Saiba identificar taxas, limites e serviços escondidos para escolher a melhor conta digital sem surpresas desagradáveis.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/escolhendo-conta-digital-617.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como proteger as finanças durante transições de carreira</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/proteger-financas-transicoes-carreira</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/proteger-financas-transicoes-carreira</guid>
-    <pubDate>Thu, 29 Jan 2026 00:00:00 GMT</pubDate>
-    <description>Aprenda a manter a saúde financeira estável em mudanças profissionais com controle de gastos e planejamento estratégico.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/transicao-carreira-financas-planejamento-83.webp" medium="image" />
   </item>
 </channel>
 </rss>
