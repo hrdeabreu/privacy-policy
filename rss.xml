@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 20 May 2026 08:29:01 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 20 May 2026 11:51:17 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>7 sinais financeiros que mostram quando pedir ajuda profissional</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/7-sinais-financeiros-para-pedir-ajuda-profissional</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/7-sinais-financeiros-para-pedir-ajuda-profissional</guid>
+    <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+    <description>Descubra os sinais claros que indicam a hora de buscar um especialista para organizar suas finanças pessoais com segurança.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/consulta-financeira-ajuda-profissional-859.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como desburocratizar o inventário para famílias sem herdeiro</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
     <description>Descubra estratégias para equilibrar compras maiores com o orçamento mensal e evitar dívidas desnecessárias.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejamento-compra-grande-familia-649.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como escolher uma conta digital e evitar pegadinhas ocultas</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/como-escolher-conta-digital-evitar-pegadinhas</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-escolher-conta-digital-evitar-pegadinhas</guid>
-    <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
-    <description>Saiba identificar taxas, limites e serviços escondidos para escolher a melhor conta digital sem surpresas desagradáveis.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/escolhendo-conta-digital-617.webp" medium="image" />
   </item>
 </channel>
 </rss>
