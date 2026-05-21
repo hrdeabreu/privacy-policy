@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 21 May 2026 08:36:05 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 12:19:42 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Alteração de perfil no banco: afeta seu limite e seu score?</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/alteracao-de-perfil-no-banco-afeta-limite-score</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/alteracao-de-perfil-no-banco-afeta-limite-score</guid>
+    <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+    <description>Saiba como a alteração do perfil bancário impacta seu limite de crédito e influencia diretamente seu score de crédito.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/perfil-bancario-score-limite-468.webp" medium="image" />
+  </item>
 
   <item>
     <title>7 sinais financeiros que mostram quando pedir ajuda profissional</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
     <description>Descubra quando as parcelas sem juros são vantajosas e como evitar armadilhas no planejamento financeiro pessoal.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/parcelas-cartao-compras-planejamento-603.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como planejar compras maiores sem prejudicar o orçamento mensal</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/planejar-compras-maiores-sem-prejudicar-orcamento-mensal</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/planejar-compras-maiores-sem-prejudicar-orcamento-mensal</guid>
-    <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-    <description>Descubra estratégias para equilibrar compras maiores com o orçamento mensal e evitar dívidas desnecessárias.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejamento-compra-grande-familia-649.webp" medium="image" />
   </item>
 </channel>
 </rss>
