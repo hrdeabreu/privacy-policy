@@ -13,16 +13,4 @@
       <news:title>Alteração de perfil no banco: afeta seu limite e seu score?</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/7-sinais-financeiros-para-pedir-ajuda-profissional</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-20T00:00:00.000Z</news:publication_date>
-      <news:title>7 sinais financeiros que mostram quando pedir ajuda profissional</news:title>
-    </news:news>
-  </url>
 </urlset>
