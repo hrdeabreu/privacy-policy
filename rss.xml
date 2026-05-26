@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 26 May 2026 10:06:14 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 13:55:47 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como a arquitetura das lojas influencia seu consumo sem perceber</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/arquitetura-lojas-influencia-consumo</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/arquitetura-lojas-influencia-consumo</guid>
+    <pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+    <description>Entenda como cores, iluminação e disposição influenciam seu comportamento de compra sem que você perceba.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/arquitetura-loja-consumo-537.webp" medium="image" />
+  </item>
 
   <item>
     <title>Alteração de perfil no banco: afeta seu limite e seu score?</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
     <description>Aprenda estratégias para ajustar sua carteira e controlar dívidas diante da alta da Selic em 2026.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investidor-brasileiro-selic-alta-2026-266.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Quando as parcelas sem juros realmente valem a pena?</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/parcelas-sem-juros-valem-a-pena</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/parcelas-sem-juros-valem-a-pena</guid>
-    <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
-    <description>Descubra quando as parcelas sem juros são vantajosas e como evitar armadilhas no planejamento financeiro pessoal.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/parcelas-cartao-compras-planejamento-603.webp" medium="image" />
   </item>
 </channel>
 </rss>
