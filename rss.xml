@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 27 May 2026 10:04:14 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 14:29:06 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como entender extratos bancários: o que cada linha significa</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/como-entender-extratos-bancarios-o-que-cada-linha-significa</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-entender-extratos-bancarios-o-que-cada-linha-significa</guid>
+    <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+    <description>Descubra o significado de cada item do extrato bancário e aprenda a identificar despesas, receitas e saldo com clareza.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/pessoa-interpretando-extrato-bancario-322.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como a arquitetura das lojas influencia seu consumo sem perceber</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 09 Feb 2026 00:00:00 GMT</pubDate>
     <description>Descubra nove estratégias financeiras para organizar gastos da volta às aulas e garantir um 2026 sem aperto orçamentário.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/planejamento-volta-as-aulas-familia-2026-205.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como ajustar investimentos e dívidas com a Selic alta em 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/ajustar-investimentos-dividas-selic-alta-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/ajustar-investimentos-dividas-selic-alta-2026</guid>
-    <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-    <description>Aprenda estratégias para ajustar sua carteira e controlar dívidas diante da alta da Selic em 2026.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investidor-brasileiro-selic-alta-2026-266.webp" medium="image" />
   </item>
 </channel>
 </rss>

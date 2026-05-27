@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/como-entender-extratos-bancarios-o-que-cada-linha-significa</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Seu Mestre Financeiro</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-27T00:00:00.000Z</news:publication_date>
+      <news:title>Como entender extratos bancários: o que cada linha significa</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.seumestrefinanceiro.com.br/post/arquitetura-lojas-influencia-consumo</loc>
     <news:news>
       <news:publication>
