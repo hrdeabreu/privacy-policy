@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 01 Jun 2026 10:25:32 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 16:41:58 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como usar o IOF a seu favor no planejamento de investimentos</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/usar-iof-a-seu-favor-no-planejamento-de-investimentos</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/usar-iof-a-seu-favor-no-planejamento-de-investimentos</guid>
+    <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+    <description>Entenda como o IOF impacta seus investimentos e aprenda a usar essa taxa para reduzir custos e maximizar ganhos.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/tabuleiro-estrategia-iof-investimentos-729.webp" medium="image" />
+  </item>
 
   <item>
     <title>Quando atualizar ou trocar seu seguro de auto: veja os critérios</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
     <description>Descubra métricas além do ESG para avaliar investimentos sustentáveis e entender impactos sociais, ambientais e de governança.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investimento-sustentavel-metricas-827.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como entender e planejar os custos ocultos ao mudar de cidade</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/custos-ocultos-mudanca-de-cidade</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/custos-ocultos-mudanca-de-cidade</guid>
-    <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
-    <description>Descubra como identificar gastos inesperados e organizar seu orçamento para uma mudança sem surpresas financeiras.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/mudanca-cidade-custos-ocultos-317.webp" medium="image" />
   </item>
 </channel>
 </rss>
