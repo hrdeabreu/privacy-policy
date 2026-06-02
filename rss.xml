@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 02 Jun 2026 09:12:24 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 14:10:06 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como usar listas de desejos para evitar compras por impulso</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/listas-desejos-evitar-compras-impulso</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/listas-desejos-evitar-compras-impulso</guid>
+    <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
+    <description>Descubra como listas de desejos ajudam a controlar o consumo e fortalecer o planejamento financeiro pessoal.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/lista-desejos-compras-conscientes-581.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como usar o IOF a seu favor no planejamento de investimentos</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
     <description>Saiba como organizar gastos, evitar conflitos e garantir justiça ao dividir aluguel e contas em repúblicas universitárias.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/dividir-aluguel-republica-universitaria-154.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Investimento sustentável: Quais métricas analisar além do esg?</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/investimento-sustentavel-metricas-alem-do-esg</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/investimento-sustentavel-metricas-alem-do-esg</guid>
-    <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
-    <description>Descubra métricas além do ESG para avaliar investimentos sustentáveis e entender impactos sociais, ambientais e de governança.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investimento-sustentavel-metricas-827.webp" medium="image" />
   </item>
 </channel>
 </rss>
