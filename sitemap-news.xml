@@ -13,16 +13,4 @@
       <news:title>Como usar listas de desejos para evitar compras por impulso</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/usar-iof-a-seu-favor-no-planejamento-de-investimentos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-01T00:00:00.000Z</news:publication_date>
-      <news:title>Como usar o IOF a seu favor no planejamento de investimentos</news:title>
-    </news:news>
-  </url>
 </urlset>
