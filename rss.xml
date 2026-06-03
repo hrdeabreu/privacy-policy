@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 03 Jun 2026 09:57:16 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 14:51:10 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Guia completo para entender a portabilidade de crédito em 2026</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/portabilidade-de-credito-guia-2026</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/portabilidade-de-credito-guia-2026</guid>
+    <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda como solicitar portabilidade de crédito em 2026, reduzir taxas e melhorar condições no seu empréstimo bancário.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/portabilidade-credito-2026-32.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como usar listas de desejos para evitar compras por impulso</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
     <description>Aprenda a investir em criptomoedas com estratégia, evitando modismos e minimizando riscos no mercado volátil.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investidor-criptomoedas-equilibrio-711.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Cuidados ao dividir aluguel e contas em repúblicas universitárias</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/cuidados-dividir-aluguel-contas-republicas-universitarias</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/cuidados-dividir-aluguel-contas-republicas-universitarias</guid>
-    <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
-    <description>Saiba como organizar gastos, evitar conflitos e garantir justiça ao dividir aluguel e contas em repúblicas universitárias.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/dividir-aluguel-republica-universitaria-154.webp" medium="image" />
   </item>
 </channel>
 </rss>
