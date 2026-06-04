@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 04 Jun 2026 08:53:22 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 04 Jun 2026 12:04:51 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como funcionam os investimentos atrelados ao dólar em 2026</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/investimentos-atrelados-ao-dolar-2026</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/investimentos-atrelados-ao-dolar-2026</guid>
+    <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+    <description>Entenda as características dos investimentos dolarizados em 2026 e os riscos e benefícios frente à volatilidade cambial.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investidor-dolar-janela-cidade-1000.webp" medium="image" />
+  </item>
 
   <item>
     <title>Guia completo para entender a portabilidade de crédito em 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
     <description>Descubra os riscos e cuidados ao antecipar recebíveis em 2026 e saiba quando essa estratégia financeira vale a pena.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/antecipacao-recebiveis-empresario-analise-186.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como investir em criptomoedas sem cair em modismos fáceis</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/como-investir-criptomoedas-sem-cair-em-modismos</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/como-investir-criptomoedas-sem-cair-em-modismos</guid>
-    <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-    <description>Aprenda a investir em criptomoedas com estratégia, evitando modismos e minimizando riscos no mercado volátil.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investidor-criptomoedas-equilibrio-711.webp" medium="image" />
   </item>
 </channel>
 </rss>
