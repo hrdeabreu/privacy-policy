@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 08 Jun 2026 11:09:15 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 16:03:26 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como economizar energia elétrica com hábitos simples em casa</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/economizar-energia-habitos-simples-casa</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/economizar-energia-habitos-simples-casa</guid>
+    <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+    <description>Descubra práticas simples para reduzir o consumo de energia em casa e economizar na conta de luz mensalmente.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-economia-energia-sala-137.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como funcionam os investimentos atrelados ao dólar em 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
     <description>Aprenda a ajustar despesas, criar planos de contingência e reorganizar finanças após o fim do auxílio emergencial.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-planejando-orcamento-fim-auxilio-727.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Vale a pena antecipar o recebível? Riscos e cuidados em 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/antecipar-recebiveis-riscos-cuidados-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/antecipar-recebiveis-riscos-cuidados-2026</guid>
-    <pubDate>Tue, 24 Feb 2026 00:00:00 GMT</pubDate>
-    <description>Descubra os riscos e cuidados ao antecipar recebíveis em 2026 e saiba quando essa estratégia financeira vale a pena.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/antecipacao-recebiveis-empresario-analise-186.webp" medium="image" />
   </item>
 </channel>
 </rss>
