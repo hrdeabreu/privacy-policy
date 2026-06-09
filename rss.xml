@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 09 Jun 2026 08:33:04 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 12:08:24 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como organizar as finanças após enfrentar imprevistos graves</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/organizar-financas-apos-imprevistos-graves</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/organizar-financas-apos-imprevistos-graves</guid>
+    <pubDate>Tue, 09 Jun 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a reestruturar seu orçamento, criar reserva de emergência e retomar o controle financeiro após imprevistos.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/reconstrucao-financas-pos-imprevistos-946.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como economizar energia elétrica com hábitos simples em casa</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
     <description>Descubra se o Tesouro IPCA ou prefixado oferece maior proteção contra inflação e juros em 2026. Saiba qual escolher!</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/tesouro-ipca-vs-prefixado-2026-361.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como lidar com o fim do auxílio emergencial no orçamento familiar</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/fim-auxilio-emergencial-orcamento-familiar</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/fim-auxilio-emergencial-orcamento-familiar</guid>
-    <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
-    <description>Aprenda a ajustar despesas, criar planos de contingência e reorganizar finanças após o fim do auxílio emergencial.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-planejando-orcamento-fim-auxilio-727.webp" medium="image" />
   </item>
 </channel>
 </rss>
