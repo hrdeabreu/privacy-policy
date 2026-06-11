@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 11 Jun 2026 10:46:36 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 11 Jun 2026 14:42:30 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como receber dinheiro em moeda estrangeira: dicas para 2026</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/receber-dinheiro-moeda-estrangeira-dicas-2026</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/receber-dinheiro-moeda-estrangeira-dicas-2026</guid>
+    <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+    <description>Descubra os melhores métodos para receber pagamentos em moeda estrangeira, reduzindo custos e riscos cambiais em 2026.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/receber-moeda-estrangeira-online-290.webp" medium="image" />
+  </item>
 
   <item>
     <title>Planejamento financeiro para solteiros após o divórcio</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
     <description>Descubra estratégias para alinhar finanças, dividir responsabilidades e alcançar metas financeiras a dois com equilíbrio e transparência.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/casal-planejando-financas-quadro-362.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como evitar sabotar o orçamento com pequenas compras diárias</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/evitar-sabotar-orcamento-pequenas-compras-diarias</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/evitar-sabotar-orcamento-pequenas-compras-diarias</guid>
-    <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
-    <description>Descubra estratégias práticas para controlar gastos diários e evitar o impacto negativo das pequenas compras no orçamento.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/cofrinho-compras-miudas-929.webp" medium="image" />
   </item>
 </channel>
 </rss>
