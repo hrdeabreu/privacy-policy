@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 22 Jun 2026 06:32:35 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 22 Jun 2026 12:52:42 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como lidar com pressões sociais para gastar em festas</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/lidar-pressao-social-gastos-festas</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/lidar-pressao-social-gastos-festas</guid>
+    <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a reconhecer e resistir às pressões sociais para gastar em festas sem comprometer seu planejamento financeiro.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/jovem-negociando-convite-festa-211.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como receber dinheiro em moeda estrangeira: dicas para 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
     <description>Aprenda a criar e manter um fundo específico para emergências domésticas e evite surpresas no orçamento familiar.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/fundo-emergencias-domesticas-756.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Dinheiro em casal: como planejar juntos seus objetivos financeiros</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/dinheiro-em-casal-planejamento-juntos-objetivos-financeiros</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/dinheiro-em-casal-planejamento-juntos-objetivos-financeiros</guid>
-    <pubDate>Tue, 03 Mar 2026 00:00:00 GMT</pubDate>
-    <description>Descubra estratégias para alinhar finanças, dividir responsabilidades e alcançar metas financeiras a dois com equilíbrio e transparência.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/casal-planejando-financas-quadro-362.webp" medium="image" />
   </item>
 </channel>
 </rss>
