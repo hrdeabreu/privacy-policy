@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 23 Jun 2026 09:52:32 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 23 Jun 2026 12:37:45 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Vale a pena financiar estudos fora do país? Veja pontos-chave</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/financiar-estudos-externos-pontos-chave</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/financiar-estudos-externos-pontos-chave</guid>
+    <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+    <description>Entenda os custos, riscos e benefícios de financiar estudos no exterior antes de tomar essa decisão financeira importante.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/estudante-planeja-intercambio-mapa-dinheiro-164.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como lidar com pressões sociais para gastar em festas</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
     <description>Aprenda estratégias práticas para controlar gastos e evitar armadilhas emocionais durante promoções relâmpago.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/compras-impulsivas-promocao-relampago-818.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como montar um fundo só para emergências domésticas</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/fundo-emergencias-domesticas</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/fundo-emergencias-domesticas</guid>
-    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
-    <description>Aprenda a criar e manter um fundo específico para emergências domésticas e evite surpresas no orçamento familiar.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/fundo-emergencias-domesticas-756.webp" medium="image" />
   </item>
 </channel>
 </rss>
