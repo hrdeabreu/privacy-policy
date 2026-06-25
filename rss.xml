@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 25 Jun 2026 08:25:37 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 25 Jun 2026 11:43:00 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como negociar taxas e tarifas bancárias pelo aplicativo</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/negociar-taxas-tarifas-bancarias-aplicativo</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/negociar-taxas-tarifas-bancarias-aplicativo</guid>
+    <pubDate>Thu, 25 Jun 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda a reduzir custos bancários negociando taxas e tarifas direto pelo app, com estratégias simples e eficazes.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/negociacao-taxas-app-bancario-303.webp" medium="image" />
+  </item>
 
   <item>
     <title>Finanças pessoais e saúde mental: qual é a relação prática?</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
     <description>Descubra estratégias práticas para além do FIRE e aprenda a aumentar seu patrimônio para aposentar-se cedo com segurança.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/estrada-para-aposentadoria-precoce-158.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como ensinar o valor do dinheiro às crianças desde cedo</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/ensinar-valor-do-dinheiro-criancas-desde-cedo</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/ensinar-valor-do-dinheiro-criancas-desde-cedo</guid>
-    <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-    <description>Aprenda estratégias práticas para ensinar educação financeira às crianças e formar hábitos saudáveis desde a infância.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/crianca-loja-brinquedos-orcamento-99.webp" medium="image" />
   </item>
 </channel>
 </rss>
