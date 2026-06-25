@@ -13,16 +13,4 @@
       <news:title>Finanças pessoais e saúde mental: qual é a relação prática?</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/financiar-estudos-externos-pontos-chave</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-23T00:00:00.000Z</news:publication_date>
-      <news:title>Vale a pena financiar estudos fora do país? Veja pontos-chave</news:title>
-    </news:news>
-  </url>
 </urlset>
