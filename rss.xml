@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 29 Jun 2026 09:52:23 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 29 Jun 2026 14:12:41 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como a cultura do delivery impacta seu bolso a longo prazo</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/cultura-do-delivery-e-impacto-financeiro</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/cultura-do-delivery-e-impacto-financeiro</guid>
+    <pubDate>Mon, 29 Jun 2026 00:00:00 GMT</pubDate>
+    <description>Descubra como o hábito do delivery afeta seu orçamento e quais impactos financeiros isso pode trazer a longo prazo.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/pilhas-embalagens-delivery-carteira-vazia-366.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como negociar taxas e tarifas bancárias pelo aplicativo</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
     <description>Entenda como funciona o consórcio, seus custos, prazos e se ele é adequado para seu planejamento financeiro.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/decisao-consorcio-balanca-116.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Planejamento para aposentadoria precoce: passos além do fire</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/planejamento-aposentadoria-precoce-passos-alem-fire</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/planejamento-aposentadoria-precoce-passos-alem-fire</guid>
-    <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-    <description>Descubra estratégias práticas para além do FIRE e aprenda a aumentar seu patrimônio para aposentar-se cedo com segurança.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/estrada-para-aposentadoria-precoce-158.webp" medium="image" />
   </item>
 </channel>
 </rss>
