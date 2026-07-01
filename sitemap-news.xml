@@ -3,6 +3,18 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
   <url>
+    <loc>https://www.seumestrefinanceiro.com.br/post/organizar-vaquinhas-amigos-sem-conflitos</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Seu Mestre Financeiro</news:name>
+        <news:language>pt</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T00:00:00.000Z</news:publication_date>
+      <news:title>Como organizar vaquinhas com amigos sem causar conflitos</news:title>
+    </news:news>
+  </url>
+
+  <url>
     <loc>https://www.seumestrefinanceiro.com.br/post/lidar-com-ofertas-tentadoras-email-sms</loc>
     <news:news>
       <news:publication>

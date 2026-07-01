@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 01 Jul 2026 09:59:00 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 01 Jul 2026 12:41:49 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como organizar vaquinhas com amigos sem causar conflitos</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/organizar-vaquinhas-amigos-sem-conflitos</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/organizar-vaquinhas-amigos-sem-conflitos</guid>
+    <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Dicas práticas para evitar mal-entendidos e garantir transparência ao organizar vaquinhas financeiras com amigos e família.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/amigos-organizando-vaquinha-145.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como lidar com ofertas tentadoras recebidas por e-mail e SMS</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
     <description>Aprenda estratégias práticas para renegociar dívidas estudantis e preservar sua saúde financeira no longo prazo.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/renegociacao-divida-estudantil-520.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Microempreendedor: 10 dicas para separar contas pessoais do negócio</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/microempreendedor-separar-contas-pessoais-negocio</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/microempreendedor-separar-contas-pessoais-negocio</guid>
-    <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-    <description>Aprenda a organizar finanças separando conta pessoal e empresarial para evitar confusão e facilitar a gestão do negócio.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/microempreendedor-separando-financas-336.webp" medium="image" />
   </item>
 </channel>
 </rss>
