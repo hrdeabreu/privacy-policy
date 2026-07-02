@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 02 Jul 2026 09:21:58 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 02 Jul 2026 12:11:34 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Decisões irracionais no supermercado e economia comportamental</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/decisoes-irracionais-supermercado-economia-comportamental</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/decisoes-irracionais-supermercado-economia-comportamental</guid>
+    <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Entenda como vieses e gatilhos mentais influenciam decisões no supermercado e impactam seu controle financeiro diário.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/consumidor-corredor-supermercado-441.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como organizar vaquinhas com amigos sem causar conflitos</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
     <description>Descubra como os super apps integram serviços financeiros e transformam o uso das carteiras digitais no dia a dia.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/super-app-carteira-digital-brasil-978.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como renegociar dívidas estudantis sem perder o futuro</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/renegociar-dividas-estudantis-futuro</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/renegociar-dividas-estudantis-futuro</guid>
-    <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
-    <description>Aprenda estratégias práticas para renegociar dívidas estudantis e preservar sua saúde financeira no longo prazo.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/renegociacao-divida-estudantil-520.webp" medium="image" />
   </item>
 </channel>
 </rss>
