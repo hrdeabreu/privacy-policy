@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 06 Jul 2026 10:48:24 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 06 Jul 2026 14:29:25 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>7 atalhos psicológicos que levam ao rápido endividamento</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/atalhos-psicologicos-endividamento-rapido</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/atalhos-psicologicos-endividamento-rapido</guid>
+    <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Descubra quais atalhos mentais aumentam o risco de endividamento e como evitá-los para melhorar sua saúde financeira.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/mente-labirinto-cartoes-credito-723.webp" medium="image" />
+  </item>
 
   <item>
     <title>Decisões irracionais no supermercado e economia comportamental</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
     <description>Entenda cláusulas, responsabilidades e cuidados legais para evitar problemas e garantir contratos de aluguel seguros e claros.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/analise-contrato-aluguel-lupa-341.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como os super apps de finanças estão mudando as carteiras digitais</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/super-apps-financeiros-carteiras-digitais</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/super-apps-financeiros-carteiras-digitais</guid>
-    <pubDate>Tue, 17 Mar 2026 00:00:00 GMT</pubDate>
-    <description>Descubra como os super apps integram serviços financeiros e transformam o uso das carteiras digitais no dia a dia.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/super-app-carteira-digital-brasil-978.webp" medium="image" />
   </item>
 </channel>
 </rss>
