@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 07 Jul 2026 08:31:10 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 11:55:32 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como lidar com oscilações da bolsa ao iniciar investimentos</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/lidar-com-oscilacoes-da-bolsa-iniciantes-investimentos</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/lidar-com-oscilacoes-da-bolsa-iniciantes-investimentos</guid>
+    <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Descubra estratégias para controlar o impacto da volatilidade da bolsa e manter a disciplina nos seus primeiros investimentos.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/investidor-iniciante-grafico-volatil-385.webp" medium="image" />
+  </item>
 
   <item>
     <title>7 atalhos psicológicos que levam ao rápido endividamento</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
     <description>Entenda as vantagens, taxas e prazos de compra parcelada vs financiamento para planejar melhor suas finanças em 2026.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/painel-compra-parcelada-financiamento-2026-780.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como analisar contratos de aluguel e evitar armadilhas jurídicas</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/analisar-contratos-aluguel-evitar-armadilhas-juridicas</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/analisar-contratos-aluguel-evitar-armadilhas-juridicas</guid>
-    <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
-    <description>Entenda cláusulas, responsabilidades e cuidados legais para evitar problemas e garantir contratos de aluguel seguros e claros.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/analise-contrato-aluguel-lupa-341.webp" medium="image" />
   </item>
 </channel>
 </rss>
