@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 08 Jul 2026 10:23:47 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 12:23:54 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Como prevenir golpes de phishing sem abrir mão da praticidade</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/prevenir-golpes-phishing-praticidade</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/prevenir-golpes-phishing-praticidade</guid>
+    <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Evite golpes de phishing com dicas para reconhecer fraudes em e-mails e apps, mantendo sua segurança sem perder agilidade.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/protecao-phishing-notebook-cafe-711.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como lidar com oscilações da bolsa ao iniciar investimentos</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
     <description>Aprenda a controlar assinaturas e cobranças automáticas para evitar gastos inesperados e manter seu orçamento sempre ajustado.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/painel-pagamentos-recorrentes-306.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Compra parcelada ou financiamento: diferenças para 2026</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/compra-parcelada-ou-financiamento-diferencas-2026</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/compra-parcelada-ou-financiamento-diferencas-2026</guid>
-    <pubDate>Mon, 23 Mar 2026 00:00:00 GMT</pubDate>
-    <description>Entenda as vantagens, taxas e prazos de compra parcelada vs financiamento para planejar melhor suas finanças em 2026.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/painel-compra-parcelada-financiamento-2026-780.webp" medium="image" />
   </item>
 </channel>
 </rss>
