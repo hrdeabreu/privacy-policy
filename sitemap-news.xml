@@ -13,16 +13,4 @@
       <news:title>Como lidar com oscilações da bolsa ao iniciar investimentos</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/atalhos-psicologicos-endividamento-rapido</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-06T00:00:00.000Z</news:publication_date>
-      <news:title>7 atalhos psicológicos que levam ao rápido endividamento</news:title>
-    </news:news>
-  </url>
 </urlset>
