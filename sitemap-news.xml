@@ -13,16 +13,4 @@
       <news:title>Como prevenir golpes de phishing sem abrir mão da praticidade</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/lidar-com-oscilacoes-da-bolsa-iniciantes-investimentos</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-07T00:00:00.000Z</news:publication_date>
-      <news:title>Como lidar com oscilações da bolsa ao iniciar investimentos</news:title>
-    </news:news>
-  </url>
 </urlset>
