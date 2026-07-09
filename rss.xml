@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Thu, 09 Jul 2026 11:09:25 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 09 Jul 2026 15:21:30 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>5 maneiras de evitar o desperdício de alimentos e economizar</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/5-maneiras-evitar-desperdicio-alimentos-e-economizar</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/5-maneiras-evitar-desperdicio-alimentos-e-economizar</guid>
+    <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Descubra estratégias práticas para reduzir o desperdício de alimentos e cortar gastos no orçamento doméstico.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/desperdicio-alimentos-economia-cozinha-847.webp" medium="image" />
+  </item>
 
   <item>
     <title>Como prevenir golpes de phishing sem abrir mão da praticidade</title>
@@ -456,15 +465,6 @@
     <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
     <description>Entenda como as taxas de administração impactam a rentabilidade dos fundos e saiba identificar custos que afetam seus investimentos.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/lupa-sobre-taxas-fundos-497.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Como monitorar pagamentos recorrentes e evitar surpresas no extrato</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/monitorar-pagamentos-recorrentes-evitar-surpresas-extrato</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/monitorar-pagamentos-recorrentes-evitar-surpresas-extrato</guid>
-    <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
-    <description>Aprenda a controlar assinaturas e cobranças automáticas para evitar gastos inesperados e manter seu orçamento sempre ajustado.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/painel-pagamentos-recorrentes-306.webp" medium="image" />
   </item>
 </channel>
 </rss>
