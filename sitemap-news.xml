@@ -13,16 +13,4 @@
       <news:title>5 maneiras de evitar o desperdício de alimentos e economizar</news:title>
     </news:news>
   </url>
-
-  <url>
-    <loc>https://www.seumestrefinanceiro.com.br/post/prevenir-golpes-phishing-praticidade</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Seu Mestre Financeiro</news:name>
-        <news:language>pt</news:language>
-      </news:publication>
-      <news:publication_date>2026-07-08T00:00:00.000Z</news:publication_date>
-      <news:title>Como prevenir golpes de phishing sem abrir mão da praticidade</news:title>
-    </news:news>
-  </url>
 </urlset>
