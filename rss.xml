@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Mon, 13 Jul 2026 08:19:38 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 12:10:39 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Planos odontológicos valem a pena? Veja o que avaliar em 2026</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/planos-odontologicos-valem-a-pena-2026</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/planos-odontologicos-valem-a-pena-2026</guid>
+    <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Entenda os custos, cobertura, carências e tipos de planos odontológicos para fazer escolhas acertadas em 2026.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/comparacao-planos-odontologicos-financas-97.webp" medium="image" />
+  </item>
 
   <item>
     <title>5 maneiras de evitar o desperdício de alimentos e economizar</title>
@@ -456,15 +465,6 @@
     <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
     <description>Entenda quando o crédito consignado é vantajoso, seus custos, riscos e dicas para evitar armadilhas financeiras.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/contracheque-credito-consignado-360.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>O que considerar nas taxas de administração dos fundos de investimento</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/taxas-administracao-fundos-investimento</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/taxas-administracao-fundos-investimento</guid>
-    <pubDate>Wed, 25 Mar 2026 00:00:00 GMT</pubDate>
-    <description>Entenda como as taxas de administração impactam a rentabilidade dos fundos e saiba identificar custos que afetam seus investimentos.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/lupa-sobre-taxas-fundos-497.webp" medium="image" />
   </item>
 </channel>
 </rss>
