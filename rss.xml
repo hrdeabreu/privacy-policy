@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Tue, 14 Jul 2026 10:03:00 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 12:17:41 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Quando usar o cartão de débito internacional e como economizar</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/usar-cartao-de-debito-internacional-e-como-economizar</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/usar-cartao-de-debito-internacional-e-como-economizar</guid>
+    <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Entenda quando e como usar o cartão de débito internacional para evitar taxas, controlar gastos e fazer escolhas financeiras melhores.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/turista-cartao-debito-internacional-aeroporto-745.webp" medium="image" />
+  </item>
 
   <item>
     <title>Planos odontológicos valem a pena? Veja o que avaliar em 2026</title>
@@ -456,15 +465,6 @@
     <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
     <description>Aprenda a se proteger de dívidas causadas por despesas médicas inesperadas com planejamento e gestão financeira simples.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-planejando-despesas-medicas-500.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Crédito consignado: quando faz sentido e pontos de atenção</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/credito-consignado-quando-faz-sentido-e-pontos-de-atencao</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/credito-consignado-quando-faz-sentido-e-pontos-de-atencao</guid>
-    <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-    <description>Entenda quando o crédito consignado é vantajoso, seus custos, riscos e dicas para evitar armadilhas financeiras.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/contracheque-credito-consignado-360.webp" medium="image" />
   </item>
 </channel>
 </rss>
