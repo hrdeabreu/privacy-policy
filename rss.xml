@@ -13,9 +13,18 @@
     <height>31</height>
   </image>
   <language>pt-BR</language>
-  <lastBuildDate>Wed, 15 Jul 2026 09:11:46 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 11:38:32 GMT</lastBuildDate>
   <ttl>60</ttl>
   <atom:link href="https://git.seumestrefinanceiro.com.br/rss.xml" rel="self" type="application/rss+xml"/>
+
+  <item>
+    <title>Finanças sustentáveis: Reduzir o plástico e cuidar do bolso</title>
+    <link>https://www.seumestrefinanceiro.com.br/post/financas-sustentaveis-reduzir-plastico-e-cuidar-do-bolso</link>
+    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/financas-sustentaveis-reduzir-plastico-e-cuidar-do-bolso</guid>
+    <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+    <description>Aprenda como reduzir plástico no dia a dia contribui para finanças pessoais mais saudáveis e sustentabilidade prática.</description>
+    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/cofre-verde-economias-sustentaveis-77.webp" medium="image" />
+  </item>
 
   <item>
     <title>Quando usar o cartão de débito internacional e como economizar</title>
@@ -456,15 +465,6 @@
     <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
     <description>Aprenda a criar metas visuais claras para monitorar seus gastos, controlar impulsos e melhorar o planejamento financeiro mensal.</description>
     <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/painel-metas-visuais-financas-951.webp" medium="image" />
-  </item>
-
-  <item>
-    <title>Despesas médicas inesperadas: 6 dicas para evitar dívidas</title>
-    <link>https://www.seumestrefinanceiro.com.br/post/despesas-medicas-inesperadas-6-dicas-evitar-dividas</link>
-    <guid isPermaLink="true">https://www.seumestrefinanceiro.com.br/post/despesas-medicas-inesperadas-6-dicas-evitar-dividas</guid>
-    <pubDate>Mon, 30 Mar 2026 00:00:00 GMT</pubDate>
-    <description>Aprenda a se proteger de dívidas causadas por despesas médicas inesperadas com planejamento e gestão financeira simples.</description>
-    <media:content url="https://ixymyhazbhztpjnlxmbd.supabase.co/storage/v1/object/images/generated/familia-planejando-despesas-medicas-500.webp" medium="image" />
   </item>
 </channel>
 </rss>
