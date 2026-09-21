@@ -27,14 +27,14 @@
 <section aria-labelledby="dados">
 <h2 id="dados">2. Dados Google acessados e finalidade</h2>
 <p>Na integração Owner atualmente ativa, o Rocky pode pesquisar e consultar mensagens e threads do Gmail, incluindo conteúdo e metadados, e consultar eventos de calendários autorizados. Esses dados são usados para localizar informações, elaborar resumos e responder às solicitações do titular.</p>
-<p>O acesso atualmente ativo é de somente leitura. Não há, neste momento, ferramenta ativa de envio de e-mail nem de modificação do Gmail pessoal.</p>
+<p>As ferramentas de consulta atualmente ativas são de somente leitura. Separadamente, existe uma ferramenta limitada de criação de rascunhos no Gmail pessoal. Não há ferramenta ativa de envio de e-mail, resposta, encaminhamento, exclusão, edição de drafts, anexos ou outras modificações do Gmail pessoal.</p>
 <p>Contas Google pertencentes ao próprio Rocky podem futuramente receber permissões adicionais sobre recursos próprios quando uma funcionalidade concreta for habilitada. Contas pessoais delegadas permanecem somente leitura por padrão.</p>
 </section>
 
 <section aria-labelledby="drafts">
 <h2 id="drafts">3. Rascunhos pessoais</h2>
-<p>Uma capacidade separada de preparação de rascunhos no Gmail pessoal poderá ser habilitada para criar drafts que o titular revise e envie manualmente. Quando ativada, a ferramenta do Rocky será limitada à criação do rascunho e não exporá uma operação de envio.</p>
-<p>O Google não oferece um escopo OAuth comum que seja tecnicamente “draft-only”: o escopo <code>gmail.compose</code> permite gerenciar rascunhos e também enviar mensagens. Por isso, a restrição de não envio será aplicada pela integração e pela superfície de ferramentas do Rocky, e não por uma limitação criptográfica do token Google. Essa capacidade não está ativa até que seja autorizada e testada separadamente.</p>
+<p>A capacidade separada de preparação de rascunhos no Gmail pessoal está ativa. Ela cria apenas um novo draft em texto simples, com destinatário, assunto e corpo fornecidos à ferramenta, para que o titular revise e envie manualmente. A superfície exposta ao Rocky contém somente a operação de criar o rascunho e não contém operação de envio.</p>
+<p>O Google não oferece um escopo OAuth comum que seja tecnicamente “draft-only”: o escopo <code>gmail.compose</code> permite gerenciar rascunhos e também enviar mensagens. Por isso, a restrição de não envio é aplicada pela integração e pela superfície de ferramentas do Rocky, e não por uma limitação criptográfica do token Google. O runtime restringe o comando ao create-draft e aplica um bloqueio adicional de envio; se a credencial fosse usada fora dessa integração limitada, o token Google continuaria tendo a autoridade definida por <code>gmail.compose</code>.</p>
 </section>
 
 <section aria-labelledby="limited">
@@ -61,7 +61,7 @@
 <section aria-labelledby="revogacao">
 <h2 id="revogacao">7. Revogação do acesso Google</h2>
 <p>O titular pode revogar a autorização do Rocky nas configurações da sua Conta Google. A revogação impede novo acesso conforme o grant revogado, mas não apaga automaticamente respostas ou registros que já tenham sido legitimamente produzidos.</p>
-<p>As credenciais de contas e domínios diferentes são mantidas separadamente. A autorização de uma conta não concede automaticamente acesso a outra.</p>
+<p>As credenciais de contas e domínios diferentes são mantidas separadamente. Para a mesma conta pessoal, leitura e criação de drafts usam clientes, homes e keyrings locais separados; entretanto, ambos pertencem ao mesmo projeto OAuth do Google e essa separação local não é apresentada como isolamento criptográfico entre grants no provedor. A autorização de uma conta não concede automaticamente acesso a outra conta.</p>
 </section>
 
 <section aria-labelledby="site">
@@ -77,7 +77,7 @@
 
 <footer>
 <p><a href="index.html">Voltar às informações do Rocky</a></p>
-<p>Atualizado em 20 de setembro de 2026.</p>
+<p>Atualizado em 21 de setembro de 2026.</p>
 </footer>
 </main>
 </body>
