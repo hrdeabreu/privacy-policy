@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; base-uri 'none'; form-action 'none'">
+<title>Política de Privacidade — Rocky, The Assistant</title>
+<meta name="description" content="Tratamento de dados Google pelo Rocky, The Assistant.">
+<style>*{box-sizing:border-box}html{color-scheme:light}body{margin:0;background:#f5f6f8;color:#202a35;font:17px/1.7 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}main{max-width:880px;margin:0 auto;padding:54px 28px 72px}header{border-bottom:1px solid #d4dbe3;padding-bottom:24px;margin-bottom:32px}.eyebrow{font-size:12px;letter-spacing:.13em;text-transform:uppercase;color:#506575;font-weight:700}h1{font-size:clamp(30px,6vw,45px);line-height:1.15;letter-spacing:-.025em;margin:14px 0}h2{font-size:22px;line-height:1.35;margin:34px 0 12px}p{margin:12px 0}a{color:#17547a;text-underline-offset:3px}a:focus-visible{outline:3px solid #17547a;outline-offset:4px}.note{padding:18px 22px;border-left:4px solid #506575;background:#e9edf2;margin:26px 0}footer{margin-top:40px;padding-top:20px;border-top:1px solid #d4dbe3;font-size:14px;color:#506575}nav{margin:18px 0}.muted{color:#506575}@media print{body{background:white}main{max-width:none;padding:0}h2{break-after:avoid}p{orphans:3;widows:3}}</style>
+</head>
+<body>
+<main>
+<header>
+<p class="eyebrow">Rocky, The Assistant</p>
+<h1>Política de Privacidade</h1>
+<p class="muted">Integração pessoal e de uso restrito.</p>
+<nav aria-label="Navegação"><a href="index.html">Informações do aplicativo</a></nav>
+</header>
+
+<section aria-labelledby="escopo">
+<h2 id="escopo">1. Responsável e escopo</h2>
+<p>Henrique Rodrigues de Abreu é o responsável pelo Rocky, The Assistant. O Rocky é um assistente pessoal de uso restrito, sem cadastro público. Esta política descreve como o Rocky utiliza dados obtidos de contas Google expressamente autorizadas.</p>
+<p>As informações desta página se aplicam ao Rocky e não automaticamente a outros produtos que possam utilizar o mesmo portal de políticas.</p>
+</section>
+
+<section aria-labelledby="dados">
+<h2 id="dados">2. Dados Google acessados e finalidade</h2>
+<p>Na integração Owner atualmente ativa, o Rocky pode pesquisar e consultar mensagens e threads do Gmail, incluindo conteúdo e metadados, e consultar eventos de calendários autorizados. Esses dados são usados para localizar informações, elaborar resumos e responder às solicitações do titular.</p>
+<p>O acesso atualmente ativo é de somente leitura. Não há, neste momento, ferramenta ativa de envio de e-mail nem de modificação do Gmail pessoal.</p>
+<p>Contas Google pertencentes ao próprio Rocky podem futuramente receber permissões adicionais sobre recursos próprios quando uma funcionalidade concreta for habilitada. Contas pessoais delegadas permanecem somente leitura por padrão.</p>
+</section>
+
+<section aria-labelledby="drafts">
+<h2 id="drafts">3. Rascunhos pessoais</h2>
+<p>Uma capacidade separada de preparação de rascunhos no Gmail pessoal poderá ser habilitada para criar drafts que o titular revise e envie manualmente. Quando ativada, a ferramenta do Rocky será limitada à criação do rascunho e não exporá uma operação de envio.</p>
+<p>O Google não oferece um escopo OAuth comum que seja tecnicamente “draft-only”: o escopo <code>gmail.compose</code> permite gerenciar rascunhos e também enviar mensagens. Por isso, a restrição de não envio será aplicada pela integração e pela superfície de ferramentas do Rocky, e não por uma limitação criptográfica do token Google. Essa capacidade não está ativa até que seja autorizada e testada separadamente.</p>
+</section>
+
+<section aria-labelledby="limited">
+<h2 id="limited">4. Google Limited Use</h2>
+<p>O uso, pelo Rocky, das informações recebidas dos escopos do Google Workspace adere à <a href="https://developers.google.com/workspace/workspace-api-user-data-developer-policy">Google Workspace User Data and Developer Policy</a>, incluindo os requisitos de <em>Limited Use</em>.</p>
+<p>Os dados Google não são vendidos, utilizados para publicidade nem usados para treinar ou melhorar modelos generalizados de inteligência artificial. O uso é limitado às funções solicitadas pelo titular.</p>
+<p>Resultados brutos das ferramentas Google são minimizados antes da persistência operacional. As respostas produzidas para o titular podem permanecer no histórico normal da conversa, mas turnos que utilizam dados Google não são automaticamente promovidos para memória durável do Rocky.</p>
+</section>
+
+<section aria-labelledby="processamento">
+<h2 id="processamento">5. Processamento e serviços envolvidos</h2>
+<p>Os resultados das consultas podem integrar temporariamente o contexto do modelo de linguagem que prepara a resposta. O modelo conversacional atualmente utilizado pelo Rocky é servido por infraestrutura Ollama acessada por uma rede privada criptografada.</p>
+<p>As respostas podem ser entregues pelo WhatsApp. Quando uma resposta é convertida em áudio, o texto destinado à fala pode ser processado pela ElevenLabs. Na conta utilizada pelo Rocky, a opção de uso dos novos dados para treinamento dos modelos da ElevenLabs está desativada. Isso não significa retenção zero pelo provedor.</p>
+<p>O uso desses serviços ocorre para fornecer a funcionalidade solicitada pelo próprio titular. Mudanças materiais de finalidade ou de permissões deverão ser refletidas nesta política antes de entrarem em uso.</p>
+</section>
+
+<section aria-labelledby="armazenamento">
+<h2 id="armazenamento">6. Histórico, retenção e exclusão</h2>
+<p>O Rocky mantém histórico operacional de conversas para continuidade do serviço. O controle de privacidade aplicado às consultas Google evita que o resultado bruto dessas ferramentas seja mantido como uma cópia ordinária do conteúdo consultado.</p>
+<p>Arquivar, compactar ou reiniciar uma conversa não equivale necessariamente à eliminação imediata de todos os registros técnicos. Não é prometido um prazo único de retenção quando essa garantia não existe tecnicamente.</p>
+<p>O titular pode solicitar a exclusão de registros administrados pelo Rocky pelo contato abaixo. Dados mantidos pelo próprio Google, WhatsApp, ElevenLabs ou outros provedores continuam sujeitos aos controles e políticas desses serviços.</p>
+</section>
+
+<section aria-labelledby="revogacao">
+<h2 id="revogacao">7. Revogação do acesso Google</h2>
+<p>O titular pode revogar a autorização do Rocky nas configurações da sua Conta Google. A revogação impede novo acesso conforme o grant revogado, mas não apaga automaticamente respostas ou registros que já tenham sido legitimamente produzidos.</p>
+<p>As credenciais de contas e domínios diferentes são mantidas separadamente. A autorização de uma conta não concede automaticamente acesso a outra.</p>
+</section>
+
+<section aria-labelledby="site">
+<h2 id="site">8. Estas páginas públicas</h2>
+<p>Estas páginas são estáticas e hospedadas no GitHub Pages. Não contêm formulários, login, scripts de análise de audiência nem acesso ao ambiente administrativo do Rocky. O provedor de hospedagem pode tratar metadados técnicos da conexão segundo sua própria política.</p>
+</section>
+
+<section aria-labelledby="contato">
+<h2 id="contato">9. Contato e atualizações</h2>
+<p>Contato: <a href="mailto:rocky.suporte@gmail.com">rocky.suporte@gmail.com</a>.</p>
+<p>Esta política será atualizada quando houver mudança material nas permissões, finalidades ou fornecedores descritos.</p>
+</section>
+
+<footer>
+<p><a href="index.html">Voltar às informações do Rocky</a></p>
+<p>Atualizado em 20 de setembro de 2026.</p>
+</footer>
+</main>
+</body>
+</html>
